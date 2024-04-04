@@ -82,7 +82,7 @@ With a partner, walk through the code execution above.
 <section class="answer">
 ### How is this code executing? What details did you note?
 
-1. After `greet` has been declared and invoked, it creates a variable `firstName` and declaring a function, it immediately invokes `displayName`.
+1. After `greet` has been declared and invoked, it creates a variable `firstName` and declares a function.  The `displayName` function is then immediately invoked.
 1.  When we get to the console log for `firstName`, the JS interpreter first looks in its current scope (within `displayName`) for a `firstName` variable that it can grab the value from.
 2. It doesn't find it, so it traverses up the scope chain to the parent scope (`greet`) and again looks for a `firstName` variable to reference.
 3. It finds it here, with a value of `Alan`, so the log will say `Alan`.
@@ -107,8 +107,7 @@ function greet() {
   return displayName;
 } 
 
-var createGreeting = greet(); // createGreeting is now a function that can be invoked
-createGreeting(); // will run the displayName function and log 'Alan'
+var createGreeting = greet();
 ```
 
 - What is the value of `createGreeting`?  Are you able to acess the `displayName` function from here?
@@ -123,11 +122,11 @@ In JavaScript this isn't the case. Because there is an inner function here `disp
 </section>
 
 <section class="note">
-### What is a closure?
+### "What is a closure?"
 
-This is why "What is a closure" has become such a big question in JavaScript interviews.  Often people coming from other languages are really surprised by this different behavior since normaly the `firstName` variable would not be able to be reference.
+This is why the question, "What is a closure?", has become such a big question in JavaScript interviews.  Often people coming from other languages are really surprised by this different behavior since normaly the `firstName` variable would not be able to be reference.
 
-So our newer, better definition of a closure could now be: **When an inner function has access to the outer function's variables and can remember the environment in which it was created.** (So not only does our inner function have access to the outer function's variables, but it also remembers their values, even if the outer function has finished executing!)
+So our newer, better definition of a closure could now be: **When an inner function has access to the outer function's variables and can remember the environment in which it was created.** (*So not only does our inner function have access to the outer function's variables, but it also remembers their values, even if the outer function has finished executing!*)
 </section>
 
 ## Closures for Protecting Variables
@@ -223,7 +222,7 @@ console.log(rent.getRent()); // returns 9500
 <section class="call-to-action">
 ### A Real World Example
 
-Next week, we'll have a follow up session to explore how a closure can be used in a larger application setting.  If you're curious to explore sooner, you can clone down and explore this [IdeaBox repo](https://github.com/Kalikoze/fp-ideabox){:target="\__blank"} that implements a closure along with a number of other functional programming practices.
+Next week, we'll have a follow up session to explore how a closure can be used in a larger application setting.  If you're curious to explore sooner, you can clone down and explore this [IdeaBox repo](https://github.com/Kalikoze/fp-ideabox){:target="\__blank"} that implements a closure.  Ths project also follows a number of other functional programming conventions including keeping functions pure.
 </section>
 
 ### Additional Resources
