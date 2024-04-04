@@ -303,8 +303,8 @@ exports.seed = async function (knex) {
       title: 'Fooo', author: 'Bob', publisher: 'Minnesota'
     }, 'id')
     return knex('footnotes').insert([
-      { note: 'Lorem', paper_id: paperId[0] },
-      { note: 'Dolor', paper_id: paperId[0] }
+      { note: 'Lorem', paper_id: paperId[0].id },
+      { note: 'Dolor', paper_id: paperId[0].id }
     ])
   } catch (error) {
     console.log(`Error seeding data: ${error}`);
