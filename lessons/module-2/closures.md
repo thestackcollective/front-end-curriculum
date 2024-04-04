@@ -12,7 +12,7 @@ module: 2
 
 ## Vocab
 
-- `lexical scope` also known as static scope. Lexical scope in JavaScript means that the accessibility of a variable is determined by its location in the source code and the structure of nested functions.
+- `lexical scope` in JavaScript means that the accessibility of a variable is determined by its location in the source code and the structure of nested functions.
 - `closure` a function that has a reference to its outer/lexical environment
 
 ## Some Context
@@ -25,7 +25,7 @@ In addition to creating more efficient and maintainable code, closures can also 
 
 Though we haven't put a name to it until now, our conversations around scope and the scope chain are directly related to what we call **lexical scoping**.
 
-Lexical scoping means that our scope is determined by its location within the code at the time of its declaration.  Due to variables like `let` and `const` being **statically** bound, meaning the relationships between variables, functions, and their values are determined in the `creation-phase` (*also known as build time*), our code is more predictable and reliable in behavior. You can see lexical scope by looking directly at code below:
+Lexical scoping means that our scope is determined by its location within the code at the time of its declaration, meaning the scope is determined by its surrounding block structure.  As a result, our code is more predictable and reliable in behavior because the scope is fixed at the time of writing and does not change during execution.  Examples of lexical scope include variables like `let` and `const`, although not `var`.  `var` is `statically` scoped, meaning the value is determined during the `creation-phase` (*also known as build time*), where `hoisting` also happens. You can see lexical scope by looking directly at code below:
 
 ```js
 function eatSnack() {
