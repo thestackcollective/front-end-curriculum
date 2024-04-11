@@ -44,6 +44,10 @@ Create a summary (MVP) of what your application will do and who your application
 <section class="answer">
 ### Here is a list of some data APIs that are open to the public:
 
+* [News API](https://newsapi.org/)
+* [API hub](https://rapidapi.com/products/api-hub/)
+* [Open Web Ninja](https://www.openwebninja.com/)
+* [Zipcode API](https://zipcodestack.com/)
 * [Thesaurus](https://words.bighugelabs.com/site/api)
 * [Jokes](https://jokes.one/api/joke/)
 * [Pokemon](https://pokeapi.co/)
