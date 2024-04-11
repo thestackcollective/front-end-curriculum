@@ -46,3 +46,7 @@ Building the same application over and over isn't very valuable.  Using varied c
 ## Other APIs you might use (that probably don't allow POST)
 - [Big List of Free and Open APIs](https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/)
 - [Another Big List](https://github.com/public-apis/public-apis)
+- [News API](https://newsapi.org/)
+- [API hub](https://rapidapi.com/products/api-hub/)
+- [Open web Ninja](https://www.openwebninja.com/) - More for finding local business data, Yelp business review's data
+- [Zipcode API](https://zipcodestack.com/)
