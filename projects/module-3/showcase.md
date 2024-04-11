@@ -108,7 +108,7 @@ We also want you to choose two design inspiration pieces, which can be as broad 
 
 ## Deliverables
 
-### Day 0 Kick Off & Proposals Due (5 PM MT)
+### Day 0 Kick Off & Proposals Due By Day 1 - 12 PM MT
 
 * Add the link to your MVP proposal in [this google sheet](https://docs.google.com/spreadsheets/d/1O5tv2wxmzeJp8-vlk5bZNTtRBEYQ4Zk-0SgOuyzzVJg/edit?usp=sharing).**
 
