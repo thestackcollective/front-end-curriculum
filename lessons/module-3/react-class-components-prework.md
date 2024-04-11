@@ -99,9 +99,9 @@ class NameOfClass {
 ```js
 class User {
   constructor() {
-    name = 'Bill',
-    age = 32,
-    email = 'bill@gmail.com',
+    this.name = 'Bill',
+    this.age = 32,
+    this.email = 'bill@gmail.com',
   }
 
   updateAge() {
@@ -126,9 +126,9 @@ The constructor function can accept arguments, which allows the class to have dy
 ```js
 class User {
   constructor(name, age, email) {
-    name = name,
-    age = age,
-    email = email
+    this.name = name,
+    this.age = age,
+    this.email = email
   }
 }
 ```
@@ -146,13 +146,13 @@ const alfred = new User('Alfred', 56, 'al888@hotmail.com');
 ```js
 class User {
   constructor(name, age, email) {
-    name = name,
-    age = age,
-    email = email
+    this.name = name,
+    this.age = age,
+    this.email = email
   }
 
   updateAge() {
-    this.age = this.age++;
+    this.age++;
   }
 
   updateEmail(newEmail) {
