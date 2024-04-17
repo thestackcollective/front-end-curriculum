@@ -12,59 +12,16 @@ tags: javascript, js, this, keyword
 
 - `Invoke` / `Execute` To run a function. e.g., "I've invoked the function here"
 - `Declare` To write a function definition. Usually distinct from function execution
-- `Constructor Function` The function called to create a new instance of an object. Usually contains the code to set up the object
 
-## Defining rules about "this"
+## What is "this" in JavaScript?
 
-As we have discussed earlier, the keyword *this* in JavaScript can be confusing.  Depending on where *this* is used, it can refer to different things.  We're going to go through some examples and define a few rules that apply to the keyword *this*.
-
-<section class="call-to-action">
-### In Pairs
-
-Consider the following `Unicorn` class:
-
-```javascript
-class Unicorn {
-  constructor(name, color) {
-    // What is logged here?
-    console.log(this);  
-
-    this.name = name;
-    this.color = color;
-
-    // What changes about "this"?
-    console.log(this);  
-  }
-
-  says() {
-    console.log(`${this.name} is my favorite ${this.color} pony`, this);
-  }
-}
-```
+In JavaScript, the `this` keyword is a fundamental concept that can sometimes be confusing but is essential for understanding how functions behave and interact with objects. The value of `this` is determined by where `this` is used.  We’re going to go through some examples and define a couple of rules that apply to the keyword this.
 
 * Create a `new` instance of the `Unicorn`.  What rule can we infer about *this* when creating a `new` instance?
 * Now try running it's method, `says`.  What does *this* refer to now?  Has it changed?
-</section>
-
-<section class="answer">
-### Rule #1  
-
-*this* within function code invoked using the `new` operator refers to the new instance of that object.
-</section>
-
-
-<section class="answer">
-### Rule #2  
-
-When executing a function as a method on an object, *this* refers to that object.
-</section>
-
-### Let's confirm our theory
-
-To confirm our theory, let's try a different example that uses regular objects instead of classes.   
 
 <section class="call-to-action">
-### In your notebook
+### Warm Up
 
 Consider the following example where we have two objects that have an ES5 function set as the method:
 
@@ -93,16 +50,17 @@ voyager2.logThis();
 </section>
 
 <section class="answer">
-### Takeaway notes  
+### Rule #1
 
-* We can confirm that our previous two rules still apply.
-* The value of `this` is set when the above ES5 function is executed.
-</section>
+When executing a function as a method on an object, *this* refers to that object.
+</section>  
 
 <section class="note">
-### Another way to think of this:
+### Expanding on `this`
 
-If a function is executed and there is a `.` before the name of the function, `this` refers to whatever comes before the `.`
+The `this` keyword refers to the object that is currently executing or the context in which a function is invoked. The value of `this` is evaluated dynamically at runtime, depending on how a function is called. The same function can have different values of `this` based on where it is invoked.
+
+Another way to think of this is: if a function is executed and there is a `.` before the name of the function, `this` refers to whatever comes before the `.`
 </section>
 
 <section class="call-to-action">
@@ -131,7 +89,7 @@ const denver = {
 };
 ```
 
-Taking turns for each prompt in driver/navigator fashion, use the code snippet below and complete the following:
+Using the code snippet above, complete the following:
 
 1. Utilize the `logThis` function (by setting it as a method) so that when you execute the function it logs the following:
 ```js
@@ -171,7 +129,7 @@ logThis();
 </section>
 
 <section class="answer">
-### Rule #3  
+### Rule #2
 
 By default, *this* refers to the global object (or in the browser, the window).
 </section>
@@ -194,12 +152,12 @@ logThis();
 Strict mode was added in ECMAScript 5 and prevents certain actions while also throwing more exceptions.  You can [read more about it here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode), but just know it provides a safer feature set of JS.
 
 Simply put:
-* If your program is running in **strict mode** *and* neither of the first two rules apply, then *this* will be `undefined`.
+* If your program is running in **strict mode** *and* the first rule doesn't apply, then *this* will be `undefined`.
 </section>
 
 ### Reviewing our rules
 
-For our purposes here, these are the three main rules that *this* follows.  You might find exceptions out there especially when looking at ways that you can explicitly change the value of *this* using methods like `call`, `apply`, or `bind`, but we'll cover this another time!
+For our purposes here, these are the two main rules that *this* follows.  You might find exceptions out there especially when looking at ways that you can explicitly change the value of *this* using methods like `call`, `apply`, or `bind`, but we'll cover this another time!
 
 <section class="call-to-action">
 ### On Your Own
@@ -261,8 +219,7 @@ vampire.whatDoYouDislike()
 
 On a high level, here's what to remember:
 
-1. There are three main rules that apply to the keyword *this*.
-* *this* within function code invoked using the `new` operator refers to the new instance of that object.
+1. There are two main rules that apply to the keyword *this*.
 * When executing a function as a method on an object, *this* refers to that object.
 * By default, *this* refers to the global object (or in the browser, the window).
 2. When considering using a traditional function vs an arrow function note that:
