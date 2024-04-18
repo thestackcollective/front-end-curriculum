@@ -115,3 +115,6 @@ IDs help us accomplish a similar goal as classes do. The difference is that IDs 
 ```
 
 **Note the syntax:** to target an element by id, we preface the class name with a octothorp/pound/hashtag, `#`, in the CSS selector.
+
+## Exercise : 
+After you've completed this lesson, work through the HTML portion of this [exercise](https://github.com/turingschool-examples/profile-styler)
