@@ -91,15 +91,55 @@ Note that ES6 arrow functions have a syntax that allows for *implicit return* - 
 </section>
 
 There are many array prototype methods out there, but we are going to focus on some of these iterator methods:
+* `filter()`
 * `forEach()`
 * `map()`
 * `find()`
-* `filter()`
 * `reduce()`
 
-## How to use `Array.forEach(callbackFunction)`
+## How to use `Array.filter(callbackFunction)`
 
-First, let's do `forEach` together. The instructor will model how they would use documentation to research.
+First, let's do `filter` together. The instructor will model how they would use documentation to research.
+
+<section class="call-to-action">
+### Exercises
+
+#### Example #1
+Return a new array of *odd* numbers using the `filter` prototype method.   
+
+```js
+const numbers = [1, 2, 3, 4, 5, 6, 7];
+```  
+
+
+#### Example #2
+Create a new array of *living* beatles using the `filter` method and store them in a `livingBeatles` variable.
+```js
+var beatles = [
+  { name: 'John', living: false, instruments: ['guitar', 'bass', 'piano'] },
+  { name: 'Paul', living: true, instruments: ['bass', 'guitar', 'piano'] },
+  { name: 'George', living: false, instruments: ['guitar', 'sitar'] },
+  { name: 'Ringo', living: true, instruments: ['drums', 'bongos'] },
+];
+```  
+
+#### Example #3
+Create another array of beatles that play the guitar using the `filter` method and store them in a `guitarPlayingBeatles` variable. (*continue to use the data from above*)
+
+</section>
+
+<section class="answer">
+### Important Takeaways  
+
+Be sure to include these in your notes, if you haven't already!
+* Instead of returning the first match like `find`, `filter` will return a new **array** with all elements that match a condition.
+* Useful for when you need to find a subset of elements in an array that matches a given condition.
+* The callback needs to return a **boolean**. You also cannot modify the element you're finding.
+</section>
+
+Note that depending on the syntax you use for your callback function, you may not need to explicitly write the `return` keyword.  You can leverage the *implicit return* available in certain arrow function syntax.
+
+## How to use `Array.forEach(callbackFunction)`
 
 <section class="call-to-action">
 ### Exercises
@@ -205,7 +245,7 @@ Be sure to include these in your notes, if you haven't already!
 * The callback needs to return a **boolean**. You also cannot modify the element you're finding.
 </section>
 
-## How to use `Array.filter(callbackFunction)`
+<!-- ## How to use `Array.filter(callbackFunction)`
 
 <section class="call-to-action">
 ### Exercises
@@ -241,7 +281,7 @@ Be sure to include these in your notes, if you haven't already!
 * Instead of returning the first match like `find`, `filter` will return a new **array** with all elements that match a condition.
 * Useful for when you need to find a subset of elements in an array that matches a given condition.
 * The callback needs to return a **boolean**. You also cannot modify the element you're finding.
-</section>
+</section> -->
 
 ## How to use `Array.reduce(callbackFunction)`
 
