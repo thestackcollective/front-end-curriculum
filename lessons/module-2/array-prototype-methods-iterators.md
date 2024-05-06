@@ -86,6 +86,8 @@ Many callbacks require a return statement. Remember that these statements determ
 **You will often need *TWO* return statements in a function when working with iterator methods!**
 
 You can find more information on different prototype methods and their callbacks [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array#Instance_methods){:target='blank'}.
+
+Note that ES6 arrow functions have a syntax that allows for *implicit return* - meaning that the function IS returning a value without having to use the `return` keyword.  This is only possible in one-line arrow functions that do not open up curly braces.  More on this later.
 </section>
 
 There are many array prototype methods out there, but we are going to focus on some of these iterator methods:
@@ -131,7 +133,7 @@ const dogs = [
 
 Be sure to include these in your notes, if you haven't already!
 * `forEach` is useful when you want to perform an operation on every element in an array.
-* Is is the prototype method that is most similar to a `for` loop.
+* It is the prototype method that is most similar to a `for` loop.
 * `forEach` does **NOT** return anything (even if you have return statements).  You can push element data into another array, but the array MUST exist outside of the `forEach`.
 </section>
 
