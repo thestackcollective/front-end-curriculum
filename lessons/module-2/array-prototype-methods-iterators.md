@@ -245,44 +245,6 @@ Be sure to include these in your notes, if you haven't already!
 * The callback needs to return a **boolean**. You also cannot modify the element you're finding.
 </section>
 
-<!-- ## How to use `Array.filter(callbackFunction)`
-
-<section class="call-to-action">
-### Exercises
-
-#### Example #1
-Return a new array of *odd* numbers using the `filter` prototype method.   
-
-```js
-const numbers = [1, 2, 3, 4, 5, 6, 7];
-```  
-
-
-#### Example #2
-Create a new array of *living* beatles using the `filter` method and store them in a `livingBeatles` variable.
-```js
-var beatles = [
-  { name: 'John', living: false, instruments: ['guitar', 'bass', 'piano'] },
-  { name: 'Paul', living: true, instruments: ['bass', 'guitar', 'piano'] },
-  { name: 'George', living: false, instruments: ['guitar', 'sitar'] },
-  { name: 'Ringo', living: true, instruments: ['drums', 'bongos'] },
-];
-```  
-
-#### Example #3
-Create another array of beatles that play the guitar using the `filter` method and store them in a `guitarPlayingBeatles` variable. (*continue to use the data from above*)
-
-</section>
-
-<section class="answer">
-### Important Takeaways  
-
-Be sure to include these in your notes, if you haven't already!
-* Instead of returning the first match like `find`, `filter` will return a new **array** with all elements that match a condition.
-* Useful for when you need to find a subset of elements in an array that matches a given condition.
-* The callback needs to return a **boolean**. You also cannot modify the element you're finding.
-</section> -->
-
 ## How to use `Array.reduce(callbackFunction)`
 
 <section class="note">
