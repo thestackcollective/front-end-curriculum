@@ -307,7 +307,7 @@ Take a few minutes to consider the following questions for each of the iterator 
 - What are the mandatory parameters? Optional parameters?
 - What are common use cases? When would I use this method?
 
-As a class, let's go through these questions together in this [JamBoard](https://jamboard.google.com/d/1WHuyT2bIQsR4rZPie6KEuKsZuVYNpBKv1ZKFiokQhqA/edit?usp=sharing){:target='blank'}.
+As a class, let's go through these questions together in this [JamBoard](https://jamboard.google.com/d/1dMlfYlFx5alIyANQMLM8roC-cTy038c1iVfkg1o0hSk/edit?usp=sharing){:target='blank'}.
 </section>
 
 ## Practice
