@@ -32,9 +32,7 @@ The elements panel lets you view the entire HTML source of the current page you 
 
 ## Dev Tools Introduction
 
-Please watch the video below, the complete the exercises to work towards that muscle memory of using the dev tools!
-
-<iframe width="100%" height="560" frameborder="0" scrolling="no" src="https://screencast-o-matic.com/embed?sc=cq1IFdTk0P&v=5&ff=1" allowfullscreen="true"></iframe>
+Please watch [this video](https://www.youtube.com/watch?v=V8op4qMmSsk), the complete the exercises to work towards that muscle memory of using the dev tools!
 
 ## Dev Tools Practice Exercises
 
