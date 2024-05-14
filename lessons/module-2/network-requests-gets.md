@@ -238,7 +238,9 @@ Explanation: Parameters are scoped to their function, so you cannot reference a 
 Explanation: `.then` always returns a Promise, and when that promise resolves, it evaluates to whatever the callback returns and hands it off to the next `.then`. The callback function on line 3 does not return anything, so `undefined` is the value handed off to the `.then` in line 4, stored in the `data` parameter.
 </section>
 
-**Big takeaway:** Console logs are great as you're coding as a way to see what the data looks like that is coming through. BUT! Once you're ready to actually do things with that data, you'll want to remove your console logs OR have the console log in the same callback function as your logic, like this:  
+**Big takeaways:** 
+1. Its important to be aware of what each step is returning.  Fetch returns a promise.  Each .then() returns a promise.  The callback function of the first .then() must return the json'd response object. Often this is happening implicitly as a one-line arrow function.  However, if you open up curly braces to include a console log, that return is no longer happening implicitly so you need to explictly return the `response.json()` using the `return` keyword.
+2. Console logs are great as you're coding as a way to see what the data looks like that is coming through. BUT! Once you're ready to actually do things with that data, you'll want to remove your console logs OR have the console log in the same callback function as your logic, like this:  
 
 ```js
 fetch('some_url')
