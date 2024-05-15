@@ -29,4 +29,4 @@ You may NOT take any creative liberties with this design. You should act as thou
 - This page does not need to be responsive for multiple screen sizes.  However, the application should take up the entire display on desktop (*there should be no visible margins*).
 - There does not need to be any JavaScript for this project. It will be a static page with no functionality.
 
-![dog party comp](./assets/dog-party-spec.png)
+![dog party comp](../assets/dog-party-spec.png)
