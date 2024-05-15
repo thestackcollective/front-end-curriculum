@@ -100,7 +100,7 @@ Now, let's put your knowledge into practice with some exercises.
 <section class="call-to-action">
 ### Exercise
 
-Let's get some practice with these concepts working with a static e-commerce website .  Clone down this [repo](https://github.com/turingschool-examples/advanced-css-ecommerce-dashboard/blob/main/README.md){:target="_blank"} following the setup instructions and work through the iterations in the instructions to refactor the site using what you've learned!
+Let's get some practice with these concepts working with a static e-commerce website .  Clone down this [repo](https://frontend.turing.edu/lessons/module-2/advanced-css.html){:target="_blank"} following the setup instructions and work through the iterations in the instructions to refactor the site using what you've learned!
 </section>
 
 <section class="checks-for-understanding">
