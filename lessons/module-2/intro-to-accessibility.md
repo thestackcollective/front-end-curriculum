@@ -124,13 +124,14 @@ Go to a site you're less familiar with, and try to accomplish a specific task ju
 
 * go to the United Airlines website and try to book a flight outta here
 * go to USPS and try to calculate the price of a package shipping
-* go to Facebook and try to comment on a post)
+* go to Facebook and try to comment on a post
+* go to your grocery store site and add some things to your cart
 
 No use of the trackpad is allowed!
 
 **Questions:**
 * What was your experience like? Was anything frustrating or confusing about the process? What could you do to solve the frustrations you encountered?
-* How was the focus on your current selection? Did you tab into the drop down menus for selecting a car make and model?
+* How was the focus on your current selection? Did you tab into any drop down menus for selecting specific options?
 </section>
 
 ## Station Four
