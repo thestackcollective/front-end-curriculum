@@ -304,6 +304,12 @@ In this example, we've extended the `Course` interface to include a new property
 
 TypeScript offers powerful tools to write safer and more robust code compared to JavaScript. By understanding and using its type system, interfaces, and advanced features like generics, developers can catch errors early, improve code readability, and manage large codebases more effectively.
 
+<section class="note">
+### Incorporating TypeScript in Future Projects
+
+Implementing TypeScript in an application that interacts with the DOM will require some extra research on your part.  We suggest starting your research by looking into how TypeScript can handle the `event` object.  Setup instructions to add TypeScript into your group project are already included in the `README.md` file.  We'll also have an opportunity to practice TypeScript in a coding challenge this Friday!
+</section>
+
 <section class="checks-for-understanding">
 ### Final Checks for Understanding
 
@@ -314,7 +320,13 @@ Using your journal, take a few minutes to answer the following questions:
 3. What are interfaces in TypeScript and how do they improve code quality?
 </section>
 
-## Further Reading
+<section class="call-to-action">
+### Looking for Additional Practice?
+
+You can continue to get extra practice converting JavaScript into Typescript with the following exercise.  Clone down this [repo](https://github.com/turingschool-examples/js-to-typescript-practice){:target="_blank"} and follow the instructions in the `README.md` to complete the exercise.
+
+Once you have finished the exercise, you can compare your solution to the solution in the `ts-solution` branch.
+</section>
 - [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html){:target="_blank"}
 - [TypeScript Playground](https://www.typescriptlang.org/playground/){:target="_blank"}
 - [TypeScript for Beginners](https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html){:target="_blank"}
