@@ -152,8 +152,9 @@ console.log(greet("Bob", "Hi"));
 <section class="call-to-action">
 ### Checks for Understanding
 
-1. Define a function in TypeScript that takes two numbers as arguments and returns their product within a message: `The product of 2 and 3 is 6`. Ensure proper type annotations are used.
-2. Modify the following function to include default parameter values for `taxRate` and `discount`:
+1. Define a function in TypeScript that takes two numbers as arguments and returns the product. (*the returned value should be a number*).  
+2. Now modify to the function to return a message instead: `The product of 2 and 3 is 6`. *Note the difference in output compared to the previous iteration. Did you get an error after having changed the return type?  If so, make sure to update the type annotation for the function to match the new return type.*
+3. Modify the following function to include default parameter values for `taxRate` and `discount`:
 ```ts
 function calculateTotalPrice(price: number, taxRate: number, discount: number): number {
   const taxAmount = price * taxRate;
