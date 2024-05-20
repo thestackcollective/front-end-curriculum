@@ -164,8 +164,15 @@ Browser vendors are beginning to work some accessibility checks directly into ou
 **Lighthouse**
 * Open up your dev tools panel on the current lesson plan.
 * Click on the 'Lightouse' panel of dev tools
-* Select the following [settings](https://imgur.com/QMMFc0R) to run an accessibility check on the page
-* Click 'Generate Report' (your dev tools may disappear for a while, or your screen may go blank, just wait it out)
+* Select the following  options to run an accessibility check on the page
+  * Navigation (Default)
+  * Desktop
+  * Accessibility (ensure you have only this option checked)
+* Click 'Analyze Page Load' (your dev tools may disappear for a while, or your screen may go blank, just wait it out)
+* Take time to look into:
+  * Navigation Items - open the drop down to learn more
+  * Additional Items to Manually Check - click 'Show' to see the list of items you should check manually
+  * Passed Audits - click 'Show' to see what the audit checked for specifically 
 
 **WAVE Evaluation Tool**
 * Download the [Chrome Extension](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh?hl=en-US)
