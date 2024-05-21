@@ -111,7 +111,7 @@ Nesting allows you to define styles for nested elements in a more intuitive and 
 
 In this example, we define styles for a navigation bar and its nested list items and links. The nesting structure mirrors the HTML structure, making it easier to understand and maintain the CSS code.
 
-<section class="solution">
+<section class="answer">
 ### CSS Without Nesting
 
 Here is what the CSS would look like without nesting:
