@@ -131,6 +131,8 @@ Now, let's put your knowledge into practice with some exercises.
 ### Exercise
 
 Let's get some practice with these concepts working with a static e-commerce website .  Clone down this [repo](https://github.com/turingschool-examples/advanced-css-ecommerce-dashboard){:target="_blank"} following the setup instructions and work through the iterations in the instructions to refactor the site using what you've learned!
+
+Once you have finished the exercise, you can compare your solution to the solution in the `solution` branch.
 </section>
 
 <section class="checks-for-understanding">
