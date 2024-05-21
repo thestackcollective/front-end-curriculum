@@ -36,6 +36,36 @@ CSS variables, also known as custom properties, allow you to store and reuse val
 
 In this example, we define primary and secondary colors as CSS variables and apply them to an HTML element. This way, if we need to change the color scheme of our website, we only need to update the variable values in one place.
 
+<section class="note">
+### Other Ways of Declaring Variables
+
+While it is mostly common to define variables at the root level, you can also define them within a specific selector.  This can be helpful if you want to define a variable that is only used within a specific selector.  Note that variables will cascade down the CSS file similar to how other CSS styles cascade down the file.  If you define a variable at the root level, it will be available to all selectors within the file.  If you define a variable within a selector, it will only be available to selectors within that specific selector.  An example might look like:
+
+```css
+:root {
+  --main-color: #3498db;
+  --padding: 10px;
+}
+
+.container {
+  --main-color: #2ecc71; /* Overriding the root variable */
+  padding: var(--padding);
+  background-color: var(--main-color);
+}
+
+.container .header {
+  --main-color: #e74c3c; /* Overriding the container variable */
+  padding: var(--padding);
+  background-color: var(--main-color);
+}
+
+.container .content {
+  padding: var(--padding);
+  background-color: var(--main-color); /* Inherits from .container making the value #2ecc71 */
+}
+```
+</section>
+
 ## Nesting in CSS
 Nesting allows you to define styles for nested elements in a more intuitive and readable way. This is particularly useful when working with complex HTML structures.
 
@@ -100,7 +130,7 @@ Now, let's put your knowledge into practice with some exercises.
 <section class="call-to-action">
 ### Exercise
 
-Let's get some practice with these concepts working with a static e-commerce website .  Clone down this [repo](https://frontend.turing.edu/lessons/module-2/advanced-css.html){:target="_blank"} following the setup instructions and work through the iterations in the instructions to refactor the site using what you've learned!
+Let's get some practice with these concepts working with a static e-commerce website .  Clone down this [repo](https://github.com/turingschool-examples/advanced-css-ecommerce-dashboard){:target="_blank"} following the setup instructions and work through the iterations in the instructions to refactor the site using what you've learned!
 </section>
 
 <section class="checks-for-understanding">
