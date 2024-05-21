@@ -39,8 +39,17 @@ In this example, we define primary and secondary colors as CSS variables and app
 <section class="note">
 ### Other Ways of Declaring Variables
 
-While it is mostly common to define variables at the root level, you can also define them within a specific selector.  This can be helpful if you want to define a variable that is only used within a specific selector.  Note that variables will cascade down the CSS file similar to how other CSS styles cascade down the file.  If you define a variable at the root level, it will be available to all selectors within the file.  If you define a variable within a selector, it will only be available to selectors within that specific selector.  An example might look like:
+While it is mostly common to define variables at the root level, you can also define them within a specific selector.  This can be helpful if you want to define a variable that is only used within a specific selector.  Note that variables will cascade down the CSS file similar to how other CSS styles cascade down the file.  If you define a variable at the root level, it will be available to all selectors within the file.  If you define a variable within a selector, it will only be available to selectors within that specific selector.  Consider the following:
 
+**HTML**:
+```html
+<div class="container">
+  <div class="header">Header</div>
+  <div class="content">Content</div>
+</div>
+```
+
+**CSS**:
 ```css
 :root {
   --main-color: #3498db;
