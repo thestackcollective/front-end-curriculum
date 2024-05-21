@@ -33,6 +33,9 @@ JavaScript is dynamically typed, meaning variable types are determined at runtim
 <section class="call-to-action">
 ### Example of JavaScript vs TypeScript
 
+**Note:** *For all of today's exercises, we'll use [TypeScript Playground](https://www.typescriptlang.org/playground/){:target="_blank"}.  This has TypeScript already incorporated into it and runs significantly better than using Repl.*
+
+
 **JavaScript:**
 ```js
 let greeting = "Hello, world!";
