@@ -31,7 +31,7 @@ If you want an opportunity to practice TypeScript even more and see how it can b
 ### Iteration 0 - Explore
 First, if you've never played [Wordle](https://www.nytimes.com/games/wordle/index.html){:target='blank'}, take a couple of minutes to play it. This will help you understand how the general game play of Turdle is meant to work. Note that Wordle is only meant to be played once a day, so you'll only get one round of gameplay. Luckily for you, Turdle can be played as much as you'd like!   
 
-Once you have a good idea of how Wordle works, play a few rounds of Turdle (`open index.html`). Click around the app and find all the functionality that exists so far. You might notice that some things aren't working as expected - for example, nothing happens when you lose and the game stats are missing. That's okay for now - you're going to fix those issues later 🙂  
+Once you have a good idea of how Wordle works, play a few rounds of Turdle (`npm start`). Click around the app and find all the functionality that exists so far. You might notice that some things aren't working as expected - for example, nothing happens when you lose and the game stats are missing. That's okay for now - you're going to fix those issues later 🙂  
 
 Now that you've explored the app, it's time to explore the code. Spend some time (at least 15 minutes) exploring the existing codebase. We recommend trying to follow the logic of the gameplay in the code. Adding console.logs is a great way to check the values of variables, parameters, and function outputs. Feel free to add lots of comments to the code to help you remember all that you discover. [Here is a great article about how to digest a new codebase.](https://dev.to/ericweissman/diving-into-a-new-codebase-4b38){:target='blank'}
 
