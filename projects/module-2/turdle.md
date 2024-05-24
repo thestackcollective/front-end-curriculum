@@ -20,6 +20,12 @@ This is ungraded, so there is no pressure on today and no need to rush. Get as f
 ## Set Up
 Open up [the starter repo](https://github.com/turingschool-examples/turdle){:target='blank'} and follow the directions in the README. Complete the following iterations in order.
 
+<section class="note">
+### 🌶️ Looking For a Way To Spice It Up? 🌶️
+
+If you want an opportunity to practice TypeScript even more and see how it can be utilized with DOM manipulation, you can start the exercise by checking out the `ts-starter` branch of the repo. This will give you a head start on the TypeScript version of the project.  The following iterations will be the same, but you'll be required to use TypeScript to complete them.
+</section>
+
 ## Iterations
 <section class="answer">
 ### Iteration 0 - Explore
@@ -91,7 +97,7 @@ Now let's implement a POST so that the game stats persist even when the applicat
 
 You should POST the stats when the game is over (win or lose) and you should GET the game stats when the user clicks on the **stats** button in the nav bar.
 
-If you need a refresher on POSTing, review [the POST lesson](https://frontend.turing.edu/lessons/module-2/network-requests-posts.html){:target='blank'}!
+This iteration will require pre-reading the [the POST lesson](https://frontend.turing.edu/lessons/module-2/network-requests-posts.html){:target='blank'}!
 </section>
 
 <section class="answer">
