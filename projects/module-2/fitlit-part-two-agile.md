@@ -119,7 +119,13 @@ Make proper error handling for your users to ensure they GET data and submit the
 
 ## Iteration 7 - Differentiation Tracks
 
-Instructors will assign each team **one** of these tracks to work through.
+Your team will choose **one** of the following tracks to work through. Please DM your instructor the track you would like to work on by **EOD on Monday**.  *Remember to include the "definition of done" for your track in your DM.*
+
+<section class="answer">
+### Add TypeScript
+
+Add type checking to your application using TypeScript.  Setup instructions for adding TypeScript to your project are noted in the [starter kit's README](https://github.com/turingschool-examples/fitlit-starter-kit){:target='blank'}.
+</section>
   
 <section class="answer">
 ### Step Challenge
