@@ -186,7 +186,8 @@ Instead, for your tests, you should create small, sample datasets that match the
     * [Micromodal](https://www.npmjs.com/package/micromodal){:target='blank'}
     * [GlideJS](https://www.npmjs.com/package/@glidejs/glide){:target='blank'}
     * [InteractJS](https://interactjs.io/){:target='blank'}
-    * [DayJS](https://www.npmjs.com/package/dayjs)
+    * [DayJS](https://www.npmjs.com/package/dayjs){:target='blank'}
+- Add type checking to your application using TypeScript.  Setup instructions for adding TypeScript to your project are noted in the README.
 - Choose your own extension!
 
 ## Minimum Professionalism Expectations
