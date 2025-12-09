@@ -37,12 +37,12 @@
 
 .call-to-action {
   @extend %call-to-action-shared;
-  border-left: 8px solid lighten($turing-secondary, 25%);
+  border-left: 8px solid lighten($thestackcollective-secondary, 25%);
 }
 
 .checks-for-understanding {
   @extend %call-to-action-shared;
-  border-left: 8px solid lighten($turing-secondary, 25%);
+  border-left: 8px solid lighten($thestackcollective-secondary, 25%);
   background-color: lighten($thestackcollective-primary, 40%);
 }
 

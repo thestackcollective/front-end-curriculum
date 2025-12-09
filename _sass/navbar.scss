@@ -30,7 +30,7 @@ nav {
   li:not(:first-child) {
     // Hover border does not apply to logo
     a:hover {
-      border-bottom: 3px solid lighten($turing-secondary, 25%);
+      border-bottom: 3px solid lighten($thestackcollective-secondary, 25%);
     }
   }
 
@@ -45,7 +45,7 @@ nav {
 .nav-links a.active-link {
   // This border does not get applied to logo
   // because of code in active-links.js file
-  border-bottom: 3px solid lighten($turing-secondary, 25%);
+  border-bottom: 3px solid lighten($thestackcollective-secondary, 25%);
 }
 
 @media (max-width: $tablet-width) {
