@@ -130,7 +130,7 @@ function sayHello(name) {
   console.log('Hello, ' + name + '!');
 }
 
-sayHello('Alan Turing'); // Logs 'Hello, Alan Turing!'
+sayHello('Alan TheStackCollective'); // Logs 'Hello, Alan TheStackCollective!'
 sayHello; // Doesn't log anything. The function was never called.
 sayHello(); // Logs 'Hello, undefined!' but does not raise an argument error.
 

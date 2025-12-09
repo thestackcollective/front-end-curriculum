@@ -49,7 +49,7 @@ While reviewing the code, ask yourself the following questions:
 
 *Fundamental JavaScript & Style*
 - Is all the code easily understood?
-- Does it conform to [Turing's Style Guide](https://github.com/turingschool-examples/javascript)? These will usually cover location of braces, variable and function names, line length, indentations, formatting, and comments. How many errors or warning show when the linter is run?  
+- Does it conform to [TheStackCollective's Style Guide](https://github.com/turingschool-examples/javascript)? These will usually cover location of braces, variable and function names, line length, indentations, formatting, and comments. How many errors or warning show when the linter is run?  
 - Is there any redundant or duplicate code?
 - Is there any commented out code? Any console.logs?
 - Do the names used in the application convey intent?

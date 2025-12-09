@@ -5,7 +5,7 @@ module: 4
 
 ## Goals
 
-By the end of this project, you will have a well documented portfolio of work that you have completed over your time at Turing. 
+By the end of this project, you will have a well documented portfolio of work that you have completed over your time at TheStackCollective. 
 
 During your career, it is wise to collect and document your abilities and the work you have put in to become better at programming. It's helpful to collect this information about yourself when it comes time to ask for a raise, get a new job, or even just sit down and confirm that you're on the right self learning path.
 

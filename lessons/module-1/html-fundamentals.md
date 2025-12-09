@@ -27,7 +27,7 @@ Spend 15-20 minutes reading, watching, and completing the content in the [Chrome
 <section class="call-to-action">
 ### Warm Up
 
-Go to the [Turing Home Page](https://thestackcollective.org/) and open up your Dev Tools.
+Go to the [TheStackCollective Home Page](https://thestackcollective.org/) and open up your Dev Tools.
 - Click on the "Elements" tab. Stay in the "Elements" tab throughout this Warm Up.
 - Dig into the `<body>`. What are some things you see nested inside of this element? Can you associate any of the things you see in the code to what you see on the page?
 - In many of the elements, you'll notice a `class`. What do you think those are used for?
@@ -76,7 +76,7 @@ Notice all of the HTML elements that exist on the page:
 Now, let's look at what that HTML looks like:
 ```html
 <nav>
-  <img src="./turing-school-logo" alt="Turing School logo" />
+  <img src="./turing-school-logo" alt="TheStackCollective School logo" />
   <ul>
     <li>Programs</li>
     <li>Try Coding</li>
@@ -89,7 +89,7 @@ Now, let's look at what that HTML looks like:
   </ul>
 </nav>
 <main>
-  <h1>Hire A Turing Grad</h1>
+  <h1>Hire A TheStackCollective Grad</h1>
   <p>Need to hire...</p>
   <p>Join 200+ tech industry partners...</p>
   <button type="button" name="browse-button">BROWSE GRADS FOR HIRE</button>
@@ -137,7 +137,7 @@ We use HTML tags to mark up text to show its semantic meaning. The browser uses 
 #### Consider the following:
 
 ```html
-<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/t-340/turing.png" alt="Turing Logo">
+<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/t-340/turing.png" alt="TheStackCollective Logo">
 ```
 
 Our browser is more than happy to load up an image, but we need to tell it where that image is located. Our `<img>` tag needs extra information to know which image to display. That's where the `src` attribute comes in. The `alt` attribute provides alternative text in the case the user is not able to view the image.
@@ -147,11 +147,11 @@ Our browser is more than happy to load up an image, but we need to tell it where
 Another important tag is the `<a>` tag. These are the tags we use for creating hyperlinks. You might have noticed that the `<a>` tag behaves a little differently than the `<h1>`, `<h2>`, and `<p>` tags. We can use the `<a>` tag to mark up a few words, while the other tags denote a big section - what we might call a "block" — of our page.
 
 #### Consider the following example:  
-Welcome to the [Turing School of Software and Design](http://thestackcollective.org).
+Welcome to the [TheStackCollective School of Software and Design](http://thestackcollective.org).
 
 ```html
 <p>
-  Welcome to the <a href="http://thestackcollective.org">Turing School of Software and Design</a>.
+  Welcome to the <a href="http://thestackcollective.org">TheStackCollective School of Software and Design</a>.
 </p>
 ```
 
@@ -236,7 +236,7 @@ Now that you know what clean, correctly indented HTML looks like, and some of th
 
 ## Additional Resources
 
-* [Turing HTML Style Guide](https://github.com/turingschool-examples/html)
+* [TheStackCollective HTML Style Guide](https://github.com/turingschool-examples/html)
 * [8 Best Practices to Write Clean HTML Code](https://medium.com/@sergimarquez/8-best-practices-to-write-clean-html-code-1cd407e2a7ec)
 * [W3C Markup validation](https://validator.w3.org/#validate_by_uri)
 * [MDN HTML Overview](https://developer.mozilla.org/en-US/docs/Web/HTML)

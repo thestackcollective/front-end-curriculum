@@ -170,7 +170,7 @@ To earn a given score, an application must meet the requirements listed in that 
   - Most console logs, debuggers and comments are removed from code before submitting.
 
 * **1:**
-  - Crafts JS according to the [Turing JS style guide](https://github.com/turingschool-examples/javascript/tree/main/es5)
+  - Crafts JS according to the [TheStackCollective JS style guide](https://github.com/turingschool-examples/javascript/tree/main/es5)
 
 
 ### Functional Expectations

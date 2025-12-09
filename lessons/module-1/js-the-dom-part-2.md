@@ -74,7 +74,7 @@ for (var i = 0; i < awesomeParas.length; i++) {
 </section>
 <p class="codepen" data-height="300" data-theme-id="37918" data-default-tab="html,result" data-user="turing-school" data-slug-hash="ExxyRPq" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Simple HTML Page (Now with JavaScript!)">
   <span>See the Pen <a href="https://codepen.io/turing-school/pen/ExxyRPq">
-  Simple HTML Page (Now with JavaScript!)</a> by Turing School (<a href="https://codepen.io/turing-school">@turing-school</a>)
+  Simple HTML Page (Now with JavaScript!)</a> by TheStackCollective School (<a href="https://codepen.io/turing-school">@turing-school</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
@@ -95,7 +95,7 @@ Visit <a href="https://codepen.io/eric_turing/pen/QWLNaVE" target="blank">this p
 
 <p class="codepen" data-height="300" data-theme-id="37918" data-default-tab="html,result" data-user="turing-school" data-slug-hash="vYYKrGy" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="HTML Report Card">
   <span>See the Pen <a href="https://codepen.io/turing-school/pen/vYYKrGy">
-  HTML Report Card</a> by Turing School (<a href="https://codepen.io/turing-school">@turing-school</a>)
+  HTML Report Card</a> by TheStackCollective School (<a href="https://codepen.io/turing-school">@turing-school</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>

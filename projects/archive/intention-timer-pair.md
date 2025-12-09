@@ -163,7 +163,7 @@ To earn a given score, an application must meet the requirements listed in that 
 * **2:** 
   - Application implements most major comp details accurately and correctly on desktop (colors, fonts, icons, spacing, alignment,  etc.).
 * **1:** 
-  - Crafts markup according to the [Turing CSS style guide](https://github.com/turingschool-examples/css)
+  - Crafts markup according to the [TheStackCollective CSS style guide](https://github.com/turingschool-examples/css)
 
 ### HTML - Style and Implementation
 
@@ -176,7 +176,7 @@ To earn a given score, an application must meet the requirements listed in that 
   - Application adds to the above with HTML that incorporates semantic HTML elements whenever possible
   - Application has a simple, clean HTML structure
 * **1:** 
-  - Crafts markup according to the [Turing HTML style guide](https://github.com/turingschool-examples/html)
+  - Crafts markup according to the [TheStackCollective HTML style guide](https://github.com/turingschool-examples/html)
 * **0:**
   - HTML is not formatted properly
 
@@ -191,7 +191,7 @@ To earn a given score, an application must meet the requirements listed in that 
   - Application adds organizational conventions for the whole stylesheet
   - Application has 5 or fewer media queries for responsiveness
 * **1:** 
-  - Crafts CSS according to the [Turing CSS style guide](https://github.com/turingschool-examples/css)
+  - Crafts CSS according to the [TheStackCollective CSS style guide](https://github.com/turingschool-examples/css)
 * **0:**
   - CSS is not formatted properly
   - Application is not responsive
@@ -215,7 +215,7 @@ To earn a given score, an application must meet the requirements listed in that 
   * Application uses if/else statements to handle multiple paths of logic/error handling
   * Application fails to fully separate data-model and presentational logic (DOM) - example: there is DOM logic in the `Activity` class
 * **1:** 
-  * Crafts JS according to the [Turing JS style guide](https://github.com/turingschool-examples/javascript/tree/master/es5)
+  * Crafts JS according to the [TheStackCollective JS style guide](https://github.com/turingschool-examples/javascript/tree/master/es5)
 * **0:**
   * JS is not formatted properly
 

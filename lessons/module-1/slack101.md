@@ -7,7 +7,7 @@ tags: slack
 
 ## Slack basics
 
-Some of you are brand new to Slack, and others of you might be a bit more familiar. Slack is essential to how we organize, collaborate and stay up to date at Turing and (most likely) on the job. It’s a professional tool you’ll be using for the foreseeable future. Slack can be overwhelming or even truly unruly so here are some of our favorite tips for managing and leveraging slack. 
+Some of you are brand new to Slack, and others of you might be a bit more familiar. Slack is essential to how we organize, collaborate and stay up to date at TheStackCollective and (most likely) on the job. It’s a professional tool you’ll be using for the foreseeable future. Slack can be overwhelming or even truly unruly so here are some of our favorite tips for managing and leveraging slack. 
 
 ### Notifications
 
@@ -89,8 +89,8 @@ You can add a gif to your message by using a slash command: `/giphy [search phra
 
 You can access the emoji panel via shortcuts too. Just type `:` followed by the name of the emoji, and finally one more `:`. so if I type `:smile:` , I’ll get this: 😀.  
 
-You can make your own emoji! click the smiley face on the bottom right of the message box, then click add emoji. The Turing slack has **a lot** of custom emojis.
+You can make your own emoji! click the smiley face on the bottom right of the message box, then click add emoji. The TheStackCollective slack has **a lot** of custom emojis.
 
 Type `/shrug` and SEND IT. Just trust us.
 
-That's it! You're a Slack whiz now! If you ever have questions about Slack or communication at Turing, just post a question about it...**in Slack**! 😉
+That's it! You're a Slack whiz now! If you ever have questions about Slack or communication at TheStackCollective, just post a question about it...**in Slack**! 😉

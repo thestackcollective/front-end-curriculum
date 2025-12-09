@@ -123,4 +123,4 @@ For now, don't worry about the social media icons; focus on the bigger elements 
 
 ## Additional Resources
 
-* [Turing CSS Style Guide](https://github.com/turingschool-examples/css)
+* [TheStackCollective CSS Style Guide](https://github.com/turingschool-examples/css)

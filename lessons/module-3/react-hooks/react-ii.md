@@ -58,7 +58,7 @@ found 0 vulnerabilities
 
 Initialized a git repository.
 
-Success! Created ideabox at /Users/leta/Turing/TA/MOD3/m3curriculum/ideabox
+Success! Created ideabox at /Users/leta/TheStackCollective/TA/MOD3/m3curriculum/ideabox
 Inside that directory, you can run several commands:
 
   npm start

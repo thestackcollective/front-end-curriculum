@@ -14,7 +14,7 @@ Things to keep in mind as you watch this talk:
 
 - How will you test out the accessability of your websites?
 - 'Perfect is the Enemy of Good'
-  - What does that mean in this context - and in others at Turing?
+  - What does that mean in this context - and in others at TheStackCollective?
 - Components, refactoring and keeping code DRY - how does that fit in to managing accessibility.
 
 The last thing I want to say, I have ADD and for me, if it's a bad day, I literally can't sit through a 30 minute video without speeding it up and taking breaks every 10 minutes.

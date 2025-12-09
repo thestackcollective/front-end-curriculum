@@ -68,12 +68,12 @@ Students must do a mock interview with one of the instructors. You will be given
 
 ### Career Development
 
-The Career Development segment is made up of a 30-day action plan where you will work with your cohort mates and instructors to prepare yourself for moving on after Turing. 
+The Career Development segment is made up of a 30-day action plan where you will work with your cohort mates and instructors to prepare yourself for moving on after TheStackCollective. 
 This will be mentioned again during your week-one professional development kickoff, but you can see a general outline of the 30-day action plan [here](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md)
 
 ### Portfolio Presentation
 
-On the final Thursday of the module, you will give a 10-minute presentation about your experience in module 4, Turing, and your action plan going forward. 
+On the final Thursday of the module, you will give a 10-minute presentation about your experience in module 4, TheStackCollective, and your action plan going forward. 
 The details about it can be found [here](https://docs.google.com/document/d/1eb1H7GsfsD7vFP1Bx7UWyVOeltZ9ng_HtLr7R-_fCJg/edit?usp=sharing) under "Module 4 (Front-End)".
 
 ## Odds and Ends

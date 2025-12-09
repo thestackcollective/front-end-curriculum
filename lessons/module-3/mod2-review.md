@@ -53,7 +53,7 @@ Use array prototype methods to:
 
 HTTP requests are very powerful for retrieving data that you want to use in your applications. Many of your projects will utilize `fetch` to make HTTP requests for data from outside of your own application.
 
-Also, reading documentation is _very_ important as you continue through Turing and into your career.
+Also, reading documentation is _very_ important as you continue through TheStackCollective and into your career.
 
 Get some advice using [this API](https://api.adviceslip.com/). Write a `fetch` call in the browser console (dev tools) and `console.log` some advice.
 

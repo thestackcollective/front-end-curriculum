@@ -183,9 +183,9 @@ The reason this is not preferred is we usually want to make more than one tiny c
 <section class="note">
 ### Then Why Bring It Up?
 
-Often times, your instructors at Turing will share with you an overview of something, including the multiple ways something can be done, but tell you that one is preferred. Why do we bother to bring up the less-than-ideal approaches?
+Often times, your instructors at TheStackCollective will share with you an overview of something, including the multiple ways something can be done, but tell you that one is preferred. Why do we bother to bring up the less-than-ideal approaches?
 
-As a developer, a huge part of your job is researching and learning on your own. That will also be a huge part of being a student at Turing. You'll sift through documentation, blog posts, and Stack Overflow posts. It's important to be familiar with the multiple ways of doing things, different syntax, best practices, etc. so you can more easily sift through those resources and determine what is good and helpful.
+As a developer, a huge part of your job is researching and learning on your own. That will also be a huge part of being a student at TheStackCollective. You'll sift through documentation, blog posts, and Stack Overflow posts. It's important to be familiar with the multiple ways of doing things, different syntax, best practices, etc. so you can more easily sift through those resources and determine what is good and helpful.
 </section>
 
 ### Add or Remove Classes from the Element

@@ -13,7 +13,7 @@ Similar to what you might be asked to do on the job, we’ve given you the comps
 ## Learning Goals
 
 - accurately build a provided comp
-- write well structured and semantic HTML (according to the [Turing Style Guide](https://github.com/turingschool-examples/html))
+- write well structured and semantic HTML (according to the [TheStackCollective Style Guide](https://github.com/turingschool-examples/html))
 - craft clean and DRY CSS
 - use JavaScript to interact with the DOM
 

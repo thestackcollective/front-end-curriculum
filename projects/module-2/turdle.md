@@ -7,7 +7,7 @@ tags: javascript, css, html, refactor
 ![turdle desktop](/assets/images/projects/turdle/turdle.png)
 
 ## Purpose
-As a developer, you will most likely spend most of your time working with existing codebases. It'll be rare that you'll be starting a project from scratch like you've been doing at Turing. We'd like to provide some practice for you to get your hands into existing code. Today, you'll fix bugs, add features, refactor, and more! It might seem weird or intimidating at first, but follow the instructions closely and use all the habits and tricks you've learned so far. You can do this!  
+As a developer, you will most likely spend most of your time working with existing codebases. It'll be rare that you'll be starting a project from scratch like you've been doing at TheStackCollective. We'd like to provide some practice for you to get your hands into existing code. Today, you'll fix bugs, add features, refactor, and more! It might seem weird or intimidating at first, but follow the instructions closely and use all the habits and tricks you've learned so far. You can do this!  
 
 ## Guidelines
 You can change the existing codebase however you see fit to accomplish the tasks ahead of you. Want to add another function? Do it! Need another variable? Make it! Hate the way an existing function is written? Refactor it! Today is all about exploration, so dig in and have fun!   

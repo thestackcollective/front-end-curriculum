@@ -34,7 +34,7 @@ Normal block level elements, like the `section`s and `article`s we've all come t
 
 <p class="codepen" data-height="300" data-theme-id="37918" data-default-tab="html,result" data-user="turing-school" data-slug-hash="vYYNywM" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Grid Lab">
   <span>See the Pen <a href="https://codepen.io/turing-school/pen/vYYNywM">
-  Grid Lab</a> by Turing School (<a href="https://codepen.io/turing-school">@turing-school</a>)
+  Grid Lab</a> by TheStackCollective School (<a href="https://codepen.io/turing-school">@turing-school</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
@@ -45,7 +45,7 @@ Similar to implementing Flexbox, we apply `display: grid;` to the parent element
 
 <p class="codepen" data-height="300" data-theme-id="37918" data-default-tab="html,result" data-user="turing-school" data-slug-hash="MWWabMo" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Grid Lab 2">
   <span>See the Pen <a href="https://codepen.io/turing-school/pen/MWWabMo">
-  Grid Lab 2</a> by Turing School (<a href="https://codepen.io/turing-school">@turing-school</a>)
+  Grid Lab 2</a> by TheStackCollective School (<a href="https://codepen.io/turing-school">@turing-school</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
@@ -56,7 +56,7 @@ We can give each column fixed units.
 
 <p class="codepen" data-height="300" data-theme-id="37918" data-default-tab="html,result" data-user="turing-school" data-slug-hash="ExxVNBL" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Grid Lab 3">
   <span>See the Pen <a href="https://codepen.io/turing-school/pen/ExxVNBL">
-  Grid Lab 3</a> by Turing School (<a href="https://codepen.io/turing-school">@turing-school</a>)
+  Grid Lab 3</a> by TheStackCollective School (<a href="https://codepen.io/turing-school">@turing-school</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
@@ -80,7 +80,7 @@ We can also use a unit that will take up a fraction of the grid - `fr`. In the e
 
 <p class="codepen" data-height="300" data-theme-id="37918" data-default-tab="html,result" data-user="turing-school" data-slug-hash="OJJybKV" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Grid Lab 4">
   <span>See the Pen <a href="https://codepen.io/turing-school/pen/OJJybKV">
-  Grid Lab 4</a> by Turing School (<a href="https://codepen.io/turing-school">@turing-school</a>)
+  Grid Lab 4</a> by TheStackCollective School (<a href="https://codepen.io/turing-school">@turing-school</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
@@ -101,7 +101,7 @@ So far, our grid rows have been implicitly set. But you can also explicitly set 
 
 <p class="codepen" data-height="300" data-theme-id="37918" data-default-tab="html,result" data-user="turing-school" data-slug-hash="MWWabNv" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="grid-template-rows">
   <span>See the Pen <a href="https://codepen.io/turing-school/pen/MWWabNv">
-  grid-template-rows</a> by Turing School (<a href="https://codepen.io/turing-school">@turing-school</a>)
+  grid-template-rows</a> by TheStackCollective School (<a href="https://codepen.io/turing-school">@turing-school</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
@@ -168,7 +168,7 @@ We will use that name to reference it from the item we want to live in that area
 
 <p class="codepen" data-height="300" data-theme-id="37918" data-default-tab="css,result" data-user="turing-school" data-slug-hash="RwwWoXz" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Grid Lab 13">
   <span>See the Pen <a href="https://codepen.io/turing-school/pen/RwwWoXz">
-  Grid Lab 13</a> by Turing School (<a href="https://codepen.io/turing-school">@turing-school</a>)
+  Grid Lab 13</a> by TheStackCollective School (<a href="https://codepen.io/turing-school">@turing-school</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
@@ -194,7 +194,7 @@ Before moving on to the next section - asses your level of comfort with the cont
 
 <p class="codepen" data-height="300" data-theme-id="37918" data-default-tab="html,result" data-user="turing-school" data-slug-hash="QWWjdLG" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Grid Lab 7">
   <span>See the Pen <a href="https://codepen.io/turing-school/pen/QWWjdLG">
-  Grid Lab 7</a> by Turing School (<a href="https://codepen.io/turing-school">@turing-school</a>)
+  Grid Lab 7</a> by TheStackCollective School (<a href="https://codepen.io/turing-school">@turing-school</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
@@ -232,7 +232,7 @@ Similarly, we see that `.box8` is taking up the left and middle "cells" of the b
 
 <p class="codepen" data-height="300" data-theme-id="37918" data-default-tab="html,result" data-user="turing-school" data-slug-hash="yLLYgBX" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Grid Lab 8">
   <span>See the Pen <a href="https://codepen.io/turing-school/pen/yLLYgBX">
-  Grid Lab 8</a> by Turing School (<a href="https://codepen.io/turing-school">@turing-school</a>)
+  Grid Lab 8</a> by TheStackCollective School (<a href="https://codepen.io/turing-school">@turing-school</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
@@ -253,7 +253,7 @@ Let's break it down:
 
 <p class="codepen" data-height="300" data-theme-id="37918" data-default-tab="html,result" data-user="turing-school" data-slug-hash="ExxVZYL" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Grid Lab 9">
   <span>See the Pen <a href="https://codepen.io/turing-school/pen/ExxVZYL">
-  Grid Lab 9</a> by Turing School (<a href="https://codepen.io/turing-school">@turing-school</a>)
+  Grid Lab 9</a> by TheStackCollective School (<a href="https://codepen.io/turing-school">@turing-school</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
@@ -274,7 +274,7 @@ If you are going to sett all columns or all rows to the same height/width, `repe
 
 <p class="codepen" data-height="300" data-theme-id="37918" data-default-tab="html,result" data-user="turing-school" data-slug-hash="YzzyNKM" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Grid Lab 5">
   <span>See the Pen <a href="https://codepen.io/turing-school/pen/YzzyNKM">
-  Grid Lab 5</a> by Turing School (<a href="https://codepen.io/turing-school">@turing-school</a>)
+  Grid Lab 5</a> by TheStackCollective School (<a href="https://codepen.io/turing-school">@turing-school</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
@@ -285,7 +285,7 @@ Note that this will change the position of elements and therefore may not be gre
 
 <p class="codepen" data-height="300" data-theme-id="37918" data-default-tab="html,result" data-user="turing-school" data-slug-hash="Baaopao" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Grid Lab 10">
   <span>See the Pen <a href="https://codepen.io/turing-school/pen/Baaopao">
-  Grid Lab 10</a> by Turing School (<a href="https://codepen.io/turing-school">@turing-school</a>)
+  Grid Lab 10</a> by TheStackCollective School (<a href="https://codepen.io/turing-school">@turing-school</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
@@ -296,7 +296,7 @@ Note that this will change the position of elements and therefore may not be gre
 
 <p class="codepen" data-height="300" data-theme-id="37918" data-default-tab="html,result" data-user="turing-school" data-slug-hash="MWWaJWE" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Grid Lab 11">
   <span>See the Pen <a href="https://codepen.io/turing-school/pen/MWWaJWE">
-  Grid Lab 11</a> by Turing School (<a href="https://codepen.io/turing-school">@turing-school</a>)
+  Grid Lab 11</a> by TheStackCollective School (<a href="https://codepen.io/turing-school">@turing-school</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
@@ -307,7 +307,7 @@ The addition of `minmax` makes things responsive!
 
 <p class="codepen" data-height="300" data-theme-id="37918" data-default-tab="html,result" data-user="turing-school" data-slug-hash="zYYvNYj" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Grid Lab 12">
   <span>See the Pen <a href="https://codepen.io/turing-school/pen/zYYvNYj">
-  Grid Lab 12</a> by Turing School (<a href="https://codepen.io/turing-school">@turing-school</a>)
+  Grid Lab 12</a> by TheStackCollective School (<a href="https://codepen.io/turing-school">@turing-school</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>

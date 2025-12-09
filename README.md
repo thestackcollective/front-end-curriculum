@@ -1,5 +1,5 @@
 # 🌟 Update 🌟
-<!-- Turing School of Software and Design has a new fullstack [Software Engineering curriculum](https://curriculum.thestackcollective.org/). This repo will no longer receive updates and all further updates will be at https://github.com/turingschool/curriculum-site. To view our current curriculum please visit https://curriculum.thestackcollective.org/.
+<!-- TheStackCollective School of Software and Design has a new fullstack [Software Engineering curriculum](https://curriculum.thestackcollective.org/). This repo will no longer receive updates and all further updates will be at https://github.com/turingschool/curriculum-site. To view our current curriculum please visit https://curriculum.thestackcollective.org/.
 
 For more information on courses and how to apply visit [thestackcollective.org](www.thestackcollective.org) 🤓 -->
 TheStackCollective has a new fullstack [Software Engineering curriculum](https://curriculum.thestackcollective.org/). This repo will no longer receive updates and all further updates will be at https://github.com/thestackcollective/curriculum-site. To view our current curriculum please visit https://curriculum.thestackcollective.org/.

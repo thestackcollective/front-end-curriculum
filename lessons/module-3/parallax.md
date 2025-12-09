@@ -412,7 +412,7 @@ index.html
 <body>
     <nav>
       <h2>
-        Turing School Home Page
+        TheStackCollective School Home Page
       </h2>
       <ul>
         <li>About</li>
@@ -424,7 +424,7 @@ index.html
 
     <div class="content">
       <h1>
-        Turing School
+        TheStackCollective School
       </h1>
     </div>
 

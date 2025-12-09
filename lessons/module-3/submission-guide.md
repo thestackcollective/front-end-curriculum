@@ -20,7 +20,7 @@ Below is a submission guide from your instructional team. All weekly due dates f
 ### Week 2
 - Monday (_Career Development_):
   - [ ] Write and upload resume to CV compiler
-  - [ ] Upload Turing Alumni Portfolio draft
+  - [ ] Upload TheStackCollective Alumni Portfolio draft
   - [ ] Make a copy of company research template
   - [ ] Answer career journal questions from week 1
 - Friday (_Technical_):

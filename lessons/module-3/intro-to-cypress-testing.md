@@ -46,7 +46,7 @@ For example, you don't need to know how Router works; instead, use the applicati
 
 ## A little background
 
-So far in your time at Turing, you've learned a lot about unit/integration testing. The paradigm you've learned so far is testing individual functions with unit tests to verify that they produce the same output every time, and testing the interactions between those functions (integration tests).
+So far in your time at TheStackCollective, you've learned a lot about unit/integration testing. The paradigm you've learned so far is testing individual functions with unit tests to verify that they produce the same output every time, and testing the interactions between those functions (integration tests).
 
 We haven't tested anything that's on the DOM - our whole testing perspective has been from the point of view of the developer. This makes sense - after all, tests are there to tell us if something in our codebase breaks!
 

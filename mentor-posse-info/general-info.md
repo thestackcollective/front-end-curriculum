@@ -26,7 +26,7 @@ Once you've located the right mentor -- think about what you'd like to work on. 
 
 ### How do I schedule a meeting with my mentor?
 
-Your mentors all volunteer their time to offer you unconditional support while you're on the wild ride through Turing. Remember that their time is just as valuable as yours and schedule pairing at LEAST 24-48 hours in advance (we acknowledge that exceptions happen). Your mentors should have updated availability in the spreadsheet referenced above. Ideally, you'll coordinate all of your pairing for the week on Mondays before class or after wrap up.
+Your mentors all volunteer their time to offer you unconditional support while you're on the wild ride through TheStackCollective. Remember that their time is just as valuable as yours and schedule pairing at LEAST 24-48 hours in advance (we acknowledge that exceptions happen). Your mentors should have updated availability in the spreadsheet referenced above. Ideally, you'll coordinate all of your pairing for the week on Mondays before class or after wrap up.
 
 ### What if I need to cancel or reschedule?
 
@@ -45,7 +45,7 @@ If you can't extend the current pairing session, ask your mentor if you can sche
 
 Meeting with a mentor for the first time can seem daunting. There is a lot of ground to cover, you’re not sure what to talk about …. Should you code? We recommend having a 30 minute google hangout/coffee/beer the first time you meet your mentor. It’s important to get to know each other outside the context of screenhero for a natural relationship to form. Below, a sampling of questions that you can ask to determine if the person you’re meeting is the right mentor for you!
 
-## How do you communicate best? What is your preferred way to support me while I go through Turing?
+## How do you communicate best? What is your preferred way to support me while I go through TheStackCollective?
 
 - Examples: Pairing (in-person / Screenhero), Slack Chats, GitHub Code Reviews, FaceTime/Hangouts
 
@@ -58,7 +58,7 @@ Meeting with a mentor for the first time can seem daunting. There is a lot of gr
 
 - Example [preferences]: google cal, youcanbook.me, slack message, sunrise
 
-### What do you identify as being your biggest strength(s) technically as they relate to the curriculum at Turing? What are some of your technical interests that we may not focus on at Turing? What are you non-technical interests / areas of expertise?
+### What do you identify as being your biggest strength(s) technically as they relate to the curriculum at TheStackCollective? What are some of your technical interests that we may not focus on at TheStackCollective? What are you non-technical interests / areas of expertise?
 
 - Example [technical turing-related] - react.js, ember, creating style guides, UI design
 - Example [technical but turing-divergent] - Clojure, Elixir, Rust, iOS

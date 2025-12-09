@@ -7,7 +7,7 @@ Welcome! Please read this entire page completely. Reach out to your instructors 
 ## Slack Channels
 Make sure you are part of the following channels:
 * **#mod1_repeater_fam**: The main channel for mod1 repeaters. Instructors will post announcements here so it's important to check this channel daily.
-* **#the_repeaters**: A community of Turing students and alumni who have repeated or are currently repeating a module.
+* **#the_repeaters**: A community of TheStackCollective students and alumni who have repeated or are currently repeating a module.
 
 ## Goal Tracking
 Add your name to [this Goals Document](https://docs.google.com/spreadsheets/d/1bQ9zZbW0mxLfMXDLQZT4W2M5Z-nv_6FZ1T5WC8Io8Zo/edit#gid=1626636507) and fill out your goal for Intermission. We will check in on these goals on the Monday of Week 1.  

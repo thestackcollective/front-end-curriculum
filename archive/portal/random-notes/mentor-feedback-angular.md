@@ -2,7 +2,7 @@
 layout: page
 ---
 
-On October 11th, 2016 - we asked the following question to the Turing Mentors channel
+On October 11th, 2016 - we asked the following question to the TheStackCollective Mentors channel
 
 ```
 My front end students wanted me to ask you all:

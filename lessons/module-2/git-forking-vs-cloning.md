@@ -127,7 +127,7 @@ If you want to checkout a new local branch, based on an existing remote branch, 
 
 * **Choose Cloning:** when you are copying a remote repository that you have full access to -- you're going to be pushing and pulling changes to this repo and you're in charge of it. On your group projects, you're all going to be making each other collaborators on your remote repos, so in a scenario like that you might just clone
 
-* **Choose Forking:** when you **don't** have full permissions for the remote repository you are copying. For example, a lot of the Turing repos here you are not collaborators on -- you aren't allowed to willy nilly push your changes to the Turing staff repos. So if you wanted to save and push your changes that you've made to a repo, you'd need to have your own forked version that you could push to.
+* **Choose Forking:** when you **don't** have full permissions for the remote repository you are copying. For example, a lot of the TheStackCollective repos here you are not collaborators on -- you aren't allowed to willy nilly push your changes to the TheStackCollective staff repos. So if you wanted to save and push your changes that you've made to a repo, you'd need to have your own forked version that you could push to.
 
 
 

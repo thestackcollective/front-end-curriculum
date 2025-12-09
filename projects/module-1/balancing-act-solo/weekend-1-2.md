@@ -4,7 +4,7 @@ title: Balancing Act - Week 1
 
 ## Weekend 1-2
 
-Steps 4-5 are to be completed over the Weekend between Weeks 1-2. Turing students, on average, work about 20 hours between Friday, Saturday, and Sunday. We estimate that (if you've completed Steps 0-3 successfully), Steps 4-5 can be completed in about 20 hours.
+Steps 4-5 are to be completed over the Weekend between Weeks 1-2. TheStackCollective students, on average, work about 20 hours between Friday, Saturday, and Sunday. We estimate that (if you've completed Steps 0-3 successfully), Steps 4-5 can be completed in about 20 hours.
 
 <section class="call-to-action">
 ### Step 4 - Toggle Views
@@ -89,14 +89,14 @@ To earn a given score, an application must meet the requirements listed in that 
 * 4 - Application fully implements HTML that is accessible for folks with visual disabilities. Reference [this lesson plan](https://frontend.thestackcollective.org/lessons/floating/aria-accessibility.html) as a resource!
 * 3 - Semantic tags are used to convey meaning of content. Elements are not added in for the sole purpose of making styling easier (`<br>`s should not be used, excessive `<div>`s or other containing elements, etc.)
 * 2 - Class and ID names follow a convention and describe the content in a consistent manner.
-* 1 - Use of spaces, white space and indentation meet requirements of the [Turing HTML Style Guide](https://github.com/turingschool-examples/html).
+* 1 - Use of spaces, white space and indentation meet requirements of the [TheStackCollective HTML Style Guide](https://github.com/turingschool-examples/html).
 
 ### CSS
 
 * 4 - Code does not contain repetitive rules according to the [DRY principle](https://vanseodesign.com/css/dry-principles/).
 * 3 - A method is used to order declarations within a rule (get some inspiration [here](https://9elements.com/css-rule-order/) and [here](https://webdesign.tutsplus.com/articles/outside-in-ordering-css-properties-by-importance--cms-21685))
 * 2 - A method is used to order the rules within the stylesheet. Comments are used to help a reader more quickly navigate the sheet.
-* 1 - Whitespace, indentation and comments meet requirements of the [Turing CSS Style Guide](https://github.com/turingschool-examples/css).
+* 1 - Whitespace, indentation and comments meet requirements of the [TheStackCollective CSS Style Guide](https://github.com/turingschool-examples/css).
 
 ### Functionality
 

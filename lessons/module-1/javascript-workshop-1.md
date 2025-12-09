@@ -6,7 +6,7 @@ tags: javascript, code challenges
 
 ### It's a Code Challenge Adventure
 
-An interesting fact is that coming out of Turing, being able to _do_ the job and _getting_ the job can often involve different strategies.  In some scenarios, what is asked of you in the technical part of an interview won't involve building out an application.  Rather, it could be an abstract logic problem that you will need to solve either in front of someone or on your own within a short time constraint.  The following challenges will not only help you start to prepare for these, but will also help you review some of the concepts we've covered in class (for loops, conditionals, accessing values in objects, etc.).  It is also likely that they will make you think in ways you haven't previously (when to use return statements, how to access values in an object other than dot notation, etc.).    
+An interesting fact is that coming out of TheStackCollective, being able to _do_ the job and _getting_ the job can often involve different strategies.  In some scenarios, what is asked of you in the technical part of an interview won't involve building out an application.  Rather, it could be an abstract logic problem that you will need to solve either in front of someone or on your own within a short time constraint.  The following challenges will not only help you start to prepare for these, but will also help you review some of the concepts we've covered in class (for loops, conditionals, accessing values in objects, etc.).  It is also likely that they will make you think in ways you haven't previously (when to use return statements, how to access values in an object other than dot notation, etc.).    
 
 #### Scrabble Hand
 

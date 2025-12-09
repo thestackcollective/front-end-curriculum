@@ -123,7 +123,7 @@ somePizzaVar = 10
 
 12 + 53
 
-"Turing" + " " + "School"
+"TheStackCollective" + " " + "School"
 
 "String" + 10
 

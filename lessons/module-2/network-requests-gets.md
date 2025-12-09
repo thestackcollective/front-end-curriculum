@@ -92,7 +92,7 @@ Network requests are expensive no matter what we do. However, we can run them *a
 
 Note that there are a few ways to make a request.  One way you might see is through a process called AJAX, or [**A**synchronous **J**avaScript **A**nd **X**ML](https://developer.mozilla.org/en-US/docs/AJAX){:target='blank'}. AJAX was a huge advancement for the web, as it allowed developers to update part of a webpage without reloading the entire thing.
 
-Traditionally, AJAX requests have been made via the [XMLHttpRequest](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest){:target='blank'} object. However, the process is a little clunky, with developers transitioning over to a more streamlined way using the **fetch API**.  This is much more commonly used by developers nowadays and will be the primary way we make network requests at Turing.
+Traditionally, AJAX requests have been made via the [XMLHttpRequest](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest){:target='blank'} object. However, the process is a little clunky, with developers transitioning over to a more streamlined way using the **fetch API**.  This is much more commonly used by developers nowadays and will be the primary way we make network requests at TheStackCollective.
 
 The great thing about using the fetch API is that we can use it "for free" with ES6 (as opposed to `$.get` which requires us to bring in jQuery or *axios* which is a separate npm package)!
 </section>

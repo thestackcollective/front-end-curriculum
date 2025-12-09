@@ -5,7 +5,7 @@ title: Syllabus Weekly Detail
 ## Weekly Detail
 This is a breakdown of your classes and assignments per each of the six weeks of Mod 1. Please NOTE: this serves as a helpful overview regarding the flow and cadence of content. It is NOT intended as a detailed schedule. Classes can be added and/or moved around. You should refer to the daily outlines for confirmed daily schedule and expectations of materials and assignments.
 
-### WK 1: Hello Turing! Hello Front End Engineering!
+### WK 1: Hello TheStackCollective! Hello Front End Engineering!
 
 |Mindset     | _We are a team. This week is about building trust with one another_.|
 |Lessons     | [Computer Setup](http://frontend.thestackcollective.org/lessons/module-1/computer-setup.html) &nbsp; [Terminal](http://frontend.thestackcollective.org/lessons/module-1/getting-around-in-the-terminal.html) &nbsp; [HTML I](http://frontend.thestackcollective.org/lessons/module-1/html-1.html) &nbsp; [Intro CSS](http://frontend.thestackcollective.org/lessons/module-1/css-1.html) &nbsp; [JS I](http://frontend.thestackcollective.org/lessons/module-1/js-1.html) &nbsp; [JS II](http://frontend.thestackcollective.org/lessons/module-1/js-2.html)

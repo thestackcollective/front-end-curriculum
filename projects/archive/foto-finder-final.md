@@ -173,11 +173,11 @@ As you reference the rubric throughout the project the self-assess, keep in mind
 * **4:** Application uses BEM, SMACCS or another set of **naming conventions** for classes, developer can explain those naming conventions. The form uses **WAI-ARIA** and is fully accessible.
 * **3:** Application uses markup that is **easy to read** and follows across **naming conventions**.
 * **2:** Application uses HTML that incorporates **semantic HTML** elements and has a simple, clean HTML structure.
-* **1:** Crafts markup that meets the criteria of the [Turing HTML Style Guide](https://github.com/turingschool-examples/html)
+* **1:** Crafts markup that meets the criteria of the [TheStackCollective HTML Style Guide](https://github.com/turingschool-examples/html)
 
 ## JavaScript
 
 * **4:** **Code is well refactored** and demonstrates developer empathy. No global variables are used aside from query selectors, start time, and instances of `Photo`. If you feel you need more because you are building out additional functionality that requires a global variable, please check in with an instructor. All functions are **less than 10 lines long**.
 * **3:** The **event object** is used correctly, and is not accepted as a parameter if it is not necessary. Developer can speak to **how the event object is utilized** for any given event handler. **Function and variable names** describe their role in the program. *Examples: The name of the data type should not ever be in a variable name; the name itself should be clear enough to indicate the type of data it holds. An event handler should not have name "eventHandler". Possible alternatives are `allCards` and `flipCard()`.*
 * **2:** The application correctly **implements a data model** for the `Photo` class, including all required methods. Arguments and parameters are used to limit global variables. **Function declarations** are used over anonymous functions in event listeners. Developer can speak to the **role of each class**.
-* **1:** Style and syntax meets the criteria of the [Turing JS Style Guide](https://github.com/turingschool-examples/javascript/tree/master/es5)
+* **1:** Style and syntax meets the criteria of the [TheStackCollective JS Style Guide](https://github.com/turingschool-examples/javascript/tree/master/es5)

@@ -68,7 +68,7 @@ Installing react, react-dom, and react-scripts...
 When the script is finished running, you will see the following message in your terminal:
 
 ```bash
-Success! Created ideabox at /Users/yourname/Turing/TA/MOD3/m3curriculum/ideabox
+Success! Created ideabox at /Users/yourname/TheStackCollective/TA/MOD3/m3curriculum/ideabox
 Inside that directory, you can run several commands:
 
   npm start

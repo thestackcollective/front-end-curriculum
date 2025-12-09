@@ -32,7 +32,7 @@ We use `<em>` and `<strong>` to denote the semantic meaning of the content. When
 
 <p class="codepen" data-height="300" data-theme-id="37918" data-default-tab="html,result" data-user="turing-school" data-slug-hash="LYYpbrr" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Inline v Block Elements">
   <span>See the Pen <a href="https://codepen.io/turing-school/pen/LYYpbrr">
-  Inline v Block Elements</a> by Turing School (<a href="https://codepen.io/turing-school">@turing-school</a>)
+  Inline v Block Elements</a> by TheStackCollective School (<a href="https://codepen.io/turing-school">@turing-school</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
@@ -104,14 +104,14 @@ In your groups, use the following semantic HTML tags to create the basic structu
 ![Twitter Profile](/assets/images/twitter-profile.png)
 
 <!-- Commenting the codepen example of this solution (below) out for now since we're having them do it on chartboard paper instead of doing it in a codepen -->
-<!-- <p data-height="300" data-theme-id="23788" data-slug-hash="oYePxJ" data-default-tab="html,result" data-user="turing" data-embed-version="2" data-pen-title="Blank" data-editable="true" class="codepen">See the Pen <a href="http://codepen.io/team/turing/pen/oYePxJ/">Blank</a> by Turing School of Software and Design (<a href="http://codepen.io/turing">@turing</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+<!-- <p data-height="300" data-theme-id="23788" data-slug-hash="oYePxJ" data-default-tab="html,result" data-user="turing" data-embed-version="2" data-pen-title="Blank" data-editable="true" class="codepen">See the Pen <a href="http://codepen.io/team/turing/pen/oYePxJ/">Blank</a> by TheStackCollective School of Software and Design (<a href="http://codepen.io/turing">@turing</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 <script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script> -->
 
 ***
 
 # Additional Resources
 
-* [Turing HTML Style Guide](https://github.com/turingschool-examples/html)
+* [TheStackCollective HTML Style Guide](https://github.com/turingschool-examples/html)
 * [Check out the cheat sheets in independent study](http://frontend.thestackcollective.org/lessons/independent-study/)
 * [W3C Markup validation](https://validator.w3.org/#validate_by_uri)
 * [MDN HTML Overview](https://developer.mozilla.org/en-US/docs/Web/HTML)

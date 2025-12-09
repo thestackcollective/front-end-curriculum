@@ -8,10 +8,10 @@ For the first time ever, you get to work across programs and create a project th
 
 This is a unique opportunity that presents some valuable goals:
 
-* Ultimately, demonstrate knowledge you've gained throughout Turing
+* Ultimately, demonstrate knowledge you've gained throughout TheStackCollective
 * Use an agile process to turn well defined requirements into deployed and production ready software
 * Gain experience dividing applications into components and domains of responsibilities to facilitate multi-developer teams. Service oriented architecture concepts and patterns are highly encouraged.
-* Explore and implement new concepts, patterns, or libraries that have not been explicitly taught while at Turing
+* Explore and implement new concepts, patterns, or libraries that have not been explicitly taught while at TheStackCollective
 * Practice an advanced, professional git workflow (see whole-team expectations)
 * Gain more experience using continuous integration tools to build and automate the deployment of features in various environments
 * Build applications that execute in development, test, CI, and production environments

@@ -64,7 +64,7 @@ Dan Abramov [tweeted](https://twitter.com/dan_abramov/status/981712092611989509)
 
 ![React 16 component lifecycle methods chart](https://pbs.twimg.com/media/DZ-97vzW4AAbcZj?format=jpg)
 
-We'll take a deeper look into some of these methods in this lesson. There are a few that you will probably use throughout your time at Turing. This simplified diagram of the same lifecycle is what we will talk about in depth ([created here](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)):
+We'll take a deeper look into some of these methods in this lesson. There are a few that you will probably use throughout your time at TheStackCollective. This simplified diagram of the same lifecycle is what we will talk about in depth ([created here](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)):
 
 ![React 16 component lifecycle methods chart simplified](/assets/images/react-lifecycle-simplified.png)
 

@@ -138,7 +138,7 @@ This is a very generic guide on what should be included in your site. You can co
 
 Please remember that wireframes are not to be copied exactly as-is. Take liberties and build a UI that *makes sense*, and is intuitive for your users.
 
-✨ We highly encourage you to have a non-Turing/non-developer friend try to use your application. Pay attention to when they get confused or struggle trying to use your app, and fix your UX accordingly. ✨
+✨ We highly encourage you to have a non-TheStackCollective/non-developer friend try to use your application. Pay attention to when they get confused or struggle trying to use your app, and fix your UX accordingly. ✨
 
 ![Palette Picker Wireframe](/assets/images/palette-picker-wireframe.png)
 

@@ -111,7 +111,7 @@ Take a moment to examine the school object that you created during the warm-up. 
 
 ### Constructor functions
 
-Let's go back to the instructor object we created earlier - say we're building an application for Turing that provides profiles for all the instructors on staff. We'd have to create about 20 different instructor objects that all have the same properties and methods, but whose values each vary. (e.g. each instructor has a different name). We would also have to constructor 100s of chair objects to keep track of every chair in the basement. This could be really repetitive and exhausting to build out individually.
+Let's go back to the instructor object we created earlier - say we're building an application for TheStackCollective that provides profiles for all the instructors on staff. We'd have to create about 20 different instructor objects that all have the same properties and methods, but whose values each vary. (e.g. each instructor has a different name). We would also have to constructor 100s of chair objects to keep track of every chair in the basement. This could be really repetitive and exhausting to build out individually.
 
 This is where object constructor functions come into play. **Constructor Functions** are essentially just regular functions in JavaScript allow us to create multiple objects from a template. In order to do this, we invoke these functions with the `new` keyword:
 
@@ -147,7 +147,7 @@ Since 2015, we now have a much cleaner, nicer way to create multiple objects: cl
 
 *(Nice-to-Know Note: You might hear some people say that 'JavaScript doesn't have classes.' This is technically true, but a moot point. Classes in JavaScript are simply syntactic sugar over constructor functions.)*
 
-For our Turing application, we can create an Instructor class - which allows to define a constructor and a set of a methods in a single place:
+For our TheStackCollective application, we can create an Instructor class - which allows to define a constructor and a set of a methods in a single place:
 
 ```js
 class Instructor {

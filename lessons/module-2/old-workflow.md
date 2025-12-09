@@ -24,11 +24,11 @@ Take a few minutes to read through your assigned article. We will come back toge
 - [Article 3](https://thejunkland.com/blog/how-to-write-good-readme.html)
 - [Article 4](https://ponyfoo.com/articles/readme-driven-development)
 
-### Writing READMEs at Turing
+### Writing READMEs at TheStackCollective
 
-For your projects at Turing, your goal is to demonstrate to employers that you understand the purpose of a README. Your READMEs should be set up so employers can clone things down and use your application. Other things you might want to highlight would be a small reflection of your work, how you attacked the project, how you collaborated, etc. Remember, the goal is to really showcase your work!
+For your projects at TheStackCollective, your goal is to demonstrate to employers that you understand the purpose of a README. Your READMEs should be set up so employers can clone things down and use your application. Other things you might want to highlight would be a small reflection of your work, how you attacked the project, how you collaborated, etc. Remember, the goal is to really showcase your work!
 
-For your time at Turing, your README should have the following flow:
+For your time at TheStackCollective, your README should have the following flow:
 
 - _Abstract_ A sentence or two describing the project, with a link to the hosted version if applicable
 - _Install/Setup instructions_ How someone can clone down the project and run it locally
@@ -64,7 +64,7 @@ Filing issues is an important part of the workflow process. It allows you to:
 * who is responsible for that work
   _keep all team members 'in the know' about who is handling what_
 
-In addition to these benefits, having an up-to-date list of issues will also indicate to potential employers that you're aware of what could be improved, and you plan on continuing to maintain the project in the future. Sometimes the code we have hosted on GitHub gets a little old and crusty, and doesn't showcase our current skills the best they could. Issues are a great way to say "I'm aware and I'm working on it!" This is especially important if you think about the projects that you are building now. By the time you exit Turing, projects that you build in Mod 1 or Mod 2 will not adequately showcase your true skill level by the time you finish Mod 4.
+In addition to these benefits, having an up-to-date list of issues will also indicate to potential employers that you're aware of what could be improved, and you plan on continuing to maintain the project in the future. Sometimes the code we have hosted on GitHub gets a little old and crusty, and doesn't showcase our current skills the best they could. Issues are a great way to say "I'm aware and I'm working on it!" This is especially important if you think about the projects that you are building now. By the time you exit TheStackCollective, projects that you build in Mod 1 or Mod 2 will not adequately showcase your true skill level by the time you finish Mod 4.
 
 
 ### Filing An Issue
@@ -124,7 +124,7 @@ These labels are good for when you want particular contributors for your project
 
 
 ##### Improvement / Enhancement
-These are the low priority labels; however, these labels are very applicable for the projects you are building at Turing. Because of that, this is something we expect to see in your projects. An example would be `nice-to-have` features that you want to add to your project.
+These are the low priority labels; however, these labels are very applicable for the projects you are building at TheStackCollective. Because of that, this is something we expect to see in your projects. An example would be `nice-to-have` features that you want to add to your project.
 
 ### Assignments
 
@@ -136,7 +136,7 @@ You will manage and track issues on your repo by assigning yourself or other tea
 
 ### Milestones
 
-Milestones are a helpful way to prioritize and create deadlines for your project. For example, a milestone on one of your projects at Turing might be titled `MVP` (minimum viable product) and would include all the features and functionality that you would need to have completed (by a certain due date) that meet the MVP you've defined. Other possible milestones for your Turing might include `Nice-to-haves`, `Extensions`, or `Post-graduation`.
+Milestones are a helpful way to prioritize and create deadlines for your project. For example, a milestone on one of your projects at TheStackCollective might be titled `MVP` (minimum viable product) and would include all the features and functionality that you would need to have completed (by a certain due date) that meet the MVP you've defined. Other possible milestones for your TheStackCollective might include `Nice-to-haves`, `Extensions`, or `Post-graduation`.
 
 
 ![Issues Milestones](/assets/images/lessons/github-issues/issues-milestones.png)

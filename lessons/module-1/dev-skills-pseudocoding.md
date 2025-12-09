@@ -27,7 +27,7 @@ Your friend asked you to build them a bookcase and you said yes! Before you star
 
 ## Problem Solving
 
-Approaching complex tasks in code is very similar to approaching complex tasks in real life! For example, let think about this scenario: Your Turing instructor asked you to build an application that helps track her dog's meals. Before you started coding...
+Approaching complex tasks in code is very similar to approaching complex tasks in real life! For example, let think about this scenario: Your TheStackCollective instructor asked you to build an application that helps track her dog's meals. Before you started coding...
 1. ...what questions would you have for your instructor?
 2. ...what research would you need to do?
 3. ...what other planning would you need to do?

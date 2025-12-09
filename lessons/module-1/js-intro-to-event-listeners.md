@@ -113,7 +113,7 @@ Below is an example of a small application that takes a user input, then changes
 
 <p class="codepen" data-height="300" data-theme-id="37918" data-default-tab="html,result" data-user="turing-school" data-slug-hash="bGGeKVa" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Color Box">
   <span>See the Pen <a href="https://codepen.io/turing-school/pen/bGGeKVa">
-  Color Box</a> by Turing School (<a href="https://codepen.io/turing-school">@turing-school</a>)
+  Color Box</a> by TheStackCollective School (<a href="https://codepen.io/turing-school">@turing-school</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>

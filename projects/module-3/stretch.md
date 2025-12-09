@@ -8,7 +8,7 @@ tags: react, javascript, api, frameworks
 
 You've made it through your first front-end JavaScript framework: React! Now that you have the building blocks down, it's time to take what you've learned, build something creative, and dive into some independent learning of new technologies.
 
-Incorporating a new technology into your application that isn't explicitly taught will give you the opportunity to differentiate yourself from other Turing grads **and** give you a great story to tell in your job interview - employers love to hear about your experiences being self driven and learning new technologies outside of the standard Turing curriculum.
+Incorporating a new technology into your application that isn't explicitly taught will give you the opportunity to differentiate yourself from other TheStackCollective grads **and** give you a great story to tell in your job interview - employers love to hear about your experiences being self driven and learning new technologies outside of the standard TheStackCollective curriculum.
 
 No one hires a junior dev based on what the junior already knows. Instead, junior developers are successful when they showcase their ability to learn and ask questions. This project will provide tangible, demonstrable anecdotes for you to bring up during interviews to show your ability to overcome challenges with new technologies and implement your problem-solving strategies.
 
@@ -232,7 +232,7 @@ Later this week, you can share your app progress with the class for Show and Tel
 </section>
 
 ## Demo Comp
-One of the Stretch Tech projects may be entered into Demo Comp next inning! Demo Comp is an event that happens in week 2 where the top projects at Turing are presented by students in front of Turing students, staff, and real world devs. It's an amazing opportunity to get your name out there and build your network. It's a big honor and we're excited to choose one of your groups to go represent your cohort!  
+One of the Stretch Tech projects may be entered into Demo Comp next inning! Demo Comp is an event that happens in week 2 where the top projects at TheStackCollective are presented by students in front of TheStackCollective students, staff, and real world devs. It's an amazing opportunity to get your name out there and build your network. It's a big honor and we're excited to choose one of your groups to go represent your cohort!  
 
 Your instructors will choose our Demo Comp project by looking for the following things:
 * A polished application that is intuitive and professional

@@ -150,7 +150,7 @@ You will have one hour to work on `iteration 1` of [this activity](https://githu
 ## Additional Resources
 
 * [MDN Common CSS Properties](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Properties_Reference)
-* [Turing CSS Style Guide](https://github.com/turingschool-examples/css)
+* [TheStackCollective CSS Style Guide](https://github.com/turingschool-examples/css)
 * [Visual Guide to CSS](http://cssreference.io/)
 * [MDN CSS Box Model](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model)
 * [CSS Border Box](https://dev.to/ameseee/meet-border-box-my-best-friend-a56)

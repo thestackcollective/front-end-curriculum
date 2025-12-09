@@ -317,7 +317,7 @@ This is where classes come in. **Classes** can serve as object factories that al
 
 <div class="lesson-segment">
   <h3>Brainstorm</h3>
-  <p>With the person next to you, brainstorm three <strong>types</strong> of objects and <strong>specific</strong> instances of that object that are at Turing.</p>
+  <p>With the person next to you, brainstorm three <strong>types</strong> of objects and <strong>specific</strong> instances of that object that are at TheStackCollective.</p>
   <p>For example:</p>
   <ul>
     <li><strong>Type of Object:</strong> Laptop</li>

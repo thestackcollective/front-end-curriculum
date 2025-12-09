@@ -267,7 +267,7 @@ We will not cover it in this class, but if you'd like an added challenge later -
 
 **Note**: Turn off your server for this section so that we can force some errors!
 
-So far in this lesson (and perhaps in your whole time at Turing), we've been console logging the error messages in our `.catch`es. That's not great because our users can't see that! Let's actually DO something with those error messages!
+So far in this lesson (and perhaps in your whole time at TheStackCollective), we've been console logging the error messages in our `.catch`es. That's not great because our users can't see that! Let's actually DO something with those error messages!
 
 There are two things we want to do with errors:
 - capture them somewhere

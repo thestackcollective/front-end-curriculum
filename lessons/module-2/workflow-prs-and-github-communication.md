@@ -18,7 +18,7 @@ module: 2
 
 ### Warm Up
 
-At Turing, we focus a lot on strongly documenting your projects through READMEs, GH issues, PRs, and other workflows.  But why?  It certainly requires a lot of work and time when we *could* be using that time to write more code.  Let's focus on the **why** in this lesson, starting first with READMEs.
+At TheStackCollective, we focus a lot on strongly documenting your projects through READMEs, GH issues, PRs, and other workflows.  But why?  It certainly requires a lot of work and time when we *could* be using that time to write more code.  Let's focus on the **why** in this lesson, starting first with READMEs.
 
 <section class="call-to-action">
 #### In Your Journals
@@ -57,7 +57,7 @@ Filing issues is an important part of the workflow process. It allows you to:
 <section class="note">
 ### Keeping your issues up to date!
 
-Having an up-to-date list of issues indicates to potential employers that you're aware of what could be improved, and that you plan on continuing to maintain the project in the future.  Keep this in mind as you continue to build out projects at Turing.  If there are bugs or future features you want to build out, include them as GH issues!
+Having an up-to-date list of issues indicates to potential employers that you're aware of what could be improved, and that you plan on continuing to maintain the project in the future.  Keep this in mind as you continue to build out projects at TheStackCollective.  If there are bugs or future features you want to build out, include them as GH issues!
 </section>
 
 

@@ -43,7 +43,7 @@ GitHub also allows teams to work seamlessly together (most of the time) on the s
 
 #### Create a new directory
 
-In your terminal, change into a directory where you can add Turing related exercises. Once you are in that directory, create a new directory called `git-intro`. Change into that directory.
+In your terminal, change into a directory where you can add TheStackCollective related exercises. Once you are in that directory, create a new directory called `git-intro`. Change into that directory.
 
 Just to confirm we are starting from scratch, run the command `ls -la`. This will print out a list of files or directories nested within our current directory. At this time you should only see `./` and `../`.  
 

@@ -453,4 +453,4 @@ We are going to leave this lesson here. Next steps will include:
 [Using Redux with React](http://redux.js.org/docs/basics/UsageWithReact.html)  
 [Smart and Dumb Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)  
 [Thinking In React](https://facebook.github.io/react/docs/thinking-in-react.html)  
-[Redux - By Turing's own Marc Garreau!](https://quickleft.com/blog/redux-plain-english-workflow/)  
+[Redux - By TheStackCollective's own Marc Garreau!](https://quickleft.com/blog/redux-plain-english-workflow/)  

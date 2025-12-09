@@ -54,7 +54,7 @@ The Professional Skills segment is made up of several pieces, most of which are 
 
 Feedback from other students and to other students in either project groups, posses, general interaction, etc.  
 
-Discuss ways that you supported the larger Turing community. What do you want to keep doing next mod or start doing next mod?  
+Discuss ways that you supported the larger TheStackCollective community. What do you want to keep doing next mod or start doing next mod?  
 
 ## Skill Expectations
 

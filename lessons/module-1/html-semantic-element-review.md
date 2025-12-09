@@ -60,7 +60,7 @@ Let's try this with a layout that has a little bit more going on. As you tackle 
 
 # Additional Resources
 
-* [Turing HTML Style Guide](https://github.com/turingschool-examples/html)
+* [TheStackCollective HTML Style Guide](https://github.com/turingschool-examples/html)
 * [Check out the cheat sheets in independent
   study](http://frontend.thestackcollective.org/lessons/independent-study/)
 * [W3C Markup validation](https://validator.w3.org/#validate_by_uri)

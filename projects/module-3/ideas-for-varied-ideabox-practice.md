@@ -41,7 +41,7 @@ Building the same application over and over isn't very valuable.  Using varied c
 - Anything else you might think of!
 
 ## APIs that allow you to POST
-- [Turing Specific API's that allow POST ](https://github.com/turingschool-examples/react-practice-servers)
+- [TheStackCollective Specific API's that allow POST ](https://github.com/turingschool-examples/react-practice-servers)
 
 ## Other APIs you might use (that probably don't allow POST)
 - [Big List of Free and Open APIs](https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/)
