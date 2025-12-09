@@ -521,7 +521,7 @@ return x + y / 3;
 
 ### Additional Practice
 
-* [JavaScript Playground](http://frontend.turing.edu/lessons/module-1/javascript-playground.html) let's you experiment more with these concepts.
+* [JavaScript Playground](http://frontend.thestackcollective.org/lessons/module-1/javascript-playground.html) let's you experiment more with these concepts.
 
 # More on Functions
 

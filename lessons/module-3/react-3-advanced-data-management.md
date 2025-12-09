@@ -369,4 +369,4 @@ In your notebooks, respond to the following:
 * [Why React's new Hooks API is a game changer](https://itnext.io/why-reacts-hooks-api-is-a-game-changer-8731c2b0a8c) by Rudi Yardley
 * [How to fetch data with React Hooks](https://www.robinwieruch.de/react-hooks-fetch-data/) by Robin Wieruch
 * [How the useEffect Hook Works](https://daveceddia.com/useeffect-hook-examples/) by Dave Ceddia
-* [LifeCycle methods - Data management using class component](https://frontend.turing.edu/lessons/module-3/react-3-advanced-data-management.html) 
+* [LifeCycle methods - Data management using class component](https://frontend.thestackcollective.org/lessons/module-3/react-3-advanced-data-management.html) 

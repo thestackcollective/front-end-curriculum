@@ -174,7 +174,7 @@ Take some time to reflect on the following questions and then we will share out 
 
 This was just an introduction to problem solving and pseudocoding. It's a skill that you will continue to develop for years, so don't beat yourself up if it's still confusing or hard!
 
-Throughout the rest of mod 1, we have [daily practice](https://frontend.turing.edu/lessons/module-1/daily-problem-solving-practice.html) worked into the calendar to give you more opportunities to develop your problem solving process.
+Throughout the rest of mod 1, we have [daily practice](https://frontend.thestackcollective.org/lessons/module-1/daily-problem-solving-practice.html) worked into the calendar to give you more opportunities to develop your problem solving process.
 
 <section class="checks-for-understanding">
 ### Final Reflections

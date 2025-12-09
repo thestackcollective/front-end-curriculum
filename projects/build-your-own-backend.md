@@ -135,7 +135,7 @@ If all other expectations and requirements are met, you may:
 
 **Test your Application**  
 
-If all other expectations and requirements are met, we would strongly encourage you to [look ahead](https://frontend.turing.edu/lessons/module-4/server-side-testing-with-db.html) to see about testing your application.
+If all other expectations and requirements are met, we would strongly encourage you to [look ahead](https://frontend.thestackcollective.org/lessons/module-4/server-side-testing-with-db.html) to see about testing your application.
 
 **Create a custom API endpoint**  
 Use query params on at least one endpoint, which would allow the user to narrow down the nature of their request or filter their results. So for example, you may have an endpoint like:
@@ -162,7 +162,7 @@ Project should be submitted via this [link](https://forms.gle/M8YEKa5KPKbH4Hgi6)
 
 * Often, people think they have to do all their seeding in one step, but you can take whatever steps you need. Scraping data from the web? Consuming another API? You can do those all in separate steps! Get your data, _then_ clean it, _then_ write your seed file!
 * You'll probably have to do some sort of data manipulation/massaging before you try to seed. Think about how YOU want YOUR data to look before just dumping the data you found into your database. Do any manipulations you need to on your dataset before trying to seed. (e.g. you might want to rename, delete, or add columns)
-* You're going to be seeding a lot of data all at once. Recall the "Seeding Large Datasets" example from the [Knex Lesson Plan](http://frontend.turing.edu/lessons/module-4/knex-postgres.html) and brush up on how to work with `Promise.all()`
+* You're going to be seeding a lot of data all at once. Recall the "Seeding Large Datasets" example from the [Knex Lesson Plan](http://frontend.thestackcollective.org/lessons/module-4/knex-postgres.html) and brush up on how to work with `Promise.all()`
 * Remember you often have to RETURN the Promises you're using in your seed file. If you aren't getting any errors, but your data isn't being seeded, you're likely forgetting a `return` statement.
 * If you're trying to transform data from a CSV file, avoid using [this library](https://www.npmjs.com/package/knex-seed-file).
 

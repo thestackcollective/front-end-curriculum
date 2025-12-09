@@ -168,7 +168,7 @@ Your webpack setup will help you install Sass - a CSS preprocessor - but to comp
   * Re-read [this intermission assignment](http://thesassway.com/beginner/how-to-structure-a-sass-project) for an idea of how to set up a structure for Sass
 
 * CSS code should be exceptionally DRY (Do Not Repeat Yourself) - meaning that there is _no_ repetition of CSS that could be broken reasonably into variables and mixins.
-  * Read through this [lesson](http://frontend.turing.edu/lessons/introduction-to-sass.html) for an idea of what Sass can do
+  * Read through this [lesson](http://frontend.thestackcollective.org/lessons/introduction-to-sass.html) for an idea of what Sass can do
 
 * Atleast one advanced feature of Sass should be used to enhance the project.
   * Developer should be able to speak to what this feature does and why it improves the code for future developers.

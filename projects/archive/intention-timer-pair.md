@@ -169,7 +169,7 @@ To earn a given score, an application must meet the requirements listed in that 
 
 * **4:** 
   - Application fully implements HTML that is accessible for folks with visual disabilities. 
-  - Reference [this lesson plan](http://frontend.turing.edu/lessons/floating/aria-accessibility.html) * **3:** 
+  - Reference [this lesson plan](http://frontend.thestackcollective.org/lessons/floating/aria-accessibility.html) * **3:** 
   - Application has markup that is easy to read and follows across naming conventions
   - Application minimizes extraneous elements
 * **2:** 

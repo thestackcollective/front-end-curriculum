@@ -30,7 +30,7 @@ Conference Talk: https://www.youtube.com/watch?v=qdB8SRhqvFc
 What we're talking about today are ARIA roles and I want to preface this lesson by saying that I am learning about this along with you.
 
 - Video from today: https://www.youtube.com/watch?v=qdB8SRhqvFc
-- Lesson plan: http://frontend.turing.edu/lessons/wai-aria.html
+- Lesson plan: http://frontend.thestackcollective.org/lessons/wai-aria.html
 - Exercise: https://gist.github.com/martensonbj/b98a7d300ead397945aa038fe9aa078a
-- Tenon.io: https://tenon.io/testNow.php?url=http://turing.edu
+- Tenon.io: https://tenon.io/testNow.php?url=http://thestackcollective.org
 - PR Template Instructions: https://help.github.com/articles/creating-a-pull-request-template-for-your-repository/

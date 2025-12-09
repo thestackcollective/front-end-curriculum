@@ -472,4 +472,4 @@ Implement iteration 3 for our box per the spec outlined below;
 </section>
 
 ### Further Reading
-* <a href="https://frontend.turing.edu/lessons/module-2/testing-with-hooks-and-linting.html" target="\__blank">Hooks</a>
+* <a href="https://frontend.thestackcollective.org/lessons/module-2/testing-with-hooks-and-linting.html" target="\__blank">Hooks</a>

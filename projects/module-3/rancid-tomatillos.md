@@ -22,7 +22,7 @@ We've broken this project down into iterations. Please be sure to read them clos
 **Turn in all deliverables via [this google sheet](https://docs.google.com/spreadsheets/d/1YDI4TAFdkOhpcFatdGONR7QtlDZVOpsvJVimtX77M6I/edit?usp=sharing).**
 
 By the end of the day, Day 1:
-* The link to your repo (hint: use [Create-React-App](https://frontend.turing.edu/lessons/module-3/react-2-the-how.html) to start your project!)
+* The link to your repo (hint: use [Create-React-App](https://frontend.thestackcollective.org/lessons/module-3/react-2-the-how.html) to start your project!)
 * The link to your DTR
 * The link to your Project Board with at least a few user stories entered  
 
@@ -81,7 +81,7 @@ In the future, when we use the actual API to get individual movie details, the i
 
 For the third iteration, we'll refactor our application to:
 - use actual data from the database (information is below) instead of our mocked `movieData` file. 
-- include type checking with [PropTypes](https://frontend.turing.edu/lessons/module-3/proptypes.html)
+- include type checking with [PropTypes](https://frontend.thestackcollective.org/lessons/module-3/proptypes.html)
 
 Also, please complete the First Weekend Deliverables (found below)
 
@@ -100,7 +100,7 @@ All API endpoints (also known as "routes") are prefixed with `https://rancid-tom
 | Get all movies | `/movies` | GET | N/A | All movies in database with average rating: `{"movies": [{id: 1, title: "Movie Title", poster_path: "someURL", backdrop_path: "someURL", release_date: "2019-12-04", average_rating: 6 }, ...]}` |
 | Get a single movie | `/movies/:movie_id` | GET | N/A | The movie corresponding to the id sent in the URL: `{"movie": {id: 1, title: "Movie Title", poster_path: "someURL", backdrop_path: "someURL", release_date: "2019-12-04", overview: "Some overview", average_rating: 6, genres: [{id: 18, name:"Drama"}], budget:63000000, revenue:100853753, runtime:139, tagline: "Movie Tagline" }}` |
 | Get a single movie's videos | `/movies/:movie_id/videos` | GET | N/A | An array of available videos corresponding to the movie whose id is in the URL; this may be an empty array: `[]` or `[id: 1, movie_id: 1, key:"SUXWAEX2jlg", site: "YouTube", type:"Trailer"]` |
-| Login a user | `/login` | POST | `{email: <String>, password: <String>}` | A user's login session information: `{user: {id: 1, name: "Alan", email: "alan@turing.edu"}}` |
+| Login a user | `/login` | POST | `{email: <String>, password: <String>}` | A user's login session information: `{user: {id: 1, name: "Alan", email: "alan@thestackcollective.org"}}` |
 | Get all the ratings a user has submitted | `/users/:user_id/ratings` | GET | N/A | A user's ratings for all movies: `{"ratings": [{id: 1, user_id: 1, movie_id: 1, rating: 6, created_at: "someDate", updated_at: "someDate"},...]}` |
 | Submit a new movie rating for a user | `/users/:user_id/ratings` | POST | `{ movie_id: <Integer>, rating: <Integer between 1 and 10> }` | The rating that was successfully created: `{rating: {user_id: 2, movie_id: 19, rating: 5}}` |
 | Delete an existing user's rating for a movie | `/users/:user_id/ratings/:rating_id` | DELETE | N/A | 204 status code (NO CONTENT in response body) |
@@ -307,7 +307,7 @@ WOW can look like:
   - Application is deployed (to Vercel or similar service)
   - Data retrieved from a server is run through a cleaning function to handle any missing/inconsistent data and remove any extraneous data that isn't using in the application - before setting that data to state.
   - Application shows loading state
-  - Application design is [responsive](https://frontend.turing.edu/lessons/module-3/css-responsive-layouts.html) across small, medium and large breakpoints
+  - Application design is [responsive](https://frontend.thestackcollective.org/lessons/module-3/css-responsive-layouts.html) across small, medium and large breakpoints
   
 </section>
 

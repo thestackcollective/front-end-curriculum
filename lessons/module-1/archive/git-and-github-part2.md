@@ -252,7 +252,7 @@ To summarize the example above, a typical workflow for a new project with Git an
 10. Go on GitHub, view the PR, and merge the PR
 11. Locally, pull down master to your local master branch (to sync the remote with your local repository)
 
-[Here is an excellent team workflow](http://frontend.turing.edu/lessons/module-1/git-team-workflow.html)
+[Here is an excellent team workflow](http://frontend.thestackcollective.org/lessons/module-1/git-team-workflow.html)
 
 ## Cloning
 
@@ -279,4 +279,4 @@ Practice by pushing up your Dog Party or Number Guesser project to GitHub.
 ### More GitHub
 
   * [GitHub Tutorials](https://guides.github.com/)
-  * [Common git commands and a link to a giant cheetsheet](http://frontend.turing.edu/lessons/module-1/git-commands.html)
+  * [Common git commands and a link to a giant cheetsheet](http://frontend.thestackcollective.org/lessons/module-1/git-commands.html)

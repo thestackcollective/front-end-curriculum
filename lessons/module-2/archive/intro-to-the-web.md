@@ -75,4 +75,4 @@ app.post('/messages', (request, response) => {
 });
 
 ```
-With that being said lets move over to the second part of this [lesson](http://frontend.turing.edu/lessons/introduction-to-ajax.html
+With that being said lets move over to the second part of this [lesson](http://frontend.thestackcollective.org/lessons/introduction-to-ajax.html

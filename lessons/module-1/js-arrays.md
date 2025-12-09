@@ -29,7 +29,7 @@ We want to give YOU a chance to dig into the code and explore before we all get 
 * Questions (for example: `When would you want to have an array of nested arrays?`)
 
 If you get stuck...
-* Reference [this Intro to Arrays lesson](https://frontend.turing.edu/lessons/module-1/js-intro-to-arrays.html)
+* Reference [this Intro to Arrays lesson](https://frontend.thestackcollective.org/lessons/module-1/js-intro-to-arrays.html)
 * Reference [javascript arrays documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
 * Google (for example: `reassign element in array javascript`)
 * Write down your question and move on. Then ask that question when we come back together!

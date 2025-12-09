@@ -40,12 +40,12 @@ Dates and deadlines to be aware of:
 1. 3 design inspirations (Please include links)
 
 * **Tuesday of Week Three** - Project due at 9PM.
-* **Wednesday of Week Three** - [Project demo](https://frontend.turing.edu/projects/project-demo-pair.html) (video) due at 9PM (send YouTube link to your PM).
+* **Wednesday of Week Three** - [Project demo](https://frontend.thestackcollective.org/projects/project-demo-pair.html) (video) due at 9PM (send YouTube link to your PM).
 * **Thursday of Week Three** - Project demo watch party! (Optional to submit your demo video)
 
 Please submit your finished projects [here](https://forms.gle/dTjaDmgDog9U8dGn6)
 
-Please send your project demo to your PM. The instructions can be found [here](https://frontend.turing.edu/projects/project-demo-pair.html)!
+Please send your project demo to your PM. The instructions can be found [here](https://frontend.thestackcollective.org/projects/project-demo-pair.html)!
 
 ### Working with Webpack
 This project is set up to use [Webpack](https://webpack.js.org/guides/getting-started/){:target='blank'}, a module bundler. It will take whatever code we write, and bundle it into a series of more efficient files that the browser can read (allowing us to use things like Sass, npm packages and ES6 `import` / `export` syntax).
@@ -58,7 +58,7 @@ This [article](https://survivejs.com/webpack/what-is-webpack/){:target='blank'} 
 <section class="answer">
 ### Notes on Webpack
 
-Webpack is a powerful tool, which you're encouraged to explore more (the Turing [Webpack lesson plan](https://frontend.turing.edu/lessons/module-2/build-processes-with-npm-webpack.html){:target='blank'} is a great place to start). But there are a few things that you should know when starting to work with it:
+Webpack is a powerful tool, which you're encouraged to explore more (the Turing [Webpack lesson plan](https://frontend.thestackcollective.org/lessons/module-2/build-processes-with-npm-webpack.html){:target='blank'} is a great place to start). But there are a few things that you should know when starting to work with it:
 
 1. You need to use [`import` / `export`](https://www.youtube.com/watch?v=_3oSWwapPKQ){:target='blank'} syntax
   - Note: This video goes into Babel and Rollup. Webpack handles the transpiling of our ESModules code into something the browser can read.

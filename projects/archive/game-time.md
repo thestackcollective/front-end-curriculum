@@ -98,10 +98,10 @@ Your testing suite should test all of the functionality of the game, including t
 
 For the purposes of this project, you will keep your state logic completely separate from your view logic. In other words, your business logic (classes/methods) should not handle anything that deals with the UI (DOM Manipulation).
 
-To do this, you will utilize a separate `domUpdates.js` file that handles any DOM manipulation that is triggered by your business logic. This is covered in more depth in the testing lesson, which you can find [here](http://frontend.turing.edu/lessons/module-2/testing-with-chai-spies.html).
+To do this, you will utilize a separate `domUpdates.js` file that handles any DOM manipulation that is triggered by your business logic. This is covered in more depth in the testing lesson, which you can find [here](http://frontend.thestackcollective.org/lessons/module-2/testing-with-chai-spies.html).
 
 <section class="note">
-  domUpdates will hold your DOM updating logic. Some of this logic may be called on by methods in your class files. You won't test actual methods in domUpdates, but you will test class methods that call on DOM updates. This is done with [spies](http://frontend.turing.edu/lessons/module-2/testing-with-chai-spies.html).
+  domUpdates will hold your DOM updating logic. Some of this logic may be called on by methods in your class files. You won't test actual methods in domUpdates, but you will test class methods that call on DOM updates. This is done with [spies](http://frontend.thestackcollective.org/lessons/module-2/testing-with-chai-spies.html).
 </section>
 
 
@@ -129,9 +129,9 @@ You can retrieve all the high scores by doing a GET request to the same endpoint
 
 These user stories may be worked on in any order that makes sense to your pair. Do take time to think about which ones must be completed before you can make progress on others. This will help you prioritize the work that you do.
 
-* [Wheel of Fortune User Stories](http://frontend.turing.edu/projects/module-2/wheel-of-fortune)
-* [Jeopardy User Stories](http://frontend.turing.edu/projects/module-2/jeopardy)
-* [Family Feud User Stories](http://frontend.turing.edu/projects/module-2/family-feud)
+* [Wheel of Fortune User Stories](http://frontend.thestackcollective.org/projects/module-2/wheel-of-fortune)
+* [Jeopardy User Stories](http://frontend.thestackcollective.org/projects/module-2/jeopardy)
+* [Family Feud User Stories](http://frontend.thestackcollective.org/projects/module-2/family-feud)
 
 ## GitHub Collab & Workflow
 

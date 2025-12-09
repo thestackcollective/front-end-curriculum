@@ -294,7 +294,7 @@ Pick one of the 4 options linked below as a code challenge. Write a solution and
 ### Additional Practice (Optional)
 
 * [Leveled Array Practice](array-practice.html)
-* [JavaScript Playground](http://frontend.turing.edu/lessons/module-1/javascript-playground.html) lets you experiment more with these concepts.
+* [JavaScript Playground](http://frontend.thestackcollective.org/lessons/module-1/javascript-playground.html) lets you experiment more with these concepts.
 
 ### More Resources
 

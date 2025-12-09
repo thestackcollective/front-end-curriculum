@@ -15,7 +15,7 @@ In this project, you will be creating a recipe tracking / meal planning applicat
 
 ## New Technologies
 - Fetch
-- [Webpack](https://frontend.turing.edu/lessons/module-2/build-processes-with-npm-webpack.html){:target='blank'}
+- [Webpack](https://frontend.thestackcollective.org/lessons/module-2/build-processes-with-npm-webpack.html){:target='blank'}
 
 <section class="note">
 ### Note
@@ -58,7 +58,7 @@ This [article](https://survivejs.com/webpack/what-is-webpack/){:target='blank'} 
 <section class="answer">
 ### Notes on Webpack
 
-Webpack is a powerful tool, which you're encouraged to explore more (the Turing [Webpack lesson plan](https://frontend.turing.edu/lessons/module-2/build-processes-with-npm-webpack.html){:target='blank'} is a great place to start). But there are a few things that you should know when starting to work with it:
+Webpack is a powerful tool, which you're encouraged to explore more (the Turing [Webpack lesson plan](https://frontend.thestackcollective.org/lessons/module-2/build-processes-with-npm-webpack.html){:target='blank'} is a great place to start). But there are a few things that you should know when starting to work with it:
 
 1. You need to use [`import` / `export`](https://www.youtube.com/watch?v=_3oSWwapPKQ){:target='blank'} syntax
   - Note: This video goes into Babel and Rollup. Webpack handles the transpiling of our ESModules code into something the browser can read.

@@ -27,7 +27,7 @@ Spend 15-20 minutes reading, watching, and completing the content in the [Chrome
 <section class="call-to-action">
 ### Warm Up
 
-Go to the [Turing Home Page](https://turing.edu/) and open up your Dev Tools.
+Go to the [Turing Home Page](https://thestackcollective.org/) and open up your Dev Tools.
 - Click on the "Elements" tab. Stay in the "Elements" tab throughout this Warm Up.
 - Dig into the `<body>`. What are some things you see nested inside of this element? Can you associate any of the things you see in the code to what you see on the page?
 - In many of the elements, you'll notice a `class`. What do you think those are used for?
@@ -147,11 +147,11 @@ Our browser is more than happy to load up an image, but we need to tell it where
 Another important tag is the `<a>` tag. These are the tags we use for creating hyperlinks. You might have noticed that the `<a>` tag behaves a little differently than the `<h1>`, `<h2>`, and `<p>` tags. We can use the `<a>` tag to mark up a few words, while the other tags denote a big section - what we might call a "block" — of our page.
 
 #### Consider the following example:  
-Welcome to the [Turing School of Software and Design](http://turing.edu).
+Welcome to the [Turing School of Software and Design](http://thestackcollective.org).
 
 ```html
 <p>
-  Welcome to the <a href="http://turing.edu">Turing School of Software and Design</a>.
+  Welcome to the <a href="http://thestackcollective.org">Turing School of Software and Design</a>.
 </p>
 ```
 
@@ -232,7 +232,7 @@ Now that you know what clean, correctly indented HTML looks like, and some of th
 </section>
 
 ## Additional Practice
-* [HTML Review Workshop - Structure, Semantics](https://frontend.turing.edu/lessons/module-1/html-semantic-element-review.html)
+* [HTML Review Workshop - Structure, Semantics](https://frontend.thestackcollective.org/lessons/module-1/html-semantic-element-review.html)
 
 ## Additional Resources
 

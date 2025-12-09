@@ -177,7 +177,7 @@ For this project, an average of 0.5 is considered a yes - a passing project that
 💫ON TRACK💫 requirements:
   - Project meets all MVP requirements 
   - Application is deployed (to Vercel or similar service)
-  - Application design is [responsive](https://frontend.turing.edu/lessons/module-3/css-responsive-layouts.html)** across small, medium and large breakpoints
+  - Application design is [responsive](https://frontend.thestackcollective.org/lessons/module-3/css-responsive-layouts.html)** across small, medium and large breakpoints
 
 WOW option:
   - Project completes 1 or more additional features beyond MVP

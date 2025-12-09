@@ -104,4 +104,4 @@ Take some time to reflect on the following questions:
 
 ### FE ONLY: Stretch Tech Evals
 
-For your [stretch tech project](https://frontend.turing.edu/projects/module-3/stretch.html) evals, you will have a mini-mock interview with an instructor. You will be able to choose the category/theme of your behavioral question and then the interviewer will ask you a question on the spot within that theme. You'll be expected to use your experience from the Stretch Tech project to answer your question. You'll get feedback from the instructor on your response.
+For your [stretch tech project](https://frontend.thestackcollective.org/projects/module-3/stretch.html) evals, you will have a mini-mock interview with an instructor. You will be able to choose the category/theme of your behavioral question and then the interviewer will ask you a question on the spot within that theme. You'll be expected to use your experience from the Stretch Tech project to answer your question. You'll get feedback from the instructor on your response.

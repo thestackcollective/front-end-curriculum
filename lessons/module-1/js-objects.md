@@ -33,7 +33,7 @@ We want to give YOU a chance to dig into the code and explore before we all get 
 * Questions (for example: `Can you ever have an object inside of another object?`)
 
 If you get stuck...
-* Reference [this Intro to Objects lesson](https://frontend.turing.edu/lessons/module-1/js-intro-to-objects.html)
+* Reference [this Intro to Objects lesson](https://frontend.thestackcollective.org/lessons/module-1/js-intro-to-objects.html)
 * Reference [javascript objects documentation](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics).  Use the search bar and Command+F to search for specific terms and concepts
 * Google (for example: `invoke object method javascript`)
 * Write down your question/what exactly you're stuck on and move on. Then ask that question when we get on the zoom call!
@@ -197,6 +197,6 @@ You might be wondering *When will be ever need to access a key via a variable?* 
 
 ## More Practice
 
-If you'd like more practice with objects, work through the exercises in [this lesson](https://frontend.turing.edu/lessons/module-1/objects-review.html).
+If you'd like more practice with objects, work through the exercises in [this lesson](https://frontend.thestackcollective.org/lessons/module-1/objects-review.html).
 
 Post any questions you still have in your main cohort channel!

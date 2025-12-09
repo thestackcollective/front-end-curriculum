@@ -108,7 +108,7 @@ Another important tag is the `<a>` tag. These are the tags we use for creating h
 
 ```html
 <p>
-  Welcome to the <a href="http://turing.io">Turing School of Software and Design</a>.
+  Welcome to the <a href="http://thestackcollective.org">Turing School of Software and Design</a>.
 </p>
 ```
 

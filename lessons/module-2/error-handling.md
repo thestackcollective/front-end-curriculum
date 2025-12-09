@@ -9,7 +9,7 @@ module: 2
 As front end developers, we should always be concerned about giving our users the best experience possible. One way to that is to make sure that we provide the user with some feedback in case an interaction goes wrong. In this lesson, y'all are going to focus on improving the ui of a form, by providing error messages to our end user.
 <section class="call-to-action">
 ## Warm Up
-  Let's review from the [Network request GET lesson](https://frontend.turing.edu/lessons/module-2/network-requests-gets.html) & [Network request POST lesson](https://frontend.turing.edu/lessons/module-2/network-requests-posts.html)
+  Let's review from the [Network request GET lesson](https://frontend.thestackcollective.org/lessons/module-2/network-requests-gets.html) & [Network request POST lesson](https://frontend.thestackcollective.org/lessons/module-2/network-requests-posts.html)
 
 In groups, add some stickies to [this Jamboard](https://jamboard.google.com/d/1wyTnk8ev8-GNlS3wpObhzBSSjNvKkgQTbMqP8wFL0PE)
   - What do you remember from request/response cycle?

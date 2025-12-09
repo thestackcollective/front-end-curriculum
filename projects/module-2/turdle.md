@@ -97,7 +97,7 @@ Now let's implement a POST so that the game stats persist even when the applicat
 
 You should POST the stats when the game is over (win or lose) and you should GET the game stats when the user clicks on the **stats** button in the nav bar.
 
-This iteration will require pre-reading the [the POST lesson](https://frontend.turing.edu/lessons/module-2/network-requests-posts.html){:target='blank'}!
+This iteration will require pre-reading the [the POST lesson](https://frontend.thestackcollective.org/lessons/module-2/network-requests-posts.html){:target='blank'}!
 </section>
 
 <section class="answer">

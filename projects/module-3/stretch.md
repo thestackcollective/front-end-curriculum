@@ -23,7 +23,7 @@ By the time this project is submitted for evaluation, it must:
 1. Implement one of the "Stretch Technologies" listed below
 1. Implement robust Cypress testing (If you're not using React, talk to your PM about testing requirements!)
 1. Be deployed
-1. Be a featured project on your resume (Your resume must meet all requirements listed in [this document](https://careerdev.turing.edu/resources/resume_resources))
+1. Be a featured project on your resume (Your resume must meet all requirements listed in [this document](https://careerdev.thestackcollective.org/resources/resume_resources))
 
 ## MVP
 
@@ -295,7 +295,7 @@ On track can look like:
 
 WOW can look like:
 * Data retrieved from a server is run through a cleaning function to handle any missing/inconsistent data and remove any extraneous data that isn't using in the application - before setting that data to state.
-* Application design is [responsive](https://frontend.turing.edu/lessons/module-3/css-responsive-layouts.html) across small, medium and large breakpoints
+* Application design is [responsive](https://frontend.thestackcollective.org/lessons/module-3/css-responsive-layouts.html) across small, medium and large breakpoints
 
 </section>
 

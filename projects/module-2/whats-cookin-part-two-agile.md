@@ -59,7 +59,7 @@ When you’ve finished your retro, DM your project manager two things from your 
 
 ### Catching Up on Functionality
 
-You must complete all of the remaining user stories from the [What’s Cookin Part 1 Spec](https://frontend.turing.edu/projects/whats-cookin-part-one.html). If you did not finish parts of the original requirements, this is your chance to revisit and finish all of the functionality. In addition to the Part 1 requirements you must also ***implement your instructor’s feedback*** and add ***“Iteration Five” and “Iteration Six”***.
+You must complete all of the remaining user stories from the [What’s Cookin Part 1 Spec](https://frontend.thestackcollective.org/projects/whats-cookin-part-one.html). If you did not finish parts of the original requirements, this is your chance to revisit and finish all of the functionality. In addition to the Part 1 requirements you must also ***implement your instructor’s feedback*** and add ***“Iteration Five” and “Iteration Six”***.
 
 ---
 

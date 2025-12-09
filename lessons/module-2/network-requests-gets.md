@@ -213,7 +213,7 @@ Head to <a href="https://github.com/turingschool-examples/fe2-fetch-practice" ta
 
 Working with a partner, follow the setup instructions to get the server running.  Then follow the steps in order within the `client/index.js` file and test it out by opening the `client/index.html` file.
 
-Note that this repo will be used for the GET and POST lessons. Be careful to only complete the GET practice today. We'll come back to this repo later when we <a href="https://frontend.turing.edu/lessons/module-2/network-requests-posts.html" target="\__blank">learn how to POST</a>!
+Note that this repo will be used for the GET and POST lessons. Be careful to only complete the GET practice today. We'll come back to this repo later when we <a href="https://frontend.thestackcollective.org/lessons/module-2/network-requests-posts.html" target="\__blank">learn how to POST</a>!
 </section>
 
 ## Common Misconceptions

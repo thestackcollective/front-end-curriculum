@@ -4,9 +4,9 @@ layout: page
 
 ## Notes from 1610
 
-[Lesson Plan](http://frontend.turing.edu/lessons/introduction-to-sass.html)
+[Lesson Plan](http://frontend.thestackcollective.org/lessons/introduction-to-sass.html)
 
-And here are the [slides](http://frontend.turing.edu/lessons/introduction-to-sass-slides.html)
+And here are the [slides](http://frontend.thestackcollective.org/lessons/introduction-to-sass-slides.html)
 
 And here is a [repo with Sass, Ideabox and Webpack](https://github.com/rrgayhart/intro-sass-ideabox) that we'll look at
 

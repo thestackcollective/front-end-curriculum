@@ -79,7 +79,7 @@ problem.
     different way you could make the tests pass?  
 
 ### Extension: Refactoring
-  - Preteach yourself the [Dot & Bracket Notation](https://frontend.turing.edu/lessons/module-1/js-dot-bracket-notation.html){:target="_blank"} lesson.
+  - Preteach yourself the [Dot & Bracket Notation](https://frontend.thestackcollective.org/lessons/module-1/js-dot-bracket-notation.html){:target="_blank"} lesson.
   - Revisit your `addMenuItem` and `removeMenuItem` functions.  Consider any similar lines of code and how you might refactor both functions to make use of bracket notation. 
   - Refactor `checkForFood` so that it dynamically checks to see if the food exists in the *restaurant's menu*.  Note you will need to make use of bracket notation in this solution as well.  
   - Ensure that all tests still pass after refactors have been made.

@@ -176,7 +176,7 @@ You are welcome to add your own extensions. Be sure they are thoughtful in terms
 Options:
 - Only allow unique ideas to be added.
 - When a user tries to delete an idea, have them confirm that they really do want to delete it.
-- Implement [localStorage](https://frontend.turing.edu/lessons/module-1/json-and-localstorage.html) so the ideas persist on page load.
+- Implement [localStorage](https://frontend.thestackcollective.org/lessons/module-1/json-and-localstorage.html) so the ideas persist on page load.
 - Create a "Recently Deleted" filter that allows users to see their previously deleted ideas.
 </section>
 
