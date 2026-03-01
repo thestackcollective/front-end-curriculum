@@ -7,7 +7,7 @@ Welcome! Please read this entire page completely. Reach out to your instructors 
 ## Slack Channels
 Make sure you are part of the following channels:
 * **#mod1_repeater_fam**: The main channel for mod1 repeaters. Instructors will post announcements here so it's important to check this channel daily.
-* **#the_repeaters**: A community of Turing students and alumni who have repeated or are currently repeating a module.
+* **#the_repeaters**: A community of TheStackCollective students and alumni who have repeated or are currently repeating a module.
 
 ## Goal Tracking
 Add your name to [this Goals Document](https://docs.google.com/spreadsheets/d/1bQ9zZbW0mxLfMXDLQZT4W2M5Z-nv_6FZ1T5WC8Io8Zo/edit#gid=1626636507) and fill out your goal for Intermission. We will check in on these goals on the Monday of Week 1.  
@@ -30,7 +30,7 @@ The following lessons are not optional. Repeaters must attend:
 
 If you decide to skip a lesson...
 * You should always read through the lesson on your own. If you can complete all of the activities in the lesson without help, you should feel confident skipping that lesson. We recommend doing this no later than the day before the lesson is scheduled. That way, if you realize that you need to attend the class, it's not too late!  
-* You should be spending this time productively. It's not to your benefit to use this time as "off" time. You can use this time to pre-teach an upcoming lesson, review or update your notes, or work on anything in the [Extra Practice page](https://frontend.turing.edu/lessons/module-1/extra-practice.html).
+* You should be spending this time productively. It's not to your benefit to use this time as "off" time. You can use this time to pre-teach an upcoming lesson, review or update your notes, or work on anything in the [Extra Practice page](https://frontend.thestackcollective.org/lessons/module-1/extra-practice.html).
 
 ## Extra Mock Assessments
 We want to support you in overcoming the final assessment, so we've added a few more mock assessments to give you some 1:1 technical feedback from an instructor. You can expect the following sessions to help you prepare:

@@ -26,16 +26,16 @@ A **pure function** is a function that is predictable and always returns the sam
 
 **Impure Function:**
 ```js
-var userEmail = "jeremiah@turing.io";
+var userEmail = "jeremiah@thestackcollective.org";
 
 function confirmEmail() {
   return `Your email address is currently ${userEmail}`;
 }
 
-confirmEmail();  // "Your email address is currently jeremiah@turing.io"
+confirmEmail();  // "Your email address is currently jeremiah@thestackcollective.org"
 
-userEmail = "jeremiah@turing.edu";
-confirmEmail(); // "Your email address is currently jeremiah@turing.edu"
+userEmail = "jeremiah@thestackcollective.org";
+confirmEmail(); // "Your email address is currently jeremiah@thestackcollective.org"
 ```
 
 **Pure Function:**
@@ -44,9 +44,9 @@ function confirmEmail(userEmail) {
   return `Your email address is currently ${userEmail}`;
 }
 
-confirmEmail("jeremiah@turing.io") // "Your email address is currently jeremiah@turing.io"
+confirmEmail("jeremiah@thestackcollective.org") // "Your email address is currently jeremiah@thestackcollective.org"
 
-confirmEmail("jeremiah@turing.edu") // "Your email address is currently jeremiah@turing.edu"
+confirmEmail("jeremiah@thestackcollective.org") // "Your email address is currently jeremiah@thestackcollective.org"
 ```
 </section>
 

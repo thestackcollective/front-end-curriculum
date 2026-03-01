@@ -32,7 +32,7 @@ Before you even begin to prioritize working on technical debt, keep track of it.
 
 When you file issues for technical debt, it's helpful to put a label on them so you can filter through them later. Often times you'll see project issues labeled 'P1', 'P2', 'P3', which represents the priority level of the issue. Usually refactoring issues are labeled with a lower priority (P3 is lower than P1). You might also add a label called 'technical-debt' or 'enhancement'. Feel free to use whatever label makes sense to you, but those are some popular ones you'll see in the wild.
 
-_Note: For Turing students specifically, filing issues is incredibly important. While you're interviewing, issues indicate to an employer that you know how to improve your projects. Even if you don't have time to resolve all of the issues you file (you won't), you can at least signify to potential employers that you're aware x, y, and z are broken and you plan on fixing them. (Filing these issues will also give you nice, bite-sized work to do after graduation when you're trying to keep coding.)_
+_Note: For TheStackCollective students specifically, filing issues is incredibly important. While you're interviewing, issues indicate to an employer that you know how to improve your projects. Even if you don't have time to resolve all of the issues you file (you won't), you can at least signify to potential employers that you're aware x, y, and z are broken and you plan on fixing them. (Filing these issues will also give you nice, bite-sized work to do after graduation when you're trying to keep coding.)_
 
 <!-- go through an example of opening an issue on a project -->
 

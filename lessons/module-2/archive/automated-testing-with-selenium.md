@@ -11,7 +11,7 @@ Testing is an integral part of development. As developers we should really care
 about the things we are creating. Ultimately at some point we need to start
 making a transition into making our code becoming our craft. You have about 3
 more modules left here at your time at turing. As you start thinking about the
-time you have left here at Turing I would challenge you to start looking at
+time you have left here at TheStackCollective I would challenge you to start looking at
 what you're doing here as time dedicated to the pursuit of writing good code.
 That is not only what I believe to be a noble pursuit but your focus goes from
 getting something to pass, or something to work to loving what you're actually

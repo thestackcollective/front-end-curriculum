@@ -271,5 +271,5 @@ Rubric score key:
 
 * **1:**
 
-  - Style and syntax meets the criteria of the [Turing JS Style Guide](https://github.com/turingschool-examples/javascript/tree/master/es5).
+  - Style and syntax meets the criteria of the [TheStackCollective JS Style Guide](https://github.com/turingschool-examples/javascript/tree/master/es5).
   - **Function declarations** are used over anonymous functions in event listeners.

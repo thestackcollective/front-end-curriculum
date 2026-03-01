@@ -183,7 +183,7 @@ print(); // What will print here? Why?
 
 ## The difference between `function () {}` and `() => {}`
 
-ES6 introduced arrow functions, which allow us to write functions with shorter syntax [among other things](http://frontend.turing.edu/lessons/module-2/es5-vs-es6.html#arrow-functions). Beside being quicker to write/read, the way arrow functions bind `this` is a bit different:
+ES6 introduced arrow functions, which allow us to write functions with shorter syntax [among other things](http://frontend.thestackcollective.org/lessons/module-2/es5-vs-es6.html#arrow-functions). Beside being quicker to write/read, the way arrow functions bind `this` is a bit different:
 
 <section class="call-to-action">
 ### In Breakout Groups

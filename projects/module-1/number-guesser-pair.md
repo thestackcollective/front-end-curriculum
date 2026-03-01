@@ -23,7 +23,7 @@ Over the next two weeks, you'll work with a teammate to build a two-player game!
 - Create a project on your machine title `number-guesser`
   - Touch `index.html`, `styles.css`, and `main.js` files inside the project
   - Create a `assets` directory inside the project
-- Follow the directions [here](https://frontend.turing.edu/lessons/module-1/github-repo.html) to set up a local Git repository and connect it to a remote GitHub repository.
+- Follow the directions [here](https://frontend.thestackcollective.org/lessons/module-1/github-repo.html) to set up a local Git repository and connect it to a remote GitHub repository.
 - In the "Settings" tab, click "Collaborators & teams", then type your partners email or GitHub handle in to invite them. Either send them the provided link in Slack or tell them to check their email for the link.
 
 **Now, the other partner should follow these directions:**
@@ -154,7 +154,7 @@ Mobile layout:
 * **4:** Code does not contain repetitive rules according to the [DRY principle](https://vanseodesign.com/css/dry-principles/). Application uses [BEM](http://getbem.com/), [SMACCS](http://smacss.com/), or another set of naming conventions for classes
 * **3:** A method is used to order declarations within a rule (get some inspiration [here](https://9elements.com/css-rule-order/) and [here](https://webdesign.tutsplus.com/articles/outside-in-ordering-css-properties-by-importance--cms-21685))
 * **2:** A method is used to order the rules within the stylesheet. Comments are used to help a reader more quickly navigate the sheet.
-* **1:** Whitespace, indentation and comments meet requirements of the [Turing CSS Style Guide](https://github.com/turingschool-examples/css).
+* **1:** Whitespace, indentation and comments meet requirements of the [TheStackCollective CSS Style Guide](https://github.com/turingschool-examples/css).
 
 ------------------------------------------------------------------
 
@@ -172,7 +172,7 @@ Mobile layout:
   * All parameters are used in their respective functions
   * Uses function declarations over anonymous functions in event listeners
   * Uses if/else statements to handle multiple paths of logic/error handling
-* **1:** Crafts JS according to the [Turing JS style guide](https://github.com/turingschool-examples/javascript/tree/master/es5)
+* **1:** Crafts JS according to the [TheStackCollective JS style guide](https://github.com/turingschool-examples/javascript/tree/master/es5)
 
 ------------------------------------------------------------------
 

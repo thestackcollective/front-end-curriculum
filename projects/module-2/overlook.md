@@ -44,7 +44,7 @@ It is up to you to decide what changes warrant a PR – remember we want to subm
 
 * **Fetch API** to retrieve and add data
 * **Mocha** and **Chai** for testing your code
-* [**Webpack**](https://frontend.turing.edu/lessons/module-2/build-processes-with-npm-webpack.html)
+* [**Webpack**](https://frontend.thestackcollective.org/lessons/module-2/build-processes-with-npm-webpack.html)
 
 ## Initial Setup
 

@@ -123,7 +123,7 @@ If you read the comments on this blog post over at [CSS-Tricks](https://css-tric
 
 ## ES5 vs ES6 Review
 
-[ES6 Overview](http://frontend.turing.edu/lessons/module-2/es5-vs-es6.html)
+[ES6 Overview](http://frontend.thestackcollective.org/lessons/module-2/es5-vs-es6.html)
 
 ### Main Themes:
 

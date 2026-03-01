@@ -217,8 +217,8 @@ To earn a given score, an application must meet the requirements listed in that 
   - Application uses an appropriate amount of [HTML semantic elements](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure). Semantic elements like `<button>`, `<li>`, etc. are used instead of `<div>`. If `<div>` elements are used, they are only for styling purposes.
   - Application utilizes organizational conventions for the whole CSS stylesheet. This may look like - grouping native elements, typography styles, layout styles, etc. together.
 * **1:**
-  - Crafts CSS according to the [Turing CSS style guide](https://github.com/turingschool-examples/css)
-  - Crafts markup according to the [Turing HTML style guide](https://github.com/turingschool-examples/html)
+  - Crafts CSS according to the [TheStackCollective CSS style guide](https://github.com/turingschool-examples/css)
+  - Crafts markup according to the [TheStackCollective HTML style guide](https://github.com/turingschool-examples/html)
 
 ### JavaScript - Style and Implementation
 
@@ -238,7 +238,7 @@ To earn a given score, an application must meet the requirements listed in that 
   * Data model is built to the specifications detailed in the spec sheet and is fully separated from the DOM. Example: There should not be any DOM manipulation in class files. - example: there is no DOM logic in the `Activity` class.
   * All console logs, debuggers and comments are removed from code before submitting.
 * **1:**
-  * Crafts JS according to the [Turing JS style guide](https://github.com/turingschool-examples/javascript/tree/master/es5)
+  * Crafts JS according to the [TheStackCollective JS style guide](https://github.com/turingschool-examples/javascript/tree/master/es5)
 
 
 ### Functional Expectations

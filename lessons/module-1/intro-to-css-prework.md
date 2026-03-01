@@ -17,13 +17,13 @@ They are:
 2. Internal CSS
 3. External CSS
 
-Modern applications utilize **External CSS**, as we will during your time at Turing. An External StyleSheet is when we have a CSS file (ends with the file extension `.css`) that is linked to the HTML document. It's good to have a little background on the other two methods as you may occasionally come across examples in documentation or Stack Overflow (SO) posts. You can read up on them [here](https://www.freecodecamp.org/news/get-started-with-css-in-5-minutes-e0804813fc3e/).
+Modern applications utilize **External CSS**, as we will during your time at TheStackCollective. An External StyleSheet is when we have a CSS file (ends with the file extension `.css`) that is linked to the HTML document. It's good to have a little background on the other two methods as you may occasionally come across examples in documentation or Stack Overflow (SO) posts. You can read up on them [here](https://www.freecodecamp.org/news/get-started-with-css-in-5-minutes-e0804813fc3e/).
 
 ## Syntax & Style
 
 There can be broad variations in how an external CSS file looks, but still do the same thing. As developers, half of the challenge of our job is to **make sure code is readable and maintainable** - by others and future you. This is why clean and consistent syntax and style is essential to your practice. Building the habit of taking the time to write clean code is a huge part of your work in Module 1.
 
-Take a few minutes to familiarize yourself with the [Turing CSS Style Guide](https://github.com/turingschool-examples/css). You will be expected to meet the requirements in it throughout your time here.
+Take a few minutes to familiarize yourself with the [TheStackCollective CSS Style Guide](https://github.com/turingschool-examples/css). You will be expected to meet the requirements in it throughout your time here.
 
 ## Commonly Used Properties
 

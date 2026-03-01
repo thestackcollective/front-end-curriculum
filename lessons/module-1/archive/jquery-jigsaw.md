@@ -78,7 +78,7 @@ Let's review and attempt to answer all the questions on the board together.
 
 ## Homework (Additional Resources)
 
-Go through [this lesson](http://frontend.turing.edu/lessons/module-1/introduction-to-jquery.html) to review jQuery and get more practice actually using the library.
+Go through [this lesson](http://frontend.thestackcollective.org/lessons/module-1/introduction-to-jquery.html) to review jQuery and get more practice actually using the library.
 
 ***
 

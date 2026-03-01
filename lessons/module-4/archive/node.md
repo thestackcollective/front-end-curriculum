@@ -20,11 +20,11 @@ Even as a front-end developer, it's important to have a basic understanding of w
 ### The Server
 A server is simply a computer or program that handles sending, retrieving and manipulating resources for a client. There are many different types of servers, but when we are building web applications, we're most concerned with what's called a **Web Server** or an **HTTP Server**. You'll often hear these two terms used interchangeably, or simply shortened to "server".
 
-An **HTTP Server** handles any network requests by providing responses that can be HTML pages, files, data, etc. For example, when we navigate to [https://www.turing.io/](https://www.turing.io/) in our browser (**Web Client**), we are really making a request to an HTTP server. The server is then responding with all of the HTML needed to render the page. We can even visually see this by looking in the 'Network' tab of our developer tools:
+An **HTTP Server** handles any network requests by providing responses that can be HTML pages, files, data, etc. For example, when we navigate to [https://www.thestackcollective.org/](https://www.thestackcollective.org/) in our browser (**Web Client**), we are really making a request to an HTTP server. The server is then responding with all of the HTML needed to render the page. We can even visually see this by looking in the 'Network' tab of our developer tools:
 
 ![network requests][network-requests]
 
-The network tab will list any requests you make to the server. If we search for `www.turing.io`, in the top left of the network panel, we can see that the type of request we made was for a `document`. If we click on this request, we can also see information about the request itself, as well as the response we were given. Clicking on the 'Response' tab, you'll see the entire markup of the HTML document we requested:
+The network tab will list any requests you make to the server. If we search for `www.thestackcollective.org`, in the top left of the network panel, we can see that the type of request we made was for a `document`. If we click on this request, we can also see information about the request itself, as well as the response we were given. Clicking on the 'Response' tab, you'll see the entire markup of the HTML document we requested:
 
 ![network response][network-response]
 
@@ -34,10 +34,10 @@ The network tab will list any requests you make to the server. If we search for 
 #### Making Requests to the Server
 Our applications will request HTML documents, CSS files, images, and data. The way each of these requests are made is quite different:
 
-* Typing a URL like `https://www.turing.io` into the browser makes a request for an HTML document
-* Including a link tag to request an external stylesheet: `<link href="https://www.turing.io/css/styles.css" />`
-* Adding an image element to display a logo: `<img src="https://www.turing.io/images/logo.png" />`.
-* Making a fetch request to retrieve data: `fetch('https://www.turing.io/api/v1/curriculum/')`
+* Typing a URL like `https://www.thestackcollective.org` into the browser makes a request for an HTML document
+* Including a link tag to request an external stylesheet: `<link href="https://www.thestackcollective.org/css/styles.css" />`
+* Adding an image element to display a logo: `<img src="https://www.thestackcollective.org/images/logo.png" />`.
+* Making a fetch request to retrieve data: `fetch('https://www.thestackcollective.org/api/v1/curriculum/')`
 
 While the syntax for each of these requests looks significantly different, they all share one thing in common: *Every request we make to an HTTP Server requires a URL.*
 
@@ -45,7 +45,7 @@ While the syntax for each of these requests looks significantly different, they 
 
 [url-pic]: /assets/images/lessons/http-rest-node-server/url-pic.gif
 
-When fetching data, you'll often hear the URL referred to as an "endpoint". These endpoints (e.g. `https://www.turing.io/api/v1/curriculum/`) are created by the back-end developers on a team to help the front-end developers access and interact with application data. Just like the front-end, there are many frameworks and libraries that back-end developers will use to to set up a proper HTTP Server with all the necessary endpoints.
+When fetching data, you'll often hear the URL referred to as an "endpoint". These endpoints (e.g. `https://www.thestackcollective.org/api/v1/curriculum/`) are created by the back-end developers on a team to help the front-end developers access and interact with application data. Just like the front-end, there are many frameworks and libraries that back-end developers will use to to set up a proper HTTP Server with all the necessary endpoints.
 
 *Note on HTTP: It is simply the protocol for transmitting documents across the internet. There are a bunch more (SSH, POP,FTP...) but we will focus on HTTP since it's primarily used for communication between web browsers and web servers. Hypertext is just structured text that uses links (hyperlinks) between other nodes of structured text. The key to HTTP is that it is stateless, the server doesn’t save data between requests.*
 

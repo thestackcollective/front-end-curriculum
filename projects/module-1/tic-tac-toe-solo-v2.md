@@ -196,7 +196,7 @@ As mentioned above, functionality does have more weight in this final project in
 ### Javascript
 
 💫ON TRACK💫 can look like:
-- Crafts JS according to the [Turing JS Style Guide](https://github.com/turingschool-examples/javascript/tree/master/es5)
+- Crafts JS according to the [TheStackCollective JS Style Guide](https://github.com/turingschool-examples/javascript/tree/master/es5)
 - No nested if/else statements or for loops.
 - Functions are DRY and adhere to the Single Responsibility Principle (SRP)
 - Global variables are thoughtfully created, with a clear understanding demonstrated as to what needs to be global and what can be local
@@ -213,7 +213,7 @@ As mentioned above, functionality does have more weight in this final project in
 ### HTML
 
 💫ON TRACK💫 can look like:
-- Crafts markup according to the [Turing HTML style guide](https://github.com/turingschool-examples/html)
+- Crafts markup according to the [TheStackCollective HTML style guide](https://github.com/turingschool-examples/html)
 - Application utilizes consistent naming for HTML classes and IDs, and follows suggested conventions. _Example: classes should be named using kebab-case, ids should be used sparingly_
 - Application uses an appropriate amount of [HTML semantic elements](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure). If `<div>` or `<span>` elements are used, they are only for styling purposes.
 
@@ -226,7 +226,7 @@ As mentioned above, functionality does have more weight in this final project in
 ### CSS
 
 💫ON TRACK💫 can look like:
-- Crafts CSS according to the [Turing CSS style guide](https://github.com/turingschool-examples/css)
+- Crafts CSS according to the [TheStackCollective CSS style guide](https://github.com/turingschool-examples/css)
 - Application utilizes organizational conventions for the whole CSS stylesheet. This may look like - grouping native elements, typography styles, layout styles, etc. together.
 - CSS includes several examples of using a class to apply a styling rule block to multiple elements.
 - The design of the page is cohesive and ensures an intuitive user experience. Any user could navigate the application without any guidance from the developer.

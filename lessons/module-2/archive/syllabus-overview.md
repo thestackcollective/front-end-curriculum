@@ -13,14 +13,14 @@ Support: Leta Keane @letak
 
 ### Inclusivity Statement
 
- We understand our community members represent a rich variety of backgrounds and perspectives. Turing is committed to providing an atmosphere for learning that respects diverse people:
+ We understand our community members represent a rich variety of backgrounds and perspectives. TheStackCollective is committed to providing an atmosphere for learning that respects diverse people:
 
  * share their unique experiences, values and beliefs
  * are open to the views of others
  * honor the uniqueness of their fellow members
  * appreciate the opportunity that we have to learn from each other in this community
  * value each other’s opinions and communicate in a respectful manner
- * use this opportunity together to discuss ways in which we can create an inclusive environment at Turing and across the tech community at large
+ * use this opportunity together to discuss ways in which we can create an inclusive environment at TheStackCollective and across the tech community at large
 
 ### Our Focus
 

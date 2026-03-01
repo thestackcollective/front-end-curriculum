@@ -169,17 +169,17 @@ You will need the `svg` files for the star, delete, upvote, downvote, and menu i
 
 ### HTML - Style and Implementation
 
-* [ ]  Novice - Crafts markup according to the [Turing HTML Style Guide](https://github.com/turingschool-examples/html)
+* [ ]  Novice - Crafts markup according to the [TheStackCollective HTML Style Guide](https://github.com/turingschool-examples/html)
 * [ ]  Advanced Beginner - Application adds to the above by using appropriate semantic elements and using `data-*` attributes for all data related things
 * [ ]  Proficient - Applications adds to the above with markup that is easy to read and follow across naming conventions
 * [ ]  Exceptional - Application adds to the above by using [BEM](http://getbem.com/), [SMACCS](https://smacss.com/), or another set of naming conventions for classes and:
-  * [ ]  Implements html that is accessible for folks with visual disabilities. Reference [this lesson](http://frontend.turing.edu/lessons/floating/web-accessibility.html)
+  * [ ]  Implements html that is accessible for folks with visual disabilities. Reference [this lesson](http://frontend.thestackcollective.org/lessons/floating/web-accessibility.html)
 
 ------------------------------------------------------------------
 
 ### CSS - Style and Implementation
 
-* [ ]  Novice - Crafts CSS according to the [Turing CSS Style Guide](https://github.com/turingschool-examples/css)
+* [ ]  Novice - Crafts CSS according to the [TheStackCollective CSS Style Guide](https://github.com/turingschool-examples/css)
 * [ ]  Advanced Beginner - Application adds organization for the whole stylesheet and within rules
 * [ ]  Proficient - Applications adds to the above by removing repetitive rules and blocks of code according to the DRY principle
 * [ ]  Exceptional - Application adds to the above by using [BEM](http://getbem.com/), [SMACCS](https://smacss.com/), or another set of naming conventions for classes
@@ -188,7 +188,7 @@ You will need the `svg` files for the star, delete, upvote, downvote, and menu i
 
 ### JAVASCRIPT - Style and Implementation
 
-* [ ]  Novice - Crafts JS according to the [Turing JS Style Guide](https://github.com/turingschool-examples/javascript/tree/master/es5)
+* [ ]  Novice - Crafts JS according to the [TheStackCollective JS Style Guide](https://github.com/turingschool-examples/javascript/tree/master/es5)
 * [ ]  Advanced Beginner - Application adds to the above by correctly implementing a data model for the `Idea` class including all required methods
 * [ ]  Proficient - Application adds readability by incorporating both DRY and SRP practices and students can speak to implementation decisions and:
   * [ ]  Uses event delegation correctly on dynamic elements for deleting, editing, & starring an idea

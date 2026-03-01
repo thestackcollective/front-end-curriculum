@@ -6,7 +6,7 @@ tags: git, github
 
 ### Prework: 
 
-The first time you start using Git and GitHub, understanding how it all works can be a lot to take in.   Luckily, one of the staff at Turing recently wrote a [blog](https://www.coursereport.com/blog/what-is-github) about what Git is and why it is so important in the developer community.    
+The first time you start using Git and GitHub, understanding how it all works can be a lot to take in.   Luckily, one of the staff at TheStackCollective recently wrote a [blog](https://www.coursereport.com/blog/what-is-github) about what Git is and why it is so important in the developer community.    
 
 CodeCademy also has a great walkthrough for Git on how the entire process works and some of the commands you'll commonly use.  Please complete [Section 1: Basic Git Workflow](https://www.codecademy.com/learn/learn-git) (up to, but not including 'Manhattan Zoo'), before the lesson.
 
@@ -356,7 +356,7 @@ Our changes are now completely synced. The master branch locally is the same as 
 
 #### A Typical Workflow
 
-To summarize the example above, a typical workflow for a project tracked with Git and GitHub is layed out well [here](http://frontend.turing.edu/lessons/module-1/dev-skills-git-team-workflow.html).
+To summarize the example above, a typical workflow for a project tracked with Git and GitHub is layed out well [here](http://frontend.thestackcollective.org/lessons/module-1/dev-skills-git-team-workflow.html).
 
 ### Your Turn: using the workflow
 
@@ -416,8 +416,8 @@ Optional:
 
 ### Additional Resources
 
-  * [Team Workflow](http://frontend.turing.edu/lessons/module-1/dev-skills-git-team-workflow.html)
-  * [Common git commands and a link to a giant cheetsheet](http://frontend.turing.edu/lessons/module-1/git-commands.html)
+  * [Team Workflow](http://frontend.thestackcollective.org/lessons/module-1/dev-skills-git-team-workflow.html)
+  * [Common git commands and a link to a giant cheetsheet](http://frontend.thestackcollective.org/lessons/module-1/git-commands.html)
   * [Rules of Git Commit Messages](http://chris.beams.io/posts/git-commit/)
   * [GitHub Tutorials](https://guides.github.com/)
   * [git docs](https://git-scm.com/docs)

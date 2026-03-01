@@ -38,7 +38,7 @@ Below are instructions for deploying to GH Pages:
 </section>
 
 <section class="answer">
-### Why are our PRs pushing to the Turing repo?
+### Why are our PRs pushing to the TheStackCollective repo?
 
 Forks are typically used to let someone propose changes to your project, that would eventually be merged back into the original repo you forked from. So a fork will always remain connected to the original repo.
 
@@ -204,7 +204,7 @@ Competency & understanding of these concepts can be demonstrated in many ways. *
 ### JavaScript
 
 💫ON TRACK💫 can look like:
-- JS is formatted according to the [Turing JS style guide](https://github.com/turingschool-examples/javascript/tree/main/es5)
+- JS is formatted according to the [TheStackCollective JS style guide](https://github.com/turingschool-examples/javascript/tree/main/es5)
 - The main JS file is organized thoughtfully (DOM variables together, event listeners together, functions together)
 - Variable and function naming is meaningful, readable, and follow convention. (Arrays are plural, functions begin with present-tense verb, etc.) 
 - Functions are DRY (Don't Repeat Yourself) and demonstrate SRP (Single Responsibility Principle)

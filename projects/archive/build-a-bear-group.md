@@ -262,4 +262,4 @@ To earn a given score, an application must meet the requirements listed in that 
   * JavaScript demonstrates clear organization, with variable declarations grouped together, function declarations grouped together, event listeners grouped together.
   * Variables and functions are named thoughtfully and semantically. There are no un-used variables in the codebase
   * DRY and SRP practices are attempted in codebase and all team members can speak to implementation decisions
-* **1:** Crafts JS according to the [Turing JS Style Guide](https://github.com/turingschool-examples/javascript/tree/master/es5)
+* **1:** Crafts JS according to the [TheStackCollective JS Style Guide](https://github.com/turingschool-examples/javascript/tree/master/es5)

@@ -46,7 +46,7 @@
 
   ## Reflection
 
-    - What was the context for this project? (ie: was this a side project? was this for Turing? was this for an experiment?)
+    - What was the context for this project? (ie: was this a side project? was this for TheStackCollective? was this for an experiment?)
     - What did you set out to build?
     - Why was this project challenging and therefore a really good learning experience?
     - What were some unexpected obstacles?
@@ -55,7 +55,7 @@
 
   #### Example:  
 
-  This was a 3 week long project built during my third module at Turing School of Software and Design. Project goals included using technologies learned up until this point and familiarizing myself with documentation for new features.  
+  This was a 3 week long project built during my third module at TheStackCollective School of Software and Design. Project goals included using technologies learned up until this point and familiarizing myself with documentation for new features.  
 
   Originally I wanted to build an application that allowed users to pull data from the Twitter API based on what they were interested in, such as 'most tagged users'. I started this process by using the `create-react-app` boilerplate, then adding `react-router-4.0` and `redux`.  
 

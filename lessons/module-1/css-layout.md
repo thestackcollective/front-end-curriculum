@@ -15,7 +15,7 @@ But first, the road to enlightenment: [CSS Zen Garden](http://www.csszengarden.c
 
 ## Pre-Work
 
-Come prepared to class by reading [CSS Specificity + Combinators](https://frontend.turing.edu/lessons/module-1/css-specificity-combinators.html)
+Come prepared to class by reading [CSS Specificity + Combinators](https://frontend.thestackcollective.org/lessons/module-1/css-specificity-combinators.html)
 
 ## Warm Up
 
@@ -123,4 +123,4 @@ For now, don't worry about the social media icons; focus on the bigger elements 
 
 ## Additional Resources
 
-* [Turing CSS Style Guide](https://github.com/turingschool-examples/css)
+* [TheStackCollective CSS Style Guide](https://github.com/turingschool-examples/css)

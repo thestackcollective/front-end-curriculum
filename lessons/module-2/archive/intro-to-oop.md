@@ -22,7 +22,7 @@ When you're considering creating an object you should look at the `Law of Demete
 You want to think of an object like it were a template and an instance of that object is a specific version or type of that original template.
 
 
-TRY IT: With your pair, brainstorm five types of objects and specific instances of that object that are at Turing. For example:
+TRY IT: With your pair, brainstorm five types of objects and specific instances of that object that are at TheStackCollective. For example:
 
 **Type of object**: Cubby
 
@@ -62,4 +62,4 @@ Let's build some stuff!
 
 ### Homework
 
-For your homework please make sure to build out phases 1 through 3 in the Flash Cards [project](http://frontend.turing.edu/projects/flash-cards.html). This will help you understand the role of objects as you start your game time journey.
+For your homework please make sure to build out phases 1 through 3 in the Flash Cards [project](http://frontend.thestackcollective.org/projects/flash-cards.html). This will help you understand the role of objects as you start your game time journey.

@@ -8,7 +8,7 @@ module: 3
 <section class="note">
 ### Note
 
-React Router just released the newest version - `version 6`. This lesson has been updated to reflect the changes for v6. If you're looking for the v5 lesson, go [here](https://frontend.turing.edu/lessons/module-3/react-router-v5.html). Interested in upgrading your v5 app to v6? Start [here](https://reactrouter.com/en/6.11.1/upgrading/v5).
+React Router just released the newest version - `version 6`. This lesson has been updated to reflect the changes for v6. If you're looking for the v5 lesson, go [here](https://frontend.thestackcollective.org/lessons/module-3/react-router-v5.html). Interested in upgrading your v5 app to v6? Start [here](https://reactrouter.com/en/6.11.1/upgrading/v5).
 </section>
 
 ## Learning Goals:
@@ -29,7 +29,7 @@ React Router just released the newest version - `version 6`. This lesson has bee
 <section class="checks-for-understanding">
 ## Prework  
 
-Before the lesson, complete the [prework](https://frontend.turing.edu/lessons/module-3/intro-to-router-self-study-lesson.html){:target='blank'}.
+Before the lesson, complete the [prework](https://frontend.thestackcollective.org/lessons/module-3/intro-to-router-self-study-lesson.html){:target='blank'}.
 
 You might also find it helpful to watch [this video walkthrough](https://www.youtube.com/watch?v=Ul3y1LXxzdU) before the lesson, but it's not required.
 </section>

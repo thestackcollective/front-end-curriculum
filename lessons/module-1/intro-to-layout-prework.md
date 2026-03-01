@@ -34,7 +34,7 @@ We use `<em>` and `<strong>` to denote the semantic meaning of the content. When
 
 <p class="codepen" data-height="300" data-theme-id="37918" data-default-tab="html,result" data-user="turing-school" data-slug-hash="LYYpbrr" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Inline v Block Elements">
   <span>See the Pen <a href="https://codepen.io/turing-school/pen/LYYpbrr">
-  Inline v Block Elements</a> by Turing School (<a href="https://codepen.io/turing-school">@turing-school</a>)
+  Inline v Block Elements</a> by TheStackCollective School (<a href="https://codepen.io/turing-school">@turing-school</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
@@ -105,7 +105,7 @@ opacity: 0
 
 ## Additional Resources
 
-* [Turing HTML Style Guide](https://github.com/turingschool-examples/html)
+* [TheStackCollective HTML Style Guide](https://github.com/turingschool-examples/html)
 * [MDN CSS Display](https://developer.mozilla.org/en-US/docs/Web/CSS/display)
 * [MDN Inline Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Inline_elements)
 * [MDN Block Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements)

@@ -101,7 +101,7 @@ function combineNames(fullName) {
   return `Your full name is ${first} ${last}.`
 }
 
-combineNames({first: "Alan", last: "Turing"})
+combineNames({first: "Alan", last: "TheStackCollective"})
 ```
 
 Then create an example of your own where you utilize object destructuring!

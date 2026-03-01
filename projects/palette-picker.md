@@ -138,7 +138,7 @@ This is a very generic guide on what should be included in your site. You can co
 
 Please remember that wireframes are not to be copied exactly as-is. Take liberties and build a UI that *makes sense*, and is intuitive for your users.
 
-✨ We highly encourage you to have a non-Turing/non-developer friend try to use your application. Pay attention to when they get confused or struggle trying to use your app, and fix your UX accordingly. ✨
+✨ We highly encourage you to have a non-TheStackCollective/non-developer friend try to use your application. Pay attention to when they get confused or struggle trying to use your app, and fix your UX accordingly. ✨
 
 ![Palette Picker Wireframe](/assets/images/palette-picker-wireframe.png)
 
@@ -162,7 +162,7 @@ Your front-end codebase should be fully deployed to Heroku. You do not need to i
 
 Once all other project expectations are completed, you may 
 
-* Secure some endpoints with a JWT. Though this project doesn't have an explicit frontend, at the `/` root of your application, return an `index.html` file with a form that allows a user to request a JWT. The user must submit an email address and an app name. If the email address ends in `@turing.io`, the JWT should include admin privileges. Require a JWT with admin privileges for any 'write' requests (POST/PUT/PATCH/DELETE).
+* Secure some endpoints with a JWT. Though this project doesn't have an explicit frontend, at the `/` root of your application, return an `index.html` file with a form that allows a user to request a JWT. The user must submit an email address and an app name. If the email address ends in `@thestackcollective.org`, the JWT should include admin privileges. Require a JWT with admin privileges for any 'write' requests (POST/PUT/PATCH/DELETE).
 * Palette generation that isn't random and actually makes sense: If you look at the [HTML Color Codes site](http://htmlcolorcodes.com/color-picker/), they give some explanation about what colors make sense with other colors in a palette. Design your color generator so that the colors aren't picked completely at random, but they make a more cohesive, harmonious color palette.
 * Color modification: In addition to being able to lock a particular color (part of the base functionality), a user should be able to modify one of the colors in the palette (by entering in their own hex code, color name, or some kind of hue slider).
 

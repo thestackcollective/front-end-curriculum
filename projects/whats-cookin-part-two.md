@@ -43,7 +43,7 @@ Dates and deadlines to be aware of:
 
 ## Functionality
 
-You must complete all of the remaining user stories from the [What's Cookin Spec](https://frontend.turing.edu/projects/whats-cookin-part-one.html){:target='blank'}. If you did not finish parts of the original requirements, this is your chance to revisit and finish all of the functionality. In addition to the Part One requirements you must also ***implement your instructor's feedback*** and add ***"Iteration Four"*** and include proper ***Error Handling***.
+You must complete all of the remaining user stories from the [What's Cookin Spec](https://frontend.thestackcollective.org/projects/whats-cookin-part-one.html){:target='blank'}. If you did not finish parts of the original requirements, this is your chance to revisit and finish all of the functionality. In addition to the Part One requirements you must also ***implement your instructor's feedback*** and add ***"Iteration Four"*** and include proper ***Error Handling***.
 
 ### Iteration 4 - Pantries
 
@@ -151,7 +151,7 @@ You are *not expected* to test:
 ---
 
 ## Extensions
-* If you didn't get a chance to experiment with an NPM package in [Part One](https://frontend.turing.edu/projects/whats-cookin-part-one.html), try one out here! Remember to revisit the list of approved NPM packages, or run a new one by your project manager first.
+* If you didn't get a chance to experiment with an NPM package in [Part One](https://frontend.thestackcollective.org/projects/whats-cookin-part-one.html), try one out here! Remember to revisit the list of approved NPM packages, or run a new one by your project manager first.
 * Instead of displaying a random user when the app starts, implement a login, or a way to select which user to view.
 * Create a video of your team navigating through your app via a keyboard and screen reader.
 * Implement an animation using CSS and Sass and/or make your application responsive on smaller screen sizes.

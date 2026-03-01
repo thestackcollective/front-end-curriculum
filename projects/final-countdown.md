@@ -14,8 +14,8 @@ This take-home challenge is meant to be completed **on your own**. You are not a
 To demonstrate:
 
 - Professional workflow (git branches, commits, _waffle board_)
-- Front-end engineering knowledge learned throughout time at Turing
-- The ability to use a concept/library/framework that you have not been taught explicitly at Turing
+- Front-end engineering knowledge learned throughout time at TheStackCollective
+- The ability to use a concept/library/framework that you have not been taught explicitly at TheStackCollective
 
 ## Timeline
 

@@ -27,11 +27,11 @@ To get more practice with express, and to save our future selves some headaches,
 ## Where will I get this data?
 Great question! The data can come from anywhere.
 - You could hand roll the data yourself (i.e. manually type it out yourself - no shortcuts).
-- You could learn how to [scrape the web](https://frontend.turing.edu/lessons/module-4/web-scraping-workshop).
+- You could learn how to [scrape the web](https://frontend.thestackcollective.org/lessons/module-4/web-scraping-workshop).
 - You could use websites like [data.world](https://data.world/search?q=) to search for datasets in the `.csv` format, and do some research about how to convert that `.csv` file into JSON.
 
 ## What type of data should I use?
-Keeping your future project in mind will help guide you - maybe take some time to read over the [Showcase project spec sheet](https://frontend.turing.edu/projects/module-3/showcase.html).
+Keeping your future project in mind will help guide you - maybe take some time to read over the [Showcase project spec sheet](https://frontend.thestackcollective.org/projects/module-3/showcase.html).
 
 Ultimately, you want to choose data that is
 - Interesting/exciting to you

@@ -12,7 +12,7 @@ The project is due on Tuesday of Week 6.
 ### Past Capstones
 
 * [Ian and Graham's We the People Native](https://github.com/ianlancaster/we-the-people-native)
-* [Jeff, David, Casey, Pete and Kirsten's Turing Fridays](https://github.com/Jeff-Duke/turing-fridays)
+* [Jeff, David, Casey, Pete and Kirsten's TheStackCollective Fridays](https://github.com/Jeff-Duke/turing-fridays)
 
 ## Expectations
 
@@ -28,7 +28,7 @@ I really like the subtle drop-shadows on these [notifications](https://dribbble.
 
 ### Demonstrating What You've Learned
 
-This project should encapsulate what you've learned throughout Turing, and anything else you've been interested in exploring. We'd like to see a strong emphasis on some of the technologies you've learned in mod 4:
+This project should encapsulate what you've learned throughout TheStackCollective, and anything else you've been interested in exploring. We'd like to see a strong emphasis on some of the technologies you've learned in mod 4:
 
 * CSS Transitions & Animations
 * Git Hooks & Advanced Workflow
@@ -65,7 +65,7 @@ Get together in small groups or with a partner:
 * Practice a pitch to sell your ideas to the class
 
 Summarize and post your ideas of what kind of applications you could build off of your BYOB (or a new backend you'd like to build). For *each idea* create
-an issue on the [Turing Mastery Project repo](https://github.com/turingschool/mastery_project). Summarize the idea in the following format:
+an issue on the [TheStackCollective Mastery Project repo](https://github.com/turingschool/mastery_project). Summarize the idea in the following format:
 
 Issue Name: (Name of the Project)  
 Issue Description:

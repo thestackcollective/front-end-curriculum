@@ -26,7 +26,7 @@ Below are ways you can get in additional practice throughout the inning. None of
 * [typeof](https://replit.com/@frontend-instructors/typeofpractice#index.js)
 * [Functions 1 (parameters, arguments, conditionals)](https://replit.com/@frontend-instructors/Functions-Workshop#index.js)
 * [Objects 1](https://replit.com/@frontend-instructors/Objects-Practice#index.js)
-* [Objects 2](https://frontend.turing.edu/lessons/module-1/objects-review.html)
+* [Objects 2](https://frontend.thestackcollective.org/lessons/module-1/objects-review.html)
 * [Objects 3](https://replit.com/@frontend-instructors/Objects-Practice-2#index.js)
 * [Arrays 1](https://replit.com/@frontend-instructors/Arrays-Practice-1#index.js)
 * [Arrays 2](https://replit.com/@frontend-instructors/Arrays-Practice-2#index.js)
@@ -84,5 +84,5 @@ Below are ways you can get in additional practice throughout the inning. None of
 ### Deprecated Projects
 
 * [MadLibs](https://github.com/turingschool-examples/winter-mad-libs)
-* [Number Guesser](https://frontend.turing.edu/projects/module-1/number-guesser-pair.html)🌶
+* [Number Guesser](https://frontend.thestackcollective.org/projects/module-1/number-guesser-pair.html)🌶
 </section>

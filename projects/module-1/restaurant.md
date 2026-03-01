@@ -4,10 +4,10 @@ title: JS Fun at a Restaurant
 
 ## Welcome to your first project!
 
-Since this is your first Turing project, let's go over some general information regarding projects at Turing:  
+Since this is your first TheStackCollective project, let's go over some general information regarding projects at TheStackCollective:  
 - You will not learn everything in class that you need for projects - this is intentional. Content will be “just in time” - you should need every lesson.This can be painful in the moment, but it is essential for long-term success. **If you’re focused on learning over getting a good “grade”, this is where the growth will really happen.**
 - Projects tend to be 1-2 weeks in duration (though this varies). Some projects will be solo, some will be paired, and some will be completed as a group (of 3-6 people). This will give you essential experience with various workflows.   
-- Projects are evaluated by an instructor. Feedback will look different for each project, but we expect that you reflect on your feedback and implement it in the next project. Feedback is a critical learning tool at Turing. Don’t beat yourself up over any feedback. Use it. Learn from it.  
+- Projects are evaluated by an instructor. Feedback will look different for each project, but we expect that you reflect on your feedback and implement it in the next project. Feedback is a critical learning tool at TheStackCollective. Don’t beat yourself up over any feedback. Use it. Learn from it.  
 - Most project specs will contain a rubric at the bottom so that you know exactly what is expected from you. The rubrics also ensure that your instructors are grading using a consistent and unbiased framework.  
 
 ## Overview
@@ -79,7 +79,7 @@ problem.
     different way you could make the tests pass?  
 
 ### Extension: Refactoring
-  - Preteach yourself the [Dot & Bracket Notation](https://frontend.turing.edu/lessons/module-1/js-dot-bracket-notation.html){:target="_blank"} lesson.
+  - Preteach yourself the [Dot & Bracket Notation](https://frontend.thestackcollective.org/lessons/module-1/js-dot-bracket-notation.html){:target="_blank"} lesson.
   - Revisit your `addMenuItem` and `removeMenuItem` functions.  Consider any similar lines of code and how you might refactor both functions to make use of bracket notation. 
   - Refactor `checkForFood` so that it dynamically checks to see if the food exists in the *restaurant's menu*.  Note you will need to make use of bracket notation in this solution as well.  
   - Ensure that all tests still pass after refactors have been made.

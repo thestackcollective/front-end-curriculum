@@ -27,7 +27,7 @@ In this lesson, we will hand-roll a boilerplate repo that we'll use for our Sort
     touch lib/index.js test/index-test.js README.md
     ```
 
-4. Initialize git and push your repo to GitHub (hint: you can use [this lesson](http://frontend.turing.edu/lessons/module-1/git-and-github.html#incorporating-github) from Mod 1)
+4. Initialize git and push your repo to GitHub (hint: you can use [this lesson](http://frontend.thestackcollective.org/lessons/module-1/git-and-github.html#incorporating-github) from Mod 1)
 
 ## Vocab
 

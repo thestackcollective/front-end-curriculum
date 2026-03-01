@@ -1,6 +1,9 @@
-title: "Front-End Engineering Curriculum - Turing School of Software and Design"
-description: "Open source curriculum for the Turing School of Software and Design's front end engineering program."
-url: "http://frontend.turing.io/"
+# title: "Front-End Engineering Curriculum - TheStackCollective School of Software and Design"
+title: "Front-End Engineering Curriculum - TheStackCollective"
+# description: "Open source curriculum for the TheStackCollective School of Software and Design's front end engineering program."
+description: "Open source curriculum for the TheStackCollective's front end engineering program."
+# url: "http://frontend.thestackcollective.org/"
+url: "http://frontend.thestackcollective.org/"
 
 baseurl: ''
 permalink: /:title

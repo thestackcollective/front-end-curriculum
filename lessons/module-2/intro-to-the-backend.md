@@ -55,7 +55,7 @@ Now, let's drop down to the bottom of the file and break down this line of code:
 app.listen(port, () => console.log(`Listening on port ${port}`)
 ```
 
-- Based on the previous lesson, [how the web works](https://frontend.turing.edu/lessons/module-2/how-the-web-works.html){:target='blank'}, what do you think the app is listening for?
+- Based on the previous lesson, [how the web works](https://frontend.thestackcollective.org/lessons/module-2/how-the-web-works.html){:target='blank'}, what do you think the app is listening for?
 - What arguments does this method take?  What do you think a port is?
 - Try running `node index.js` and note what you see in the terminal.
 </section>
@@ -98,7 +98,7 @@ This is known as a **request handler**.  Let's break this down and explore what 
 * What arguments does `app.get` take?
 1. Run `node index.js` in your terminal and visit [localhost:3000/welcome](http://localhost:3000/welcome){:target='blank'}.
 2. Now visit [localhost:3000/yolo](http://localhost:3000/yolo){:target='blank'}.  Do you see anything different?
-3. Reviewing [how the web works](https://frontend.turing.edu/lessons/module-2/how-the-web-works.html){:target='blank'}, what do you think the `request` and `response` parameters are for?
+3. Reviewing [how the web works](https://frontend.thestackcollective.org/lessons/module-2/how-the-web-works.html){:target='blank'}, what do you think the `request` and `response` parameters are for?
 4. Diving deeper, in your own words describe what `response.send` is doing.  Change the string to be an object including your name, birthday, and favorite quote.  Visit [localhost:3000/welcome](http://localhost:3000/welcome){:target='blank'} once more and see if anything different happens.
 </section>
 

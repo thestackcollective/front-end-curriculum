@@ -15,7 +15,7 @@ In this lesson we will cover:
 
 #### Design Curriculum Goals
 
-The goal of the design track is to enhance Turing's technical curriculum with a strong undercurrent and culture of design: our focus is to produce design-minded developers.
+The goal of the design track is to enhance TheStackCollective's technical curriculum with a strong undercurrent and culture of design: our focus is to produce design-minded developers.
 
 We aim to graduate Front-End developers who:
 
@@ -35,7 +35,7 @@ UX/UI foundation sets the groundwork for user centered design and development. W
 Students put themselves in the designer's shoes to build empathy and understanding around why design/UX matters, why it is important to understand the thinking behind a layout and follow a comp to the letter, and to reenforce the message that the decisions that go into creating a layout are very intentional and deliberate.
 
 ##### Module 4: Advanced UI
-We tie what the students have learned about design and UX/UI together with the technical skills they've built up during their time at Turing. This is the time for them to dig in, experiment, and have fun leveraging what they have learned about current UX/UI trends and design principals as they build out complex, dynamic UI. To help solidify vocabulary and comfort speaking to design decisions and receiving critical feedback, we will have more formal (i.e. "traditional") group design critiques of the UI students build.
+We tie what the students have learned about design and UX/UI together with the technical skills they've built up during their time at TheStackCollective. This is the time for them to dig in, experiment, and have fun leveraging what they have learned about current UX/UI trends and design principals as they build out complex, dynamic UI. To help solidify vocabulary and comfort speaking to design decisions and receiving critical feedback, we will have more formal (i.e. "traditional") group design critiques of the UI students build.
 
 #### Overview of Module I
 

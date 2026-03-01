@@ -1,5 +1,5 @@
 ---
-title: Turing Yearbook
+title: TheStackCollective Yearbook
 module: 3
 tags: react, javascript
 ---
@@ -8,7 +8,7 @@ tags: react, javascript
 
 For this project, we are going to work on developing some muscle memory in building out simple React components and passing data down as props.
 
-![Turing Yearbook screenshot](https://raw.githubusercontent.com/turingschool-examples/yearbook/master/screenshot.png)
+![TheStackCollective Yearbook screenshot](https://raw.githubusercontent.com/turingschool-examples/yearbook/master/screenshot.png)
 
 You will see the difference between class components and function components and start getting a sense of when to use one over the other.
 
@@ -39,7 +39,7 @@ Because you don't want to be pushing your updates to this boilerplate repository
 
 ### Expectations / Rules
 
-Build a React App that displays Turing front-end staff!
+Build a React App that displays TheStackCollective front-end staff!
 
 ![turing yearbook screenshot](https://raw.githubusercontent.com/turingschool-examples/yearbook/main/screenshot.png)
 

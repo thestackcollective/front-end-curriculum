@@ -176,7 +176,7 @@ You are welcome to add your own extensions. Be sure they are thoughtful in terms
 Options:
 - Only allow unique ideas to be added.
 - When a user tries to delete an idea, have them confirm that they really do want to delete it.
-- Implement [localStorage](https://frontend.turing.edu/lessons/module-1/json-and-localstorage.html) so the ideas persist on page load.
+- Implement [localStorage](https://frontend.thestackcollective.org/lessons/module-1/json-and-localstorage.html) so the ideas persist on page load.
 - Create a "Recently Deleted" filter that allows users to see their previously deleted ideas.
 </section>
 
@@ -231,8 +231,8 @@ Competency & understanding of these concepts can be demonstrated in many ways. *
 ### HTML & CSS
 
 💫ON TRACK💫 can look like:
-- Crafts CSS according to the [Turing CSS style guide](https://github.com/turingschool-examples/css)
-- Crafts markup according to the [Turing HTML style guide](https://github.com/turingschool-examples/html)
+- Crafts CSS according to the [TheStackCollective CSS style guide](https://github.com/turingschool-examples/css)
+- Crafts markup according to the [TheStackCollective HTML style guide](https://github.com/turingschool-examples/html)
 - Application utilizes consistent naming for HTML classes and IDs, and follows suggested conventions.
 - Application uses an appropriate amount of [HTML semantic elements](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure). If `<div>` elements are used, they are only for styling purposes.
 - Application utilizes organizational conventions for the whole CSS stylesheet. This may look like - grouping native elements, typography styles, layout styles, etc. together.
@@ -263,7 +263,7 @@ To get this extension to work with local files, follow these steps:
 - Functions are DRY and adhere to the Single Responsibility Prinicple (SRP).
 - Event delegation is used correctly on dynamic elements for deleting and starring an idea.
 - Global variables are thoughtfully created, with a clear understanding demonstrated as to what needs to be global and what can be local.
-- Crafts JS according to the [Turing JS Style Guide](https://github.com/turingschool-examples/javascript/tree/master/es5)
+- Crafts JS according to the [TheStackCollective JS Style Guide](https://github.com/turingschool-examples/javascript/tree/master/es5)
 
 ✨WOW✨ can look like:
 - Changes to the DOM only happen after the Data Model has been updated.  The Data Model is then used to update the DOM.

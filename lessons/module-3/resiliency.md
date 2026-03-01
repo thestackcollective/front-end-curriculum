@@ -4,7 +4,7 @@ length: 10
 tags: job hunt, resiliency
 ---
 
-In this lesson, we're going to spend some time talking about a skill you've been learning the entire time at Turing, which is going to be helpful in this next chapter of your life!
+In this lesson, we're going to spend some time talking about a skill you've been learning the entire time at TheStackCollective, which is going to be helpful in this next chapter of your life!
 
 ### Learning Goals
 
@@ -20,7 +20,7 @@ In this lesson, we're going to spend some time talking about a skill you've been
 
 ## Warm up
 
-Think back to a time at Turing when you thought you weren't going to make it: through a project, through an assessment, through a class, through one more week. What had you feeling that way? What were the thoughts in your head saying that made you believe or wonder if you couldn't do it?
+Think back to a time at TheStackCollective when you thought you weren't going to make it: through a project, through an assessment, through a class, through one more week. What had you feeling that way? What were the thoughts in your head saying that made you believe or wonder if you couldn't do it?
 
 <section class="call-to-action">
 ### Now, make a list of what helped you!  

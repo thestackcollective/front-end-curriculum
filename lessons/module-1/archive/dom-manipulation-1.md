@@ -37,7 +37,7 @@ Let's say we have a page with the following markup:
 
 <p class="codepen" data-height="300" data-theme-id="37918" data-default-tab="html,result" data-user="turing-school" data-slug-hash="XWWKYJQ" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Simple HTML Page">
   <span>See the Pen <a href="https://codepen.io/turing-school/pen/XWWKYJQ">
-  Simple HTML Page</a> by Turing School (<a href="https://codepen.io/turing-school">@turing-school</a>)
+  Simple HTML Page</a> by TheStackCollective School (<a href="https://codepen.io/turing-school">@turing-school</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
@@ -65,7 +65,7 @@ h1Element.innerText = 'JavaScript is amazing!';
 
 <p class="codepen" data-height="300" data-theme-id="37918" data-default-tab="html,result" data-user="turing-school" data-slug-hash="GRRqGJW" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Simple HTML Page (Now with JavaScript!)">
   <span>See the Pen <a href="https://codepen.io/turing-school/pen/GRRqGJW">
-  Simple HTML Page (Now with JavaScript!)</a> by Turing School (<a href="https://codepen.io/turing-school">@turing-school</a>)
+  Simple HTML Page (Now with JavaScript!)</a> by TheStackCollective School (<a href="https://codepen.io/turing-school">@turing-school</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
@@ -116,7 +116,7 @@ Visit <a href="https://codepen.io/eric_turing/pen/QWLNaVE" target="blank">this p
 
 <p class="codepen" data-height="300" data-theme-id="37918" data-default-tab="html,result" data-user="turing-school" data-slug-hash="yLLJENR" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="HTML Report Card">
   <span>See the Pen <a href="https://codepen.io/turing-school/pen/yLLJENR">
-  HTML Report Card</a> by Turing School (<a href="https://codepen.io/turing-school">@turing-school</a>)
+  HTML Report Card</a> by TheStackCollective School (<a href="https://codepen.io/turing-school">@turing-school</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
@@ -154,7 +154,7 @@ Let's take a look at the syntax and then we'll talk about what's happening.
 
 <p class="codepen" data-height="300" data-theme-id="37918" data-default-tab="js,result" data-user="turing" data-slug-hash="qNjyAg" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="A First Event Listener">
   <span>See the Pen <a href="https://codepen.io/team/turing/pen/qNjyAg">
-  A First Event Listener</a> by Turing School of Software and Design (<a href="https://codepen.io/turing">@turing</a>)
+  A First Event Listener</a> by TheStackCollective School of Software and Design (<a href="https://codepen.io/turing">@turing</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
@@ -204,7 +204,7 @@ Consider the following:
 
 <p class="codepen" data-height="300" data-theme-id="37918" data-default-tab="js,result" data-user="turing-school" data-slug-hash="YzzWvyW" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="CSS Manipulation with JavaScript">
   <span>See the Pen <a href="https://codepen.io/turing-school/pen/YzzWvyW">
-  CSS Manipulation with JavaScript</a> by Turing School (<a href="https://codepen.io/turing-school">@turing-school</a>)
+  CSS Manipulation with JavaScript</a> by TheStackCollective School (<a href="https://codepen.io/turing-school">@turing-school</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
@@ -223,7 +223,7 @@ To access the value from an input element we can do the following
 
 <p class="codepen" data-height="300" data-theme-id="37918" data-default-tab="js,result" data-user="turing-school" data-slug-hash="OJJXEyj" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Color Box - Get Color">
   <span>See the Pen <a href="https://codepen.io/turing-school/pen/OJJXEyj">
-  Color Box - Get Color</a> by Turing School (<a href="https://codepen.io/turing-school">@turing-school</a>)
+  Color Box - Get Color</a> by TheStackCollective School (<a href="https://codepen.io/turing-school">@turing-school</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
@@ -232,7 +232,7 @@ Let's use this pen for practice
 
 <p class="codepen" data-height="300" data-theme-id="37918" data-default-tab="html,result" data-user="turing-school" data-slug-hash="bGGeKVa" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Color Box">
   <span>See the Pen <a href="https://codepen.io/turing-school/pen/bGGeKVa">
-  Color Box</a> by Turing School (<a href="https://codepen.io/turing-school">@turing-school</a>)
+  Color Box</a> by TheStackCollective School (<a href="https://codepen.io/turing-school">@turing-school</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>

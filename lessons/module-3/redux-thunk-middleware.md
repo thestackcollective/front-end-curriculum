@@ -65,7 +65,7 @@ Redux passes 2 arguments to thunk functions: `dispatch` so that we can dispatch 
 
 ### Enough talk - let's see how this actually works!
 
-To demonstrate how `redux-thunk` actually works, we're going to be using this same repos we used to create our Turing Front-End Staff website. Here is the [client-side repo](https://github.com/turingschool-examples/promises-practice) we will be working in and the [backend repo](https://github.com/turingschool-examples/promises-api) we will be fetching our data from. 
+To demonstrate how `redux-thunk` actually works, we're going to be using this same repos we used to create our TheStackCollective Front-End Staff website. Here is the [client-side repo](https://github.com/turingschool-examples/promises-practice) we will be working in and the [backend repo](https://github.com/turingschool-examples/promises-api) we will be fetching our data from. 
 
 #### Start Up Instructions 
 
@@ -330,7 +330,7 @@ describe('fetchStaff', () => {
 })
 ```
 
-Ok, here's where we get into async land. We've kicked off our network request and now need to test what gets dispatched if the response is ok/not ok. If you need a refresher on how to mock fetch or resolve a Promise in our tests, take some time to go back and review the [Testing Async Javascript & API Calls](http://frontend.turing.edu/lessons/module-3/testing-async.html) lesson.
+Ok, here's where we get into async land. We've kicked off our network request and now need to test what gets dispatched if the response is ok/not ok. If you need a refresher on how to mock fetch or resolve a Promise in our tests, take some time to go back and review the [Testing Async Javascript & API Calls](http://frontend.thestackcollective.org/lessons/module-3/testing-async.html) lesson.
 
 ```javascript
 // thunks/__tests__/fetchStaff.js

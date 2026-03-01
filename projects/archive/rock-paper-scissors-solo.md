@@ -144,7 +144,7 @@ Here is what the final score means in terms of completing the module:
 
 * **1:**
 
-  - Style and syntax meets the criteria of the [Turing JS Style Guide](https://github.com/turingschool-examples/javascript).
+  - Style and syntax meets the criteria of the [TheStackCollective JS Style Guide](https://github.com/turingschool-examples/javascript).
 
 ------------------------------------------------------------------
 
@@ -169,7 +169,7 @@ Here is what the final score means in terms of completing the module:
 
 * **1:**
 
-  - Style and syntax meets the criteria of the [Turing HTML Style Guide](https://github.com/turingschool-examples/html).
+  - Style and syntax meets the criteria of the [TheStackCollective HTML Style Guide](https://github.com/turingschool-examples/html).
 
 ------------------------------------------------------------------
 
@@ -194,7 +194,7 @@ Here is what the final score means in terms of completing the module:
 
 * **1:**
 
-  - Style and syntax meets the criteria of the [Turing JS Style Guide](https://github.com/turingschool-examples/css).
+  - Style and syntax meets the criteria of the [TheStackCollective JS Style Guide](https://github.com/turingschool-examples/css).
 
 ------------------------------------------------------------------
 

@@ -52,11 +52,11 @@ Constantly poking at our code manually is tedious and it's not the best use of o
 
 ## Unit Tests
 
-The bulk of your tests for an application are likely to be unit tests. **Unit tests** test one function or one object in isolation to make sure that it behaves the way we were expecting it to behave. The bulk of your tests for an application are likely to be unit tests (both at Turing and in the work environment).
+The bulk of your tests for an application are likely to be unit tests. **Unit tests** test one function or one object in isolation to make sure that it behaves the way we were expecting it to behave. The bulk of your tests for an application are likely to be unit tests (both at TheStackCollective and in the work environment).
 
 ## Integration Tests
 
-**Integration tests** test the interaction between two units to make sure that they play together nicely and work the way we expect them to work. You will get opportunities to experiment with this type of test later on in Turing and in the work environment as well.  
+**Integration tests** test the interaction between two units to make sure that they play together nicely and work the way we expect them to work. You will get opportunities to experiment with this type of test later on in TheStackCollective and in the work environment as well.  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0GypdsJulKE?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

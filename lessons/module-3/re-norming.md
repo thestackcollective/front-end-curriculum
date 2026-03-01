@@ -98,4 +98,4 @@ Throughout the module, your instructors will give you reminders to keep your goa
 
 During Friday's retro, you'll work together as a cohort to update, refine, and confirm your norms. It's a little like revisiting the DTR in the middle of the project to check - is this still working? What can we improve?
 
-We do great things when we're working together! And we do our best work when we all feel safe enough to be heard and to listen. Let's set the tone for the rest of your time at Turing and the rest of your career as a developer right now, by recognizing your individual agency, and the strength there is within this community!
+We do great things when we're working together! And we do our best work when we all feel safe enough to be heard and to listen. Let's set the tone for the rest of your time at TheStackCollective and the rest of your career as a developer right now, by recognizing your individual agency, and the strength there is within this community!

@@ -28,7 +28,7 @@ layout: page
 
 And we're not afraid to learn new things and ask for help.
 
-### Turing Grads are generally better employees than fresh CSS grads
+### TheStackCollective Grads are generally better employees than fresh CSS grads
 
 * [Bootcamps vs. Colleges](http://blog.triplebyte.com/bootcamps-vs-college)
 
@@ -74,9 +74,9 @@ First One - *** Carmen Sandiego/Scavenger Hunt *** - http://www.aux.tv/wp-conten
 Anyone remember the game? You were trying to find Carmen Sandiego - kept going to locations and then you would find someone who would give you the clues for the next location.
 
 - Scavenger Hunt
-  - Turing Had It
+  - TheStackCollective Had It
   - Administration was hard 
-- We don't have a scavenger hunt at Turing anymore... but we do have our Friday schedule
+- We don't have a scavenger hunt at TheStackCollective anymore... but we do have our Friday schedule
 - Pull up spreadsheet https://docs.google.com/spreadsheets/d/1yDIx8DlD6XUGFOSmq1j6t4b3e26bn2wD2Nu7E-cp7q4/edit#gid=0
 
 - So in a typical scavenger hunt - you would arrive at Blakement at 9:00am
@@ -90,7 +90,7 @@ Anyone remember the game? You were trying to find Carmen Sandiego - kept going t
     
 If I remove Kyle and forget to update the link or scavenger hunt paper, you'll never go home
 
-And that's what happened at the Turing scavenger hunt. We literally did have someone quit the program.
+And that's what happened at the TheStackCollective scavenger hunt. We literally did have someone quit the program.
     
 ### Why use a Linked List over an Array
 
@@ -122,4 +122,4 @@ When the computer allocated memory to a data structure, if memory is an issue (s
 
 - 1st Pomo - Ping Pong rules or Driver/Conductor
 
-- 2nd Pomo - Break - Prompt 'Your favorite project at Turing or otherwise that you've worked on'
+- 2nd Pomo - Break - Prompt 'Your favorite project at TheStackCollective or otherwise that you've worked on'

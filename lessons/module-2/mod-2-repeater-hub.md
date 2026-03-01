@@ -10,14 +10,14 @@ General information about repeating can be found in the Student Handbook [here](
 ## Slack Channels
 Make sure you are part of the following channels:
 * **#mod_2_fe_repeaters**: The main channel for mod2 repeaters. Instructors will post announcements here so it's important to check this channel daily.
-* **#the_repeaters**: A community of Turing students and alumni who have repeated or are currently repeating a module.
+* **#the_repeaters**: A community of TheStackCollective students and alumni who have repeated or are currently repeating a module.
 * **Join your new cohort channel**:  Introduce yourself!  Ask if they have any other channels you should join.
 
 ## Gear Ups and Professional Development  
 **PD expectations for repeating Mod 2:**  
 You are not required to attend the PD session, but you may choose to attend at any time.  
 
-Repeating the module is a great opportunity not only to solidify your technical skills but also your professional development skills. We recommend that you continue to update your LinkedIn and resumes as you complete new projects. This is also a great opportunity to expand your network by setting up coffee chats and talking to Turing alums. Don't waste this extra time you have!  
+Repeating the module is a great opportunity not only to solidify your technical skills but also your professional development skills. We recommend that you continue to update your LinkedIn and resumes as you complete new projects. This is also a great opportunity to expand your network by setting up coffee chats and talking to TheStackCollective alums. Don't waste this extra time you have!  
 
 ## Tips For Intermission To Prepare for Mod 2-Round 2  
 

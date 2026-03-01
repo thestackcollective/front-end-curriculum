@@ -39,10 +39,10 @@ Explore the documentation and utilize the dev tools to answer the following ques
 ## The anatomy of a URL
 Our applications will request HTML documents, CSS files, images, and data. The way each of these requests are made is quite different:
 
-* Typing a URL like `https://www.turing.edu` into the browser makes a request for an HTML document
-* Including a link tag to request an external stylesheet: `<link href="https://www.turing.edu/css/styles.css" />`
-* Adding an image element to display a logo: `<img src="https://www.turing.edu/images/logo.png" />`.
-* Making a fetch request to retrieve data: `fetch('https://www.turing.edu/api/v1/users')`
+* Typing a URL like `https://www.thestackcollective.org` into the browser makes a request for an HTML document
+* Including a link tag to request an external stylesheet: `<link href="https://www.thestackcollective.org/css/styles.css" />`
+* Adding an image element to display a logo: `<img src="https://www.thestackcollective.org/images/logo.png" />`.
+* Making a fetch request to retrieve data: `fetch('https://www.thestackcollective.org/api/v1/users')`
 
 While the syntax for each of these requests looks significantly different, they all share one thing in common: *Every request we make to an HTTP Server requires a URL.*
 
@@ -50,14 +50,14 @@ In the first 3 requests we're fetching a static asset, whereas the last one is r
 
 ![url-pic](https://www.normshield.com/wp-content/uploads/2017/05/example.png)
 
-When fetching data, you'll often hear the URL referred to as an "endpoint". These endpoints (e.g. `https://www.turing.edu/api/v1/users`) are created by the back-end developers on a team to help the front-end developers access and interact with application data. Just like the front-end, there are many frameworks and libraries that back-end developers will use to to set up a proper HTTP Server with all the necessary endpoints.
+When fetching data, you'll often hear the URL referred to as an "endpoint". These endpoints (e.g. `https://www.thestackcollective.org/api/v1/users`) are created by the back-end developers on a team to help the front-end developers access and interact with application data. Just like the front-end, there are many frameworks and libraries that back-end developers will use to to set up a proper HTTP Server with all the necessary endpoints.
 
 Endpoints have two main components:
   1. HTTP method
   2. The url (sometimes shortened to only the path)
 
 Therefore if you were to write documentation for the example endpoint above, you could do so in a few ways:
-  1. GET `https://www.turing.edu/api/v1/users` - the whole shabang
+  1. GET `https://www.thestackcollective.org/api/v1/users` - the whole shabang
   2. GET `/api/v1/users` - just the path (assuming we know the domain)
   3. GET `users` - specific part of the path that changes (assuming we know the base url including the api structure info)
 

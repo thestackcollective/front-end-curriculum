@@ -252,7 +252,7 @@ Color, font, and icon spec:
 *  **4:** Codebase follows [BEM](http://getbem.com/), [SMACCS](https://smacss.com/), or another set of naming conventions for classes
 *  **3:** Codebase does not contain repetitive rules and blocks of code according to the DRY principle
 *  **2:** Application has intentional organization for the whole stylesheet and within rules
-*  **1:** Crafts CSS according to the [Turing CSS Style Guide](https://github.com/turingschool-examples/css)
+*  **1:** Crafts CSS according to the [TheStackCollective CSS Style Guide](https://github.com/turingschool-examples/css)
 
 ------------------------------------------------------------------
 
@@ -269,4 +269,4 @@ Color, font, and icon spec:
   * There are no global variables aside from query selectors and an array for your to-dos
   * Uses event delegation correctly on dynamic elements for deleting, checking tasks off, and marking a to-do urgent
 * **2:** Application correctly implements data model for the `ToDoList` class including all required methods
-* **1:** Crafts JS according to the [Turing JS Style Guide](https://github.com/turingschool-examples/javascript/tree/master/es5)
+* **1:** Crafts JS according to the [TheStackCollective JS Style Guide](https://github.com/turingschool-examples/javascript/tree/master/es5)

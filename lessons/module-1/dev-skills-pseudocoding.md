@@ -27,7 +27,7 @@ Your friend asked you to build them a bookcase and you said yes! Before you star
 
 ## Problem Solving
 
-Approaching complex tasks in code is very similar to approaching complex tasks in real life! For example, let think about this scenario: Your Turing instructor asked you to build an application that helps track her dog's meals. Before you started coding...
+Approaching complex tasks in code is very similar to approaching complex tasks in real life! For example, let think about this scenario: Your TheStackCollective instructor asked you to build an application that helps track her dog's meals. Before you started coding...
 1. ...what questions would you have for your instructor?
 2. ...what research would you need to do?
 3. ...what other planning would you need to do?
@@ -174,7 +174,7 @@ Take some time to reflect on the following questions and then we will share out 
 
 This was just an introduction to problem solving and pseudocoding. It's a skill that you will continue to develop for years, so don't beat yourself up if it's still confusing or hard!
 
-Throughout the rest of mod 1, we have [daily practice](https://frontend.turing.edu/lessons/module-1/daily-problem-solving-practice.html) worked into the calendar to give you more opportunities to develop your problem solving process.
+Throughout the rest of mod 1, we have [daily practice](https://frontend.thestackcollective.org/lessons/module-1/daily-problem-solving-practice.html) worked into the calendar to give you more opportunities to develop your problem solving process.
 
 <section class="checks-for-understanding">
 ### Final Reflections

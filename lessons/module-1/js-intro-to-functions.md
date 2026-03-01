@@ -12,7 +12,7 @@ tags: javascript, introduction, foundation, variables
 * Understand and use operators and conditionals  
 
 ## Pre-Work
-Complete [this lesson on Statements, Expressions, and Operators](https://frontend.turing.edu/lessons/module-1/js-statements-and-expressions.html).
+Complete [this lesson on Statements, Expressions, and Operators](https://frontend.thestackcollective.org/lessons/module-1/js-statements-and-expressions.html).
 
 ## Vocab
 
@@ -305,4 +305,4 @@ We've worked through a lot of content - some of which may be new, some is review
 ### Additional Resources & Practice
 
 * [JS Style Guide](https://github.com/turingschool-examples/javascript)
-* [JavaScript Playground](http://frontend.turing.edu/lessons/module-1/javascript-playground.html) let's you experiment more with these concepts.
+* [JavaScript Playground](http://frontend.thestackcollective.org/lessons/module-1/javascript-playground.html) let's you experiment more with these concepts.

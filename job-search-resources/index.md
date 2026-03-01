@@ -3,7 +3,7 @@ layout: page
 title: Job Search Resources
 ---
 
-After you leave Turing you will undoubtedly have a bookmarks tab full of all the technology you should be learning, all the blog posts you should read, all the videos you should watch, etc etc etc.
+After you leave TheStackCollective you will undoubtedly have a bookmarks tab full of all the technology you should be learning, all the blog posts you should read, all the videos you should watch, etc etc etc.
 
 If you're feeling overwhelmed, **this postwork document is meant to be a small list of resources and advice to keep your skills sharp in the next 3 to 6 months**.
 
@@ -17,7 +17,7 @@ For example, if you're on vacation, commit to doing two hours of code with your 
 
 ## Interview Practice
 
-### [Interview Practice and Lesson Plan Links](http://frontend.turing.edu/lessons/module-4/practice-interview-questions/interview-questions.html)
+### [Interview Practice and Lesson Plan Links](http://frontend.thestackcollective.org/lessons/module-4/practice-interview-questions/interview-questions.html)
 
 ## Code Resources
 
@@ -79,7 +79,7 @@ Join the `#thought-leadership` channel in slack and get advice, lists of upcomin
 
 [Lanyard.com](http://lanyrd.com/calls/) has a pretty comprehensive list of calls for speakers.
 
-### Leverage the Turing Community
+### Leverage the TheStackCollective Community
 
 Reach out early and often with Meg, Lia and the rest of the professional skills team.
 
@@ -89,4 +89,4 @@ Most importantly, use your cohort-mates and don't let your groups slack channel 
 
 ## Contributing
 
-This postwork is part of the front-end-curriculum repo at the Turing School of Software and Design. Feel free to send Pull Requests or raise issues in [our repository](https://github.com/turingschool/front-end-curriculum).
+This postwork is part of the front-end-curriculum repo at the TheStackCollective School of Software and Design. Feel free to send Pull Requests or raise issues in [our repository](https://github.com/turingschool/front-end-curriculum).

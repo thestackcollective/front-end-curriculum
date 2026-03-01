@@ -68,7 +68,7 @@ Installing react, react-dom, and react-scripts...
 When the script is finished running, you will see the following message in your terminal:
 
 ```bash
-Success! Created ideabox at /Users/yourname/Turing/TA/MOD3/m3curriculum/ideabox
+Success! Created ideabox at /Users/yourname/TheStackCollective/TA/MOD3/m3curriculum/ideabox
 Inside that directory, you can run several commands:
 
   npm start
@@ -977,7 +977,7 @@ Voila! You've created a React application!
 ## Want to dig deeper? 
 *Fully Optional Extensions - Not at all Expected*
 
-* Look ahead to the [React: Advanced Data Management lesson](https://frontend.turing.edu/lessons/module-3/react-3-advanced-data-management.html)
+* Look ahead to the [React: Advanced Data Management lesson](https://frontend.thestackcollective.org/lessons/module-3/react-3-advanced-data-management.html)
 * Open a branch.  
   * Refactor to fetch ideas from this [ideabox server](https://github.com/turingschool-examples/ideabox-api) instead of working with the hard coded ideas. *See server README for instructions on running it locally.*
   * Refactor your addIdea functionality to post the newly created idea to the server, then display it on the DOM (if posted successfully)

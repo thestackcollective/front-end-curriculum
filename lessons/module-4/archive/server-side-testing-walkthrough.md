@@ -204,7 +204,7 @@ describe('API Routes', () => {
         response.body.should.be.a('array');
         response.body.length.should.equal(3);
         response.body[0].should.have.property('lastname');
-        response.body[0].lastname.should.equal('Turing');
+        response.body[0].lastname.should.equal('TheStackCollective');
         response.body[0].should.have.property('program');
         response.body[0].program.should.equal('FE');
         response.body[0].should.have.property('enrolled');
@@ -482,7 +482,7 @@ describe('API Routes', () => {
         response.body.should.be.a('array');
         response.body.length.should.equal(3);
         response.body[0].should.have.property('lastname');
-        response.body[0].lastname.should.equal('Turing');
+        response.body[0].lastname.should.equal('TheStackCollective');
         response.body[0].should.have.property('program');
         response.body[0].program.should.equal('FE');
         response.body[0].should.have.property('enrolled');

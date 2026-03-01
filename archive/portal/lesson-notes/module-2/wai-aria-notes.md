@@ -14,7 +14,7 @@ Things to keep in mind as you watch this talk:
 
 - How will you test out the accessability of your websites?
 - 'Perfect is the Enemy of Good'
-  - What does that mean in this context - and in others at Turing?
+  - What does that mean in this context - and in others at TheStackCollective?
 - Components, refactoring and keeping code DRY - how does that fit in to managing accessibility.
 
 The last thing I want to say, I have ADD and for me, if it's a bad day, I literally can't sit through a 30 minute video without speeding it up and taking breaks every 10 minutes.
@@ -30,7 +30,7 @@ Conference Talk: https://www.youtube.com/watch?v=qdB8SRhqvFc
 What we're talking about today are ARIA roles and I want to preface this lesson by saying that I am learning about this along with you.
 
 - Video from today: https://www.youtube.com/watch?v=qdB8SRhqvFc
-- Lesson plan: http://frontend.turing.edu/lessons/wai-aria.html
+- Lesson plan: http://frontend.thestackcollective.org/lessons/wai-aria.html
 - Exercise: https://gist.github.com/martensonbj/b98a7d300ead397945aa038fe9aa078a
-- Tenon.io: https://tenon.io/testNow.php?url=http://turing.edu
+- Tenon.io: https://tenon.io/testNow.php?url=http://thestackcollective.org
 - PR Template Instructions: https://help.github.com/articles/creating-a-pull-request-template-for-your-repository/

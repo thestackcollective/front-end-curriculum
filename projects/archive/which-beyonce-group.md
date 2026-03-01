@@ -217,7 +217,7 @@ The topic does not have to be Beyonce. Besides assets and name of app, however, 
 * **4:** Application uses BEM, SMACCS or another set of **naming conventions** for classes; all developers can explain those naming conventions. The form uses **WAI-ARIA** and is fully accessible.
 * **3:** Application uses markup that is **easy to read** and follows across **naming conventions**.
 * **2:** Application uses markup that incorporates **semantic HTML** elements and has a simple, clean HTML structure.
-* **1:** Application uses markup that meets the criteria of the [Turing HTML Style Guide](https://github.com/turingschool-examples/html).
+* **1:** Application uses markup that meets the criteria of the [TheStackCollective HTML Style Guide](https://github.com/turingschool-examples/html).
 
 ## JavaScript
 
@@ -246,5 +246,5 @@ The topic does not have to be Beyonce. Besides assets and name of app, however, 
 
 * **1:**
 
-  - Style and syntax meets the criteria of the [Turing JS Style Guide](https://github.com/turingschool-examples/javascript/tree/master/es5).
+  - Style and syntax meets the criteria of the [TheStackCollective JS Style Guide](https://github.com/turingschool-examples/javascript/tree/master/es5).
   - **Function declarations** are used over anonymous functions in event listeners.

@@ -27,7 +27,7 @@ Some things to take note of:
 - The `viewBox` attribute is used for scaling SVG. It allows you to change the actual width and height of the SVG without having to change all of the values of the child elements.
 - SVG looks suspiciously like HTML, but SVG elements technically a different class (`SVGElement` versus `HTMLElement`). Most of the time you can ignore this fact, but sometimes it will bite you. For example, SVGs have special CSS properties (e.g. `fill`) which aren't available for regular HTML nodes. The same is true in reverse.
 
-### Turing It Into a Component
+### TheStackCollective It Into a Component
 
 What if we wanted to "React-ify" this SVG in order to use it as a custom component?
 

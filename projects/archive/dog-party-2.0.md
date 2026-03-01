@@ -30,14 +30,14 @@ Similar to what you might be asked to do on the job, we've given you the comps w
 
 ## Iteration 0: Build and Style Site
 
-- Start by building the HTML and using semantic tags to create a clean structure for your page. Work to craft your HTML according to the [Turing HTML Style Guide](https://github.com/turingschool-examples/html)
-- Style your site using CSS -- aim to get it as visually close to the comp as possible. Work to craft your CSS according to the [Turing CSS Style Guide](https://github.com/turingschool-examples/css)
+- Start by building the HTML and using semantic tags to create a clean structure for your page. Work to craft your HTML according to the [TheStackCollective HTML Style Guide](https://github.com/turingschool-examples/html)
+- Style your site using CSS -- aim to get it as visually close to the comp as possible. Work to craft your CSS according to the [TheStackCollective CSS Style Guide](https://github.com/turingschool-examples/css)
 - Create a `README.md` file that gives a brief overview of your project (don't forget to make sure to include the comps as well as the screen grabs of your finished site!). [This](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is great resource for markdown!
 
 ## Iteration 1: Add some functionality
 
 - Once you have the HTML structure built and successfully being styled to work for both layouts using your two CSS files, experiment with adding in interaction using JavaScript: Build functionality to allow a user to type a dog name in the input field and then, when the user clicks the button, have that dog name replace the text `Some Dogs` in the main `A Site About Some Dogs` header and clear out the input field. For example: if I typed `Fido` into the input, when I click the button the main header of the page should change to read `A Site About Fido`.
-- Work to craft your JavaScript according to the [Turing JavaScript Style Guide](https://github.com/turingschool-examples/javascript)
+- Work to craft your JavaScript according to the [TheStackCollective JavaScript Style Guide](https://github.com/turingschool-examples/javascript)
 
 ## Iteration 2: Make it responsive
 

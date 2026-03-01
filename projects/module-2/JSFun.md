@@ -39,12 +39,12 @@ The prototypes folder holds the practice exercises you will be using.
 - jsFun problems practice the skills you need for your M2 assessment but they are not necessarily structured exactly like the assessments.  You are honing these problem solving and technical skills so that you can be a strong developer, not just so that you can pass the M2 assessment.
 
 ### Extra Practice
-If you finish all of the practice in the repo, the Turing Staff created the following extra practice exercises:
+If you finish all of the practice in the repo, the TheStackCollective Staff created the following extra practice exercises:
 - [Gist of Leveled Practice](https://gist.github.com/kaylagordon/c1f62f2c43e27dee3c6176f4d54aa3b6)
 - [Replit Exercises #1](https://replit.com/@kaylaewood/iteratorpractice#index.js)
 - [Replit Exercises #2](https://replit.com/@kaylaewood/iteratorpractice2#index.js)
 
-A group of former students created [this bank of practice exercises](https://docs.google.com/spreadsheets/d/1R8imTyYD64FPWJ_mD5QlZI0ybyU1QNkm1ntJqRT7r7k/edit#gid=2076278354) called iron-FE.  Note that many students find these prompts very helpful but they are not managed by Turing instructors in any way. 
+A group of former students created [this bank of practice exercises](https://docs.google.com/spreadsheets/d/1R8imTyYD64FPWJ_mD5QlZI0ybyU1QNkm1ntJqRT7r7k/edit#gid=2076278354) called iron-FE.  Note that many students find these prompts very helpful but they are not managed by TheStackCollective instructors in any way. 
 
 ### Scope Folder
 - There is a folder called scope that contains exercises to help deepen your understanding of the M2 JS concept of...well, scope.   Consider this as helpful but *optional* practice if you want to more deeply understand scope.  These exercises are not essential practice for you to prepare for M2 assessments.

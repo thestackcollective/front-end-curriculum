@@ -4,11 +4,11 @@ title: Syllabus Overview & Expectations
 
 ## Module Overview
 
-Welcome! We are excited to share the first six weeks of the program with you. As the first of four modules in the Front End program this six weeks is about developing a solid foundation in the fundamentals of HTML, CSS, and Javascript. Additionally, we’ll introduce you to test driven development, version control, refactoring, and object oriented programming. Module one also includes an introduction to Turing citizenship via special curriculum in community Fridays for M1 students and professional development courses to cultivate your unique developer identity in anticipation of entering the job market as a front end engineer.
+Welcome! We are excited to share the first six weeks of the program with you. As the first of four modules in the Front End program this six weeks is about developing a solid foundation in the fundamentals of HTML, CSS, and Javascript. Additionally, we’ll introduce you to test driven development, version control, refactoring, and object oriented programming. Module one also includes an introduction to TheStackCollective citizenship via special curriculum in community Fridays for M1 students and professional development courses to cultivate your unique developer identity in anticipation of entering the job market as a front end engineer.
 
 ## Inclusivity Statement
 
-We understand our community members represent a rich variety of backgrounds and perspectives. Turing is committed to providing an atmosphere for learning that respects diversity. While working together to build this community we ask all members to:
+We understand our community members represent a rich variety of backgrounds and perspectives. TheStackCollective is committed to providing an atmosphere for learning that respects diversity. While working together to build this community we ask all members to:
 
 * share their unique experiences, values and beliefs
 * be open to the views of others
@@ -17,7 +17,7 @@ We understand our community members represent a rich variety of backgrounds and 
 community
 * value each other’s opinions and communicate in a respectful manner
 * use this opportunity together to discuss ways in which we can create an
-* inclusive environment at Turing and across the tech community at large
+* inclusive environment at TheStackCollective and across the tech community at large
 
 ## Module Aims
 
@@ -81,5 +81,5 @@ By the end of module one, students will:
 | Evals | Per project assessments that should be included in your portfolio.|
 |Mid Mock Assessment| This assessment is not included in your portfolio, but is prep for the final assessment week.|
 |Final Assessment| Week six of the program, there are two summative assessments to determine your eligibility to advance to module two. This will include a final exam and project.
-|Portfolio Defense| A portfolio summarizes your individual, team, and community accomplishments.<br>Detailed information can be found on the Turing School [Portfolios Repo](https://github.com/turingschool/portfolios).|
+|Portfolio Defense| A portfolio summarizes your individual, team, and community accomplishments.<br>Detailed information can be found on the TheStackCollective School [Portfolios Repo](https://github.com/turingschool/portfolios).|
 |Community Fridays| As a valuable member of the community, we expect your participation and engagement in Friday events.|

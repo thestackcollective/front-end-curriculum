@@ -15,7 +15,7 @@ In this project, you will be building on top of somebody else's pre-existing Wha
 
 * Sass
 * Fetch
-* [Webpack](https://frontend.turing.edu/lessons/module-2/build-processes-with-npm-webpack.html){:target='blank'}
+* [Webpack](https://frontend.thestackcollective.org/lessons/module-2/build-processes-with-npm-webpack.html){:target='blank'}
 
 ---
 
@@ -48,7 +48,7 @@ This [article](https://survivejs.com/webpack/what-is-webpack/){:target='blank'} 
 <section class="answer">
 ### Notes on Webpack
 
-Webpack is a powerful tool, which you're encouraged to explore more (the Turing [Webpack lesson plan](https://frontend.turing.edu/lessons/module-2/build-processes-with-npm-webpack.html){:target='blank'} is a great place to start). But there are a few things that you should know when starting to work with it:
+Webpack is a powerful tool, which you're encouraged to explore more (the TheStackCollective [Webpack lesson plan](https://frontend.thestackcollective.org/lessons/module-2/build-processes-with-npm-webpack.html){:target='blank'} is a great place to start). But there are a few things that you should know when starting to work with it:
 
 1. You need to use [`import` / `export`](https://www.youtube.com/watch?v=_3oSWwapPKQ){:target='blank'} syntax
   - Note: This video goes into Babel and Rollup. Webpack handles the transpiling of our ESModules code into something the browser can read.
@@ -74,7 +74,7 @@ Webpack is a powerful tool, which you're encouraged to explore more (the Turing 
 
 ### Functionality
 
-You must complete all of the User Stories outlined in the [What's Cookin Spec](https://frontend.turing.edu/projects/whats-cookin.html){:target='blank'} that your project has yet to finish. Make sure you spend some time reviewing the spec to take note of features that might be unfinished.
+You must complete all of the User Stories outlined in the [What's Cookin Spec](https://frontend.thestackcollective.org/projects/whats-cookin.html){:target='blank'} that your project has yet to finish. Make sure you spend some time reviewing the spec to take note of features that might be unfinished.
 
 **NOTE: You must complete through iteration 4**
 
@@ -154,7 +154,7 @@ Any DOM updating functionality will then be imported into your `scripts.js` file
 
 ### Sass
 
-Refactor the existing CSS into Sass. You should break your Sass out into separate files. At a minimum, you will want an `index.scss` file that imports your partials, and a `variables.scss` file that contains any of your Sass variables or function definitions.  You should also include a [normalize or reset](https://frontend.turing.edu/lessons/module-1/reset-vs-normalize.html){:target='blank'} file to help with cross browser compatibility.  Identify common/re-used elements on your page to determine the remaining partials you might want.
+Refactor the existing CSS into Sass. You should break your Sass out into separate files. At a minimum, you will want an `index.scss` file that imports your partials, and a `variables.scss` file that contains any of your Sass variables or function definitions.  You should also include a [normalize or reset](https://frontend.thestackcollective.org/lessons/module-1/reset-vs-normalize.html){:target='blank'} file to help with cross browser compatibility.  Identify common/re-used elements on your page to determine the remaining partials you might want.
 
 Your Sass should be making use of:
 
@@ -187,7 +187,7 @@ In addition to your refactoring, you also want to make sure the application is f
 
 <section class="note">
 ## Strategies for Success
-* Make sure you are reviewing the original ["What's Cooking"](https://frontend.turing.edu/projects/whats-cookin.html) spec so you have a good idea for what the project and its requirements are.
+* Make sure you are reviewing the original ["What's Cooking"](https://frontend.thestackcollective.org/projects/whats-cookin.html) spec so you have a good idea for what the project and its requirements are.
 * Since this project is not separated out into iterations or user stories, make sure that you spending a good amount of time breaking apart tasks and using that project board wisely. Make sure to send over your project board to your PM as well.
 * Every group member must fully understand and be able to speak to all of the code changes that have been made.
 </section>

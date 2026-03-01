@@ -1,10 +1,10 @@
-Often times in interviews, you will be asked to provide a detailed description of a time you worked in a team. The strongest interviewers are able to provide a detailed account of the project and cite specific examples to highlight wins and/or struggles. At Turing, we want you to being crafting your portfolio of "experiences" so that you can have several examples you can speak to when you are interviewing.
+Often times in interviews, you will be asked to provide a detailed description of a time you worked in a team. The strongest interviewers are able to provide a detailed account of the project and cite specific examples to highlight wins and/or struggles. At TheStackCollective, we want you to being crafting your portfolio of "experiences" so that you can have several examples you can speak to when you are interviewing.
 
 Please create a private gist that highlights the prompts below. Take time to provide thoughtful and descriptive answers while the experience is still fresh in your mind so that you have a collection of reflections you can pull from when it is time to start interviewing!
 
 ## Abstract
 
-- In a few sentences, explain **what** the project was and the scope of your work. Imagine explaining your answer to a technical recruiter or a developer who you'd potentially be interviewing with who knows nothing about Turing.
+- In a few sentences, explain **what** the project was and the scope of your work. Imagine explaining your answer to a technical recruiter or a developer who you'd potentially be interviewing with who knows nothing about TheStackCollective.
 
 ## Overall (Choose One)
 
